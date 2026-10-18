@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Mandi Price Compare</title>
+  <style>
+    body { font-family: Arial, sans-serif; max-width: 800px; margin: 20px auto; padding: 0 16px; }
+    label { display: block; margin: 10px 0; font-weight: bold; }
+    select { display: block; width: 100%; padding: 8px; margin-top: 4px; font-size: 16px; }
+    .best { background: #e6f4ea; border-left: 5px solid #2e7d32; padding: 12px; margin: 16px 0; }
+    table { width: 100%; border-collapse: collapse; margin: 16px 0; }
+    th, td { border: 1px solid #ccc; padding: 8px; text-align: left; }
+    th { background: #f2f2f2; }
+    .note { color: #666; font-size: 14px; }
+  </style>
+</head>
+<body>
+  <h1>🌾 Mandi Price Compare</h1>
+
+  {% if not commodities %}
+    <p>No data found. Run load_data.py first.</p>
+  {% else %}
+    <form method="get">
+      <label>Crop
+        <select name="commodity" onchange="this.form.submit()">
+          {% for c in commodities %}
+            <option value="{{ c }}" {{ 'selected' if c == commodity }}>{{ c }}</option>
+          {% endfor %}
+        </select>
+      </label>
+      <label>Variety
+        <select name="variety" onchange="this.form.submit()">
+          {% for v in varieties %}
+            <option value="{{ v }}" {{ 'selected' if v == variety }}>{{ v }}</option>
+          {% endfor %}
+        </select>
+      </label>
+      <label>Grade
+        <select name="grade" onchange="this.form.submit()">
+          {% for g in grades %}
+            <option value="{{ g }}" {{ 'selected' if g == grade }}>{{ g }}</option>
+          {% endfor %}
+        </select>
+      </label>
+    </form>
+
+    {% if latest %}
+      <div class="best">
+        <strong>Best market right now:</strong> {{ latest[0].Market }}
+        at {{ latest[0].Modal_Price | int }} (reported {{ latest[0].Arrival_Date }})
+      </div>
+
+      <table>
+        <tr><th>Market</th><th>Date</th><th>Min</th><th>Modal</th><th>Max</th></tr>
+        {% for r in latest %}
+          <tr>
+            <td>{{ r.Market }}</td><td>{{ r.Arrival_Date }}</td>
+            <td>{{ r.Min_Price | int }}</td><td>{{ r.Modal_Price | int }}</td>
+            <td>{{ r.Max_Price | int }}</td>
+          </tr>
+        {% endfor %}
+      </table>
+
+      <canvas id="chart" height="120"></canvas>
+      <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.1/dist/chart.umd.min.js"></script>
+      <script>
+        const rows = {{ latest | tojson }};
+        new Chart(document.getElementById("chart"), {
+          type: "bar",
+          data: {
+            labels: rows.map(r => r.Market),
+            datasets: [{ label: "Modal price", data: rows.map(r => r.Modal_Price) }]
+          }
+        });
+      </script>
+    {% else %}
+      <p>No prices for this choice.</p>
+    {% endif %}
+
+    <p class="note">Data last updated: {{ last_updated }}. Source: Agmarknet via data.gov.in.
+      Prices are usually per quintal; please confirm the unit on the data.gov.in page.</p>
+  {% endif %}
+</body>
+</html>
