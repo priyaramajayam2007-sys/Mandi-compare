@@ -27,9 +27,10 @@ jobs:
         run: pip install -r requirements.txt
 
       - name: Fetch latest prices
+        timeout-minutes: 10
         env:
           DATA_GOV_API_KEY: ${{ secrets.DATA_GOV_API_KEY }}
-        run: python fetch_prices.py --days 3 --keep-days 30
+        run: python -u fetch_prices.py --days 3 --keep-days 30
 
       - name: Commit new data
         run: |
