@@ -1,4 +1,7 @@
 \# Mandi Price Compare
+**Live app:**https://mandi-compare.onrender.com
+   
+*Prices come from Agmarknet via data.gov.in and are refreshed daily by a scheduled script. The first visit may take up to a minute, because the free host sleeps when idle.*
 
 
 
