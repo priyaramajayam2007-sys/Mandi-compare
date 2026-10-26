@@ -39990,3 +39990,1486 @@ Arrival_Date,Commodity,Commodity_Code,District,Grade,Market,Max_Price,Min_Price,
 23/10/2026,Ridgeguard(Tori),160,Virudhunagar,Local,Virudhunagar(Uzhavar Sandhai),4000,3500,3750,Tamil Nadu,Ridgeguard(Tori)
 23/10/2026,Snakeguard,156,Virudhunagar,Local,Virudhunagar(Uzhavar Sandhai),4000,3500,3750,Tamil Nadu,Snakeguard
 23/10/2026,Tomato,78,Virudhunagar,Local,Virudhunagar(Uzhavar Sandhai),3000,2500,2750,Tamil Nadu,Deshi
+25/10/2026,Beetroot,157,Ariyalur,Local,Ariyalur(Uzhavar Sandhai),9000,8000,8500,Tamil Nadu,Beetroot
+25/10/2026,Bottle gourd,82,Ariyalur,Local,Ariyalur(Uzhavar Sandhai),3000,2500,2750,Tamil Nadu,Bottle Gourd
+25/10/2026,Cabbage,154,Ariyalur,Local,Ariyalur(Uzhavar Sandhai),3500,3000,3250,Tamil Nadu,Cabbage
+25/10/2026,Potato,24,Ariyalur,Local,Ariyalur(Uzhavar Sandhai),4000,3500,3750,Tamil Nadu,Red Nanital
+25/10/2026,Bottle gourd,82,Ariyalur,Local,Jeyankondam (Uzhavar Sandhai),3000,2500,2750,Tamil Nadu,Bottle Gourd
+25/10/2026,Potato,24,Ariyalur,Local,Jeyankondam (Uzhavar Sandhai),4000,3500,3750,Tamil Nadu,Red Nanital
+25/10/2026,Tomato,78,Ariyalur,Local,Jeyankondam (Uzhavar Sandhai),4000,3500,3750,Tamil Nadu,Deshi
+25/10/2026,Garlic,25,Chengalpet,Local,Medavakkam(Uzhavar Sandhai),25000,20000,22500,Tamil Nadu,Garlic
+25/10/2026,Ginger(Green),103,Chengalpet,Local,Medavakkam(Uzhavar Sandhai),20000,10000,15000,Tamil Nadu,Green Ginger
+25/10/2026,Marigold(Calcutta),235,Chengalpet,Local,Medavakkam(Uzhavar Sandhai),10000,10000,10000,Tamil Nadu,Marigold(Calcutta)
+25/10/2026,Rose(Local),374,Chengalpet,Local,Medavakkam(Uzhavar Sandhai),12000,12000,12000,Tamil Nadu,Rose (Local)
+25/10/2026,Tender Coconut,200,Chengalpet,Local,Medavakkam(Uzhavar Sandhai),5000,5000,5000,Tamil Nadu,Tender Coconut
+25/10/2026,Apple,17,Chengalpet,Local,Nanganallur(Uzhavar Sandhai),15000,13000,14000,Tamil Nadu,American
+25/10/2026,Beetroot,157,Chengalpet,Local,Nanganallur(Uzhavar Sandhai),6000,5500,5750,Tamil Nadu,Beetroot
+25/10/2026,Cabbage,154,Chengalpet,Local,Nanganallur(Uzhavar Sandhai),4000,3500,3750,Tamil Nadu,Cabbage
+25/10/2026,Cauliflower,34,Chengalpet,Local,Nanganallur(Uzhavar Sandhai),5000,4500,4750,Tamil Nadu,Ranchi
+25/10/2026,Chikoos(Sapota),71,Chengalpet,Local,Nanganallur(Uzhavar Sandhai),6000,5500,5750,Tamil Nadu,Sapota
+25/10/2026,Chow Chow,167,Chengalpet,Local,Nanganallur(Uzhavar Sandhai),6000,5500,5750,Tamil Nadu,Chow Chow
+25/10/2026,Garlic,25,Chengalpet,Local,Nanganallur(Uzhavar Sandhai),18000,16000,17000,Tamil Nadu,Garlic
+25/10/2026,Ginger(Green),103,Chengalpet,Local,Nanganallur(Uzhavar Sandhai),10000,9000,9500,Tamil Nadu,Green Ginger
+25/10/2026,Grapes,22,Chengalpet,Local,Nanganallur(Uzhavar Sandhai),12000,11000,11500,Tamil Nadu,Annabesahai
+25/10/2026,Lemon,310,Chengalpet,Local,Nanganallur(Uzhavar Sandhai),12000,11000,11500,Tamil Nadu,Lemon
+25/10/2026,Orange,18,Chengalpet,Local,Nanganallur(Uzhavar Sandhai),6000,5500,5750,Tamil Nadu,Darjeeling
+25/10/2026,Potato,24,Chengalpet,Local,Nanganallur(Uzhavar Sandhai),3500,3000,3250,Tamil Nadu,Red Nanital
+25/10/2026,Sweet Potato,152,Chengalpet,Local,Nanganallur(Uzhavar Sandhai),7000,6500,6750,Tamil Nadu,Hosur Red
+25/10/2026,Water Melon,73,Chengalpet,Local,Nanganallur(Uzhavar Sandhai),3000,2500,2750,Tamil Nadu,Water Melon
+25/10/2026,Bottle gourd,82,Coimbatore,Local,Kurichi(Uzhavar Sandhai),3000,2500,2750,Tamil Nadu,Bottle Gourd
+25/10/2026,Pumpkin,84,Coimbatore,Local,Kurichi(Uzhavar Sandhai),2200,2000,2100,Tamil Nadu,Pumpkin
+25/10/2026,Sweet Potato,152,Coimbatore,Local,Kurichi(Uzhavar Sandhai),6000,5500,5750,Tamil Nadu,Hosur Red
+25/10/2026,Apple,17,Coimbatore,Local,Mettupalayam(Uzhavar Sandhai),20000,18000,19000,Tamil Nadu,American
+25/10/2026,Beetroot,157,Coimbatore,Local,Mettupalayam(Uzhavar Sandhai),6000,5500,5750,Tamil Nadu,Beetroot
+25/10/2026,Capsicum,164,Coimbatore,Local,Mettupalayam(Uzhavar Sandhai),8500,8000,8250,Tamil Nadu,Capsicum
+25/10/2026,Drumstick,168,Coimbatore,Local,Mettupalayam(Uzhavar Sandhai),6000,5000,5500,Tamil Nadu,Drumstick
+25/10/2026,Ginger(Green),103,Coimbatore,Local,Mettupalayam(Uzhavar Sandhai),16500,7500,12000,Tamil Nadu,Green Ginger
+25/10/2026,Green Peas,50,Coimbatore,Local,Mettupalayam(Uzhavar Sandhai),15000,13000,14000,Tamil Nadu,Green Peas
+25/10/2026,Groundnut,10,Coimbatore,Local,Mettupalayam(Uzhavar Sandhai),9000,8000,8500,Tamil Nadu,Big (With Shell)
+25/10/2026,Knool Khol,177,Coimbatore,Local,Mettupalayam(Uzhavar Sandhai),5000,4500,4750,Tamil Nadu,Knool Khol
+25/10/2026,Lemon,310,Coimbatore,Local,Mettupalayam(Uzhavar Sandhai),20000,18000,19000,Tamil Nadu,Lemon
+25/10/2026,Lime,180,Coimbatore,Local,Mettupalayam(Uzhavar Sandhai),15000,13000,14000,Tamil Nadu,Lime
+25/10/2026,Mango(Raw-Ripe),172,Coimbatore,Local,Mettupalayam(Uzhavar Sandhai),9000,8000,8500,Tamil Nadu,Mango - Raw-Ripe
+25/10/2026,Mousambi(Sweet Lime),77,Coimbatore,Local,Mettupalayam(Uzhavar Sandhai),6000,5500,5750,Tamil Nadu,Mousambi
+25/10/2026,Potato,24,Coimbatore,Local,Mettupalayam(Uzhavar Sandhai),7500,4000,5750,Tamil Nadu,Red Nanital
+25/10/2026,Sweet Potato,152,Coimbatore,Local,Mettupalayam(Uzhavar Sandhai),5500,5000,5250,Tamil Nadu,Hosur Red
+25/10/2026,Water Melon,73,Coimbatore,Local,Mettupalayam(Uzhavar Sandhai),2500,2000,2250,Tamil Nadu,Water Melon
+25/10/2026,Beetroot,157,Coimbatore,Local,Pollachi(Uzhavar Sandhai),7000,4500,5750,Tamil Nadu,Beetroot
+25/10/2026,Bottle gourd,82,Coimbatore,Local,Pollachi(Uzhavar Sandhai),3000,2500,2750,Tamil Nadu,Bottle Gourd
+25/10/2026,Cauliflower,34,Coimbatore,Local,Pollachi(Uzhavar Sandhai),6000,5500,5750,Tamil Nadu,Ranchi
+25/10/2026,Chow Chow,167,Coimbatore,Local,Pollachi(Uzhavar Sandhai),4000,3500,3750,Tamil Nadu,Chow Chow
+25/10/2026,Potato,24,Coimbatore,Local,Pollachi(Uzhavar Sandhai),6000,4000,5000,Tamil Nadu,Red Nanital
+25/10/2026,Pumpkin,84,Coimbatore,Local,Pollachi(Uzhavar Sandhai),2500,2000,2250,Tamil Nadu,Pumpkin
+25/10/2026,Tender Coconut,200,Coimbatore,Local,Pollachi(Uzhavar Sandhai),4000,3500,3750,Tamil Nadu,Tender Coconut
+25/10/2026,Apple,17,Coimbatore,Local,RSPuram(Uzhavar Sandhai),28000,23000,25500,Tamil Nadu,American
+25/10/2026,Beetroot,157,Coimbatore,Local,RSPuram(Uzhavar Sandhai),6000,5500,5750,Tamil Nadu,Beetroot
+25/10/2026,Cabbage,154,Coimbatore,Local,RSPuram(Uzhavar Sandhai),2200,2000,2100,Tamil Nadu,Cabbage
+25/10/2026,Cauliflower,34,Coimbatore,Local,RSPuram(Uzhavar Sandhai),6400,5800,6100,Tamil Nadu,Ranchi
+25/10/2026,Colacasia,318,Coimbatore,Local,RSPuram(Uzhavar Sandhai),5000,4500,4750,Tamil Nadu,Colacasia
+25/10/2026,Custard Apple(Sharifa),352,Coimbatore,Local,RSPuram(Uzhavar Sandhai),6000,5000,5500,Tamil Nadu,Custard Apple(Sharifa)
+25/10/2026,Drumstick,168,Coimbatore,Local,RSPuram(Uzhavar Sandhai),6500,6000,6250,Tamil Nadu,Drumstick
+25/10/2026,Ginger(Green),103,Coimbatore,Local,RSPuram(Uzhavar Sandhai),15800,6800,11300,Tamil Nadu,Green Ginger
+25/10/2026,Green Peas,50,Coimbatore,Local,RSPuram(Uzhavar Sandhai),24000,22000,23000,Tamil Nadu,Green Peas
+25/10/2026,Groundnut,10,Coimbatore,Local,RSPuram(Uzhavar Sandhai),7500,7000,7250,Tamil Nadu,Big (With Shell)
+25/10/2026,Indian Beans(Seam),299,Coimbatore,Local,RSPuram(Uzhavar Sandhai),7000,6500,6750,Tamil Nadu,Indian Beans (Seam)
+25/10/2026,Karbuja(Musk Melon),187,Coimbatore,Local,RSPuram(Uzhavar Sandhai),5000,4500,4750,Tamil Nadu,Karbhuja
+25/10/2026,Knool Khol,177,Coimbatore,Local,RSPuram(Uzhavar Sandhai),5500,5000,5250,Tamil Nadu,Knool Khol
+25/10/2026,Lemon,310,Coimbatore,Local,RSPuram(Uzhavar Sandhai),19000,18000,18500,Tamil Nadu,Lemon
+25/10/2026,Mango(Raw-Ripe),172,Coimbatore,Local,RSPuram(Uzhavar Sandhai),11000,8000,9500,Tamil Nadu,Mango - Raw-Ripe
+25/10/2026,Pear(Marasebu),330,Coimbatore,Local,RSPuram(Uzhavar Sandhai),15000,14000,14500,Tamil Nadu,Pears
+25/10/2026,Sweet Potato,152,Coimbatore,Local,RSPuram(Uzhavar Sandhai),5500,5000,5250,Tamil Nadu,Hosur Red
+25/10/2026,Tender Coconut,200,Coimbatore,Local,RSPuram(Uzhavar Sandhai),4500,4000,4250,Tamil Nadu,Tender Coconut
+25/10/2026,Beetroot,157,Coimbatore,Local,Singanallur(Uzhavar Sandhai),5600,4000,4800,Tamil Nadu,Beetroot
+25/10/2026,Betal Leaves,143,Coimbatore,Local,Singanallur(Uzhavar Sandhai),24000,23000,23500,Tamil Nadu,Mysore
+25/10/2026,Bottle gourd,82,Coimbatore,Local,Singanallur(Uzhavar Sandhai),2200,2000,2100,Tamil Nadu,Bottle Gourd
+25/10/2026,Cabbage,154,Coimbatore,Local,Singanallur(Uzhavar Sandhai),2500,2000,2250,Tamil Nadu,Cabbage
+25/10/2026,Capsicum,164,Coimbatore,Local,Singanallur(Uzhavar Sandhai),7500,7000,7250,Tamil Nadu,Capsicum
+25/10/2026,Cauliflower,34,Coimbatore,Local,Singanallur(Uzhavar Sandhai),6000,5500,5750,Tamil Nadu,Ranchi
+25/10/2026,Chow Chow,167,Coimbatore,Local,Singanallur(Uzhavar Sandhai),3200,2800,3000,Tamil Nadu,Chow Chow
+25/10/2026,Drumstick,168,Coimbatore,Local,Singanallur(Uzhavar Sandhai),7000,6500,6750,Tamil Nadu,Drumstick
+25/10/2026,Garlic,25,Coimbatore,Local,Singanallur(Uzhavar Sandhai),22000,21000,21500,Tamil Nadu,Garlic
+25/10/2026,Ginger(Green),103,Coimbatore,Local,Singanallur(Uzhavar Sandhai),16000,8000,12000,Tamil Nadu,Green Ginger
+25/10/2026,Grapes,22,Coimbatore,Local,Singanallur(Uzhavar Sandhai),10000,9000,9500,Tamil Nadu,Annabesahai
+25/10/2026,Green Peas,50,Coimbatore,Local,Singanallur(Uzhavar Sandhai),24000,23000,23500,Tamil Nadu,Green Peas
+25/10/2026,Lemon,310,Coimbatore,Local,Singanallur(Uzhavar Sandhai),19000,18000,18500,Tamil Nadu,Lemon
+25/10/2026,Orange,18,Coimbatore,Local,Singanallur(Uzhavar Sandhai),8000,7500,7750,Tamil Nadu,Darjeeling
+25/10/2026,Pumpkin,84,Coimbatore,Local,Singanallur(Uzhavar Sandhai),2200,2000,2100,Tamil Nadu,Pumpkin
+25/10/2026,Tomato,78,Coimbatore,Local,Singanallur(Uzhavar Sandhai),4000,3500,3750,Tamil Nadu,Deshi
+25/10/2026,Turnip,341,Coimbatore,Local,Singanallur(Uzhavar Sandhai),6600,6000,6300,Tamil Nadu,Turnip
+25/10/2026,Yam(Ratalu),297,Coimbatore,Local,Singanallur(Uzhavar Sandhai),8000,7500,7750,Tamil Nadu,Yam (Ratalu)
+25/10/2026,Cabbage,154,Coimbatore,Local,Sulur(Uzhavar Sandhai),2500,2200,2350,Tamil Nadu,Cabbage
+25/10/2026,Capsicum,164,Coimbatore,Local,Sulur(Uzhavar Sandhai),7000,6400,6700,Tamil Nadu,Capsicum
+25/10/2026,Chow Chow,167,Coimbatore,Local,Sulur(Uzhavar Sandhai),3400,3000,3200,Tamil Nadu,Chow Chow
+25/10/2026,Drumstick,168,Coimbatore,Local,Sulur(Uzhavar Sandhai),7000,6400,6700,Tamil Nadu,Drumstick
+25/10/2026,Ginger(Green),103,Coimbatore,Local,Sulur(Uzhavar Sandhai),16500,9000,12750,Tamil Nadu,Green Ginger
+25/10/2026,Potato,24,Coimbatore,Local,Sulur(Uzhavar Sandhai),7600,6000,6800,Tamil Nadu,Red Nanital
+25/10/2026,Bottle gourd,82,Coimbatore,Local,Sundarapuram(Uzhavar Sandhai),3000,2500,2750,Tamil Nadu,Bottle Gourd
+25/10/2026,Capsicum,164,Coimbatore,Local,Sundarapuram(Uzhavar Sandhai),8000,7500,7750,Tamil Nadu,Capsicum
+25/10/2026,Chow Chow,167,Coimbatore,Local,Sundarapuram(Uzhavar Sandhai),3600,3000,3300,Tamil Nadu,Chow Chow
+25/10/2026,Garlic,25,Coimbatore,Local,Sundarapuram(Uzhavar Sandhai),23000,22000,22500,Tamil Nadu,Garlic
+25/10/2026,Ginger(Green),103,Coimbatore,Local,Sundarapuram(Uzhavar Sandhai),17000,16000,16500,Tamil Nadu,Green Ginger
+25/10/2026,Knool Khol,177,Coimbatore,Local,Sundarapuram(Uzhavar Sandhai),4000,3500,3750,Tamil Nadu,Knool Khol
+25/10/2026,Lemon,310,Coimbatore,Local,Sundarapuram(Uzhavar Sandhai),20000,19000,19500,Tamil Nadu,Lemon
+25/10/2026,Pumpkin,84,Coimbatore,Local,Sundarapuram(Uzhavar Sandhai),2200,2000,2100,Tamil Nadu,Pumpkin
+25/10/2026,Apple,17,Coimbatore,Local,Vadavalli(Uzhavar Sandhai),19000,17000,18000,Tamil Nadu,American
+25/10/2026,Beetroot,157,Coimbatore,Local,Vadavalli(Uzhavar Sandhai),6000,5500,5750,Tamil Nadu,Beetroot
+25/10/2026,Bottle gourd,82,Coimbatore,Local,Vadavalli(Uzhavar Sandhai),2800,2400,2600,Tamil Nadu,Bottle Gourd
+25/10/2026,Cabbage,154,Coimbatore,Local,Vadavalli(Uzhavar Sandhai),2400,2000,2200,Tamil Nadu,Cabbage
+25/10/2026,Chow Chow,167,Coimbatore,Local,Vadavalli(Uzhavar Sandhai),3000,2500,2750,Tamil Nadu,Chow Chow
+25/10/2026,Grapes,22,Coimbatore,Local,Vadavalli(Uzhavar Sandhai),9500,9000,9250,Tamil Nadu,Annabesahai
+25/10/2026,Mousambi(Sweet Lime),77,Coimbatore,Local,Vadavalli(Uzhavar Sandhai),5400,5000,5200,Tamil Nadu,Mousambi
+25/10/2026,Potato,24,Cuddalore,Local,Chidambaram(Uzhavar Sandhai),4000,4000,4000,Tamil Nadu,Red Nanital
+25/10/2026,Bottle gourd,82,Cuddalore,Local,Cuddalore(Uzhavar Sandhai),3000,2500,2750,Tamil Nadu,Bottle Gourd
+25/10/2026,Cabbage,154,Cuddalore,Local,Cuddalore(Uzhavar Sandhai),2500,2500,2500,Tamil Nadu,Cabbage
+25/10/2026,Drumstick,168,Cuddalore,Local,Cuddalore(Uzhavar Sandhai),7000,7000,7000,Tamil Nadu,Drumstick
+25/10/2026,Ginger(Green),103,Cuddalore,Local,Cuddalore(Uzhavar Sandhai),8000,8000,8000,Tamil Nadu,Green Ginger
+25/10/2026,Groundnut,10,Cuddalore,Local,Cuddalore(Uzhavar Sandhai),8000,8000,8000,Tamil Nadu,Big (With Shell)
+25/10/2026,Lemon,310,Cuddalore,Local,Cuddalore(Uzhavar Sandhai),20000,18000,19000,Tamil Nadu,Lemon
+25/10/2026,Yam(Ratalu),297,Cuddalore,Local,Cuddalore(Uzhavar Sandhai),6000,6000,6000,Tamil Nadu,Yam (Ratalu)
+25/10/2026,Bottle gourd,82,Cuddalore,Local,Panruti(Uzhavar Sandhai),2000,2000,2000,Tamil Nadu,Bottle Gourd
+25/10/2026,Drumstick,168,Cuddalore,Local,Panruti(Uzhavar Sandhai),8000,8000,8000,Tamil Nadu,Drumstick
+25/10/2026,Jack Fruit(Ripe),182,Cuddalore,Local,Panruti(Uzhavar Sandhai),10000,10000,10000,Tamil Nadu,Jack Fruit
+25/10/2026,Potato,24,Cuddalore,Local,Panruti(Uzhavar Sandhai),4000,4000,4000,Tamil Nadu,Red Nanital
+25/10/2026,Pumpkin,84,Cuddalore,Local,Panruti(Uzhavar Sandhai),2000,2000,2000,Tamil Nadu,Pumpkin
+25/10/2026,Beetroot,157,Cuddalore,Local,Vadalur(Uzhavar Sandhai),4000,4000,4000,Tamil Nadu,Beetroot
+25/10/2026,Bottle gourd,82,Cuddalore,Local,Vadalur(Uzhavar Sandhai),2500,2500,2500,Tamil Nadu,Bottle Gourd
+25/10/2026,Garlic,25,Cuddalore,Local,Vadalur(Uzhavar Sandhai),20000,15000,17500,Tamil Nadu,Garlic
+25/10/2026,Ginger(Green),103,Cuddalore,Local,Vadalur(Uzhavar Sandhai),8000,8000,8000,Tamil Nadu,Green Ginger
+25/10/2026,Pumpkin,84,Cuddalore,Local,Vadalur(Uzhavar Sandhai),2500,2500,2500,Tamil Nadu,Pumpkin
+25/10/2026,Yam(Ratalu),297,Cuddalore,Local,Vadalur(Uzhavar Sandhai),6000,6000,6000,Tamil Nadu,Yam (Ratalu)
+25/10/2026,Bottle gourd,82,Cuddalore,Local,Viruthachalam(Uzhavar Sandhai),2000,2000,2000,Tamil Nadu,Bottle Gourd
+25/10/2026,Drumstick,168,Cuddalore,Local,Viruthachalam(Uzhavar Sandhai),8000,8000,8000,Tamil Nadu,Drumstick
+25/10/2026,Ginger(Green),103,Cuddalore,Local,Viruthachalam(Uzhavar Sandhai),7000,7000,7000,Tamil Nadu,Green Ginger
+25/10/2026,Lemon,310,Cuddalore,Local,Viruthachalam(Uzhavar Sandhai),15000,15000,15000,Tamil Nadu,Lemon
+25/10/2026,Pumpkin,84,Cuddalore,Local,Viruthachalam(Uzhavar Sandhai),2000,2000,2000,Tamil Nadu,Pumpkin
+25/10/2026,Tomato,78,Cuddalore,Local,Viruthachalam(Uzhavar Sandhai),4000,4000,4000,Tamil Nadu,Deshi
+25/10/2026,Beetroot,157,Dharmapuri,Local,A.Jattihalli(Uzhavar Sandhai),5000,4500,4750,Tamil Nadu,Beetroot
+25/10/2026,Bottle gourd,82,Dharmapuri,Local,A.Jattihalli(Uzhavar Sandhai),2500,2000,2250,Tamil Nadu,Bottle Gourd
+25/10/2026,Cabbage,154,Dharmapuri,Local,A.Jattihalli(Uzhavar Sandhai),3000,2600,2800,Tamil Nadu,Cabbage
+25/10/2026,Fig(Anjura/Anjeer),221,Dharmapuri,Local,A.Jattihalli(Uzhavar Sandhai),6000,6000,6000,Tamil Nadu,Anjura
+25/10/2026,Garlic,25,Dharmapuri,Local,A.Jattihalli(Uzhavar Sandhai),24000,20000,22000,Tamil Nadu,Garlic
+25/10/2026,Ginger(Green),103,Dharmapuri,Local,A.Jattihalli(Uzhavar Sandhai),18000,15000,16500,Tamil Nadu,Green Ginger
+25/10/2026,Green Peas,50,Dharmapuri,Local,A.Jattihalli(Uzhavar Sandhai),26000,26000,26000,Tamil Nadu,Green Peas
+25/10/2026,Knool Khol,177,Dharmapuri,Local,A.Jattihalli(Uzhavar Sandhai),7000,7000,7000,Tamil Nadu,Knool Khol
+25/10/2026,Lemon,310,Dharmapuri,Local,A.Jattihalli(Uzhavar Sandhai),24000,20000,22000,Tamil Nadu,Lemon
+25/10/2026,Mango(Raw-Ripe),172,Dharmapuri,Local,A.Jattihalli(Uzhavar Sandhai),9000,9000,9000,Tamil Nadu,Mango - Raw-Ripe
+25/10/2026,Pumpkin,84,Dharmapuri,Local,A.Jattihalli(Uzhavar Sandhai),2000,2000,2000,Tamil Nadu,Pumpkin
+25/10/2026,Tomato,78,Dharmapuri,Local,A.Jattihalli(Uzhavar Sandhai),3500,3000,3250,Tamil Nadu,Deshi
+25/10/2026,Cabbage,154,Dharmapuri,Local,Dharmapuri(Uzhavar Sandhai),3000,2800,2900,Tamil Nadu,Cabbage
+25/10/2026,Capsicum,164,Dharmapuri,Local,Dharmapuri(Uzhavar Sandhai),8200,8000,8100,Tamil Nadu,Capsicum
+25/10/2026,Cauliflower,34,Dharmapuri,Local,Dharmapuri(Uzhavar Sandhai),3500,3200,3350,Tamil Nadu,Ranchi
+25/10/2026,Colacasia,318,Dharmapuri,Local,Dharmapuri(Uzhavar Sandhai),6600,6400,6500,Tamil Nadu,Colacasia
+25/10/2026,Drumstick,168,Dharmapuri,Local,Dharmapuri(Uzhavar Sandhai),8500,8200,8350,Tamil Nadu,Drumstick
+25/10/2026,Green Peas,50,Dharmapuri,Local,Dharmapuri(Uzhavar Sandhai),24600,24200,24400,Tamil Nadu,Green Peas
+25/10/2026,Groundnut,10,Dharmapuri,Local,Dharmapuri(Uzhavar Sandhai),6000,5600,5800,Tamil Nadu,Big (With Shell)
+25/10/2026,Indian Beans(Seam),299,Dharmapuri,Local,Dharmapuri(Uzhavar Sandhai),7000,6800,6900,Tamil Nadu,Indian Beans (Seam)
+25/10/2026,Lemon,310,Dharmapuri,Local,Dharmapuri(Uzhavar Sandhai),21000,20600,20800,Tamil Nadu,Lemon
+25/10/2026,Mango(Raw-Ripe),172,Dharmapuri,Local,Dharmapuri(Uzhavar Sandhai),9000,8600,8800,Tamil Nadu,Mango - Raw-Ripe
+25/10/2026,Sweet Potato,152,Dharmapuri,Local,Dharmapuri(Uzhavar Sandhai),5000,4800,4900,Tamil Nadu,Hosur Red
+25/10/2026,Yam(Ratalu),297,Dharmapuri,Local,Dharmapuri(Uzhavar Sandhai),9600,9400,9500,Tamil Nadu,Yam (Ratalu)
+25/10/2026,Beetroot,157,Dharmapuri,Local,Harur(Uzhavar Sandhai),5000,4500,4750,Tamil Nadu,Beetroot
+25/10/2026,Bottle gourd,82,Dharmapuri,Local,Harur(Uzhavar Sandhai),2000,1500,1750,Tamil Nadu,Bottle Gourd
+25/10/2026,Capsicum,164,Dharmapuri,Local,Harur(Uzhavar Sandhai),7000,6000,6500,Tamil Nadu,Capsicum
+25/10/2026,Chow Chow,167,Dharmapuri,Local,Harur(Uzhavar Sandhai),4000,3500,3750,Tamil Nadu,Chow Chow
+25/10/2026,Ginger(Green),103,Dharmapuri,Local,Harur(Uzhavar Sandhai),20000,10000,15000,Tamil Nadu,Green Ginger
+25/10/2026,Lemon,310,Dharmapuri,Local,Harur(Uzhavar Sandhai),18000,17000,17500,Tamil Nadu,Lemon
+25/10/2026,Potato,24,Dharmapuri,Local,Harur(Uzhavar Sandhai),3000,2500,2750,Tamil Nadu,Red Nanital
+25/10/2026,Sweet Potato,152,Dharmapuri,Local,Harur(Uzhavar Sandhai),5000,4500,4750,Tamil Nadu,Hosur Red
+25/10/2026,Beetroot,157,Dharmapuri,Local,Karimangalam(Uzhavar Sandhai),5000,4500,4750,Tamil Nadu,Beetroot
+25/10/2026,Bottle gourd,82,Dharmapuri,Local,Karimangalam(Uzhavar Sandhai),2000,1800,1900,Tamil Nadu,Bottle Gourd
+25/10/2026,Cabbage,154,Dharmapuri,Local,Karimangalam(Uzhavar Sandhai),3000,2800,2900,Tamil Nadu,Cabbage
+25/10/2026,Beetroot,157,Dharmapuri,Local,Palacode(Uzhavar Sandhai),5000,4600,4800,Tamil Nadu,Beetroot
+25/10/2026,Cabbage,154,Dharmapuri,Local,Palacode(Uzhavar Sandhai),2600,2400,2500,Tamil Nadu,Cabbage
+25/10/2026,Cauliflower,34,Dharmapuri,Local,Palacode(Uzhavar Sandhai),3500,3000,3250,Tamil Nadu,Ranchi
+25/10/2026,Knool Khol,177,Dharmapuri,Local,Palacode(Uzhavar Sandhai),6800,6600,6700,Tamil Nadu,Knool Khol
+25/10/2026,Pumpkin,84,Dharmapuri,Local,Palacode(Uzhavar Sandhai),2000,1800,1900,Tamil Nadu,Pumpkin
+25/10/2026,Tamarind Fruit,261,Dharmapuri,Local,Palacode(Uzhavar Sandhai),11000,10500,10750,Tamil Nadu,Tamarind Fruit
+25/10/2026,Cabbage,154,Dharmapuri,Local,Pennagaram(Uzhavar Sandhai),3500,3000,3250,Tamil Nadu,Cabbage
+25/10/2026,Chow Chow,167,Dharmapuri,Local,Pennagaram(Uzhavar Sandhai),5000,4500,4750,Tamil Nadu,Chow Chow
+25/10/2026,Drumstick,168,Dharmapuri,Local,Pennagaram(Uzhavar Sandhai),8000,7000,7500,Tamil Nadu,Drumstick
+25/10/2026,Garlic,25,Dharmapuri,Local,Pennagaram(Uzhavar Sandhai),23000,22000,22500,Tamil Nadu,Garlic
+25/10/2026,Groundnut,10,Dharmapuri,Local,Pennagaram(Uzhavar Sandhai),7000,6500,6750,Tamil Nadu,Big (With Shell)
+25/10/2026,Knool Khol,177,Dharmapuri,Local,Pennagaram(Uzhavar Sandhai),5000,4500,4750,Tamil Nadu,Knool Khol
+25/10/2026,Lemon,310,Dharmapuri,Local,Pennagaram(Uzhavar Sandhai),25000,24000,24500,Tamil Nadu,Lemon
+25/10/2026,Sweet Potato,152,Dharmapuri,Local,Pennagaram(Uzhavar Sandhai),4000,3500,3750,Tamil Nadu,Hosur Red
+25/10/2026,Beetroot,157,Dindigul,Local,Chinnalapatti(Uzhavar Sandhai),8000,5000,6500,Tamil Nadu,Beetroot
+25/10/2026,Bottle gourd,82,Dindigul,Local,Chinnalapatti(Uzhavar Sandhai),3000,2500,2750,Tamil Nadu,Bottle Gourd
+25/10/2026,Cabbage,154,Dindigul,Local,Chinnalapatti(Uzhavar Sandhai),4000,3600,3800,Tamil Nadu,Cabbage
+25/10/2026,Chow Chow,167,Dindigul,Local,Chinnalapatti(Uzhavar Sandhai),4000,3600,3800,Tamil Nadu,Chow Chow
+25/10/2026,Ginger(Green),103,Dindigul,Local,Chinnalapatti(Uzhavar Sandhai),18000,8000,13000,Tamil Nadu,Green Ginger
+25/10/2026,Lemon,310,Dindigul,Local,Chinnalapatti(Uzhavar Sandhai),15000,10000,12500,Tamil Nadu,Lemon
+25/10/2026,Potato,24,Dindigul,Local,Chinnalapatti(Uzhavar Sandhai),5000,4000,4500,Tamil Nadu,Red Nanital
+25/10/2026,Yam(Ratalu),297,Dindigul,Local,Chinnalapatti(Uzhavar Sandhai),8000,7000,7500,Tamil Nadu,Yam (Ratalu)
+25/10/2026,Beetroot,157,Dindigul,Local,Dindigul(Uzhavar Sandhai),8000,7000,7500,Tamil Nadu,Beetroot
+25/10/2026,Capsicum,164,Dindigul,Local,Dindigul(Uzhavar Sandhai),9000,8000,8500,Tamil Nadu,Capsicum
+25/10/2026,Chow Chow,167,Dindigul,Local,Dindigul(Uzhavar Sandhai),4000,3000,3500,Tamil Nadu,Chow Chow
+25/10/2026,Drumstick,168,Dindigul,Local,Dindigul(Uzhavar Sandhai),10000,8000,9000,Tamil Nadu,Drumstick
+25/10/2026,Garlic,25,Dindigul,Local,Dindigul(Uzhavar Sandhai),28000,25000,26500,Tamil Nadu,Garlic
+25/10/2026,Ginger(Green),103,Dindigul,Local,Dindigul(Uzhavar Sandhai),20000,18000,19000,Tamil Nadu,Green Ginger
+25/10/2026,Groundnut,10,Dindigul,Local,Dindigul(Uzhavar Sandhai),8000,7000,7500,Tamil Nadu,Big (With Shell)
+25/10/2026,Lemon,310,Dindigul,Local,Dindigul(Uzhavar Sandhai),15000,14000,14500,Tamil Nadu,Lemon
+25/10/2026,Lime,180,Dindigul,Local,Dindigul(Uzhavar Sandhai),14000,12000,13000,Tamil Nadu,Lime
+25/10/2026,Mango(Raw-Ripe),172,Dindigul,Local,Dindigul(Uzhavar Sandhai),10000,8000,9000,Tamil Nadu,Mango - Raw-Ripe
+25/10/2026,Soyabean,13,Dindigul,Local,Dindigul(Uzhavar Sandhai),12000,10000,11000,Tamil Nadu,Local
+25/10/2026,Sweet Potato,152,Dindigul,Local,Dindigul(Uzhavar Sandhai),6000,5000,5500,Tamil Nadu,Hosur Red
+25/10/2026,Tamarind Fruit,261,Dindigul,Local,Dindigul(Uzhavar Sandhai),15000,14000,14500,Tamil Nadu,Tamarind Fruit
+25/10/2026,Yam(Ratalu),297,Dindigul,Local,Dindigul(Uzhavar Sandhai),8000,7000,7500,Tamil Nadu,Yam (Ratalu)
+25/10/2026,Bottle gourd,82,Dindigul,Local,Palani(Uzhavar Sandhai),1500,1200,1350,Tamil Nadu,Bottle Gourd
+25/10/2026,Cabbage,154,Dindigul,Local,Palani(Uzhavar Sandhai),3000,2500,2750,Tamil Nadu,Cabbage
+25/10/2026,Cauliflower,34,Dindigul,Local,Palani(Uzhavar Sandhai),3000,2500,2750,Tamil Nadu,Ranchi
+25/10/2026,Chow Chow,167,Dindigul,Local,Palani(Uzhavar Sandhai),3500,3000,3250,Tamil Nadu,Chow Chow
+25/10/2026,Garlic,25,Dindigul,Local,Palani(Uzhavar Sandhai),25000,20000,22500,Tamil Nadu,Garlic
+25/10/2026,Ginger(Green),103,Dindigul,Local,Palani(Uzhavar Sandhai),16000,8000,12000,Tamil Nadu,Green Ginger
+25/10/2026,Lemon,310,Dindigul,Local,Palani(Uzhavar Sandhai),15000,10000,12500,Tamil Nadu,Lemon
+25/10/2026,Mango(Raw-Ripe),172,Dindigul,Local,Palani(Uzhavar Sandhai),8000,6000,7000,Tamil Nadu,Mango - Raw-Ripe
+25/10/2026,Beetroot,157,Erode,Local,Gobichettipalayam(Uzhavar Sandhai),6000,5500,5750,Tamil Nadu,Beetroot
+25/10/2026,Bottle gourd,82,Erode,Local,Gobichettipalayam(Uzhavar Sandhai),2000,1800,1900,Tamil Nadu,Bottle Gourd
+25/10/2026,Chow Chow,167,Erode,Local,Gobichettipalayam(Uzhavar Sandhai),4000,3500,3750,Tamil Nadu,Chow Chow
+25/10/2026,Drumstick,168,Erode,Local,Gobichettipalayam(Uzhavar Sandhai),11000,10500,10750,Tamil Nadu,Drumstick
+25/10/2026,Groundnut,10,Erode,Local,Gobichettipalayam(Uzhavar Sandhai),5000,4500,4750,Tamil Nadu,Big (With Shell)
+25/10/2026,Lemon,310,Erode,Local,Gobichettipalayam(Uzhavar Sandhai),19000,18500,18750,Tamil Nadu,Lemon
+25/10/2026,Potato,24,Erode,Local,Gobichettipalayam(Uzhavar Sandhai),3600,3400,3500,Tamil Nadu,Red Nanital
+25/10/2026,Pumpkin,84,Erode,Local,Gobichettipalayam(Uzhavar Sandhai),3000,2500,2750,Tamil Nadu,Pumpkin
+25/10/2026,Sweet Potato,152,Erode,Local,Gobichettipalayam(Uzhavar Sandhai),6000,5500,5750,Tamil Nadu,Hosur Red
+25/10/2026,Tender Coconut,200,Erode,Local,Gobichettipalayam(Uzhavar Sandhai),4000,3500,3750,Tamil Nadu,Tender Coconut
+25/10/2026,Tomato,78,Erode,Local,Gobichettipalayam(Uzhavar Sandhai),4000,3500,3750,Tamil Nadu,Deshi
+25/10/2026,Bottle gourd,82,Erode,Local,Periyar Nagar(Uzhavar Sandhai),2000,1200,1600,Tamil Nadu,Bottle Gourd
+25/10/2026,Lemon,310,Erode,Local,Periyar Nagar(Uzhavar Sandhai),23000,22000,22500,Tamil Nadu,Lemon
+25/10/2026,Pumpkin,84,Erode,Local,Periyar Nagar(Uzhavar Sandhai),2000,1800,1900,Tamil Nadu,Pumpkin
+25/10/2026,Tender Coconut,200,Erode,Local,Periyar Nagar(Uzhavar Sandhai),4500,3000,3750,Tamil Nadu,Tender Coconut
+25/10/2026,Beetroot,157,Erode,Local,Perundurai(Uzhavar Sandhai),6500,6000,6250,Tamil Nadu,Beetroot
+25/10/2026,Bottle gourd,82,Erode,Local,Perundurai(Uzhavar Sandhai),2000,1800,1900,Tamil Nadu,Bottle Gourd
+25/10/2026,Cabbage,154,Erode,Local,Perundurai(Uzhavar Sandhai),2400,2000,2200,Tamil Nadu,Cabbage
+25/10/2026,Cauliflower,34,Erode,Local,Perundurai(Uzhavar Sandhai),3500,3000,3250,Tamil Nadu,Ranchi
+25/10/2026,Chikoos(Sapota),71,Erode,Local,Perundurai(Uzhavar Sandhai),3800,3500,3650,Tamil Nadu,Sapota
+25/10/2026,Apple,17,Erode,Local,Sampath Nagar(Uzhavar Sandhai),18500,18000,18250,Tamil Nadu,American
+25/10/2026,Beetroot,157,Erode,Local,Sampath Nagar(Uzhavar Sandhai),7800,7500,7650,Tamil Nadu,Beetroot
+25/10/2026,Bottle gourd,82,Erode,Local,Sampath Nagar(Uzhavar Sandhai),2000,1000,1500,Tamil Nadu,Bottle Gourd
+25/10/2026,Capsicum,164,Erode,Local,Sampath Nagar(Uzhavar Sandhai),7000,6600,6800,Tamil Nadu,Capsicum
+25/10/2026,Ginger(Green),103,Erode,Local,Sampath Nagar(Uzhavar Sandhai),7500,7000,7250,Tamil Nadu,Green Ginger
+25/10/2026,Grapes,22,Erode,Local,Sampath Nagar(Uzhavar Sandhai),11000,10500,10750,Tamil Nadu,Annabesahai
+25/10/2026,Kakada,230,Erode,Local,Sampath Nagar(Uzhavar Sandhai),55000,50000,52500,Tamil Nadu,Kakada
+25/10/2026,Lemon,310,Erode,Local,Sampath Nagar(Uzhavar Sandhai),23000,22000,22500,Tamil Nadu,Lemon
+25/10/2026,Lime,180,Erode,Local,Sampath Nagar(Uzhavar Sandhai),9000,8000,8500,Tamil Nadu,Lime
+25/10/2026,Pumpkin,84,Erode,Local,Sampath Nagar(Uzhavar Sandhai),2000,1800,1900,Tamil Nadu,Pumpkin
+25/10/2026,Sweet Potato,152,Erode,Local,Sampath Nagar(Uzhavar Sandhai),5000,4500,4750,Tamil Nadu,Hosur Red
+25/10/2026,Tender Coconut,200,Erode,Local,Sampath Nagar(Uzhavar Sandhai),4500,3000,3750,Tamil Nadu,Tender Coconut
+25/10/2026,Beetroot,157,Erode,Local,Sathiyamagalam(Uzhavar Sandhai),6000,5500,5750,Tamil Nadu,Beetroot
+25/10/2026,Bottle gourd,82,Erode,Local,Sathiyamagalam(Uzhavar Sandhai),2000,1500,1750,Tamil Nadu,Bottle Gourd
+25/10/2026,Cabbage,154,Erode,Local,Sathiyamagalam(Uzhavar Sandhai),3500,3000,3250,Tamil Nadu,Cabbage
+25/10/2026,Cauliflower,34,Erode,Local,Sathiyamagalam(Uzhavar Sandhai),3500,3000,3250,Tamil Nadu,Ranchi
+25/10/2026,Chow Chow,167,Erode,Local,Sathiyamagalam(Uzhavar Sandhai),3000,2500,2750,Tamil Nadu,Chow Chow
+25/10/2026,Drumstick,168,Erode,Local,Sathiyamagalam(Uzhavar Sandhai),8500,8000,8250,Tamil Nadu,Drumstick
+25/10/2026,Ginger(Green),103,Erode,Local,Sathiyamagalam(Uzhavar Sandhai),12000,11000,11500,Tamil Nadu,Green Ginger
+25/10/2026,Knool Khol,177,Erode,Local,Sathiyamagalam(Uzhavar Sandhai),6500,6000,6250,Tamil Nadu,Knool Khol
+25/10/2026,Pumpkin,84,Erode,Local,Sathiyamagalam(Uzhavar Sandhai),3000,2500,2750,Tamil Nadu,Pumpkin
+25/10/2026,Tender Coconut,200,Erode,Local,Sathiyamagalam(Uzhavar Sandhai),4000,3500,3750,Tamil Nadu,Tender Coconut
+25/10/2026,Beetroot,157,Erode,Local,Thalavadi(Uzhavar Sandhai),3400,3000,3200,Tamil Nadu,Beetroot
+25/10/2026,Bottle gourd,82,Erode,Local,Thalavadi(Uzhavar Sandhai),1600,1200,1400,Tamil Nadu,Bottle Gourd
+25/10/2026,Cabbage,154,Erode,Local,Thalavadi(Uzhavar Sandhai),1600,1200,1400,Tamil Nadu,Cabbage
+25/10/2026,Cauliflower,34,Erode,Local,Thalavadi(Uzhavar Sandhai),3200,2600,2900,Tamil Nadu,Ranchi
+25/10/2026,Chow Chow,167,Erode,Local,Thalavadi(Uzhavar Sandhai),2800,2400,2600,Tamil Nadu,Chow Chow
+25/10/2026,Drumstick,168,Erode,Local,Thalavadi(Uzhavar Sandhai),7500,7000,7250,Tamil Nadu,Drumstick
+25/10/2026,Ginger(Green),103,Erode,Local,Thalavadi(Uzhavar Sandhai),10000,9000,9500,Tamil Nadu,Green Ginger
+25/10/2026,Potato,24,Erode,Local,Thalavadi(Uzhavar Sandhai),3800,3200,3500,Tamil Nadu,Red Nanital
+25/10/2026,Pumpkin,84,Erode,Local,Thalavadi(Uzhavar Sandhai),2000,1500,1750,Tamil Nadu,Pumpkin
+25/10/2026,Cabbage,154,Kallakurichi,Local,Kallakurichi(Uzhavar Sandhai),4000,4000,4000,Tamil Nadu,Cabbage
+25/10/2026,Chow Chow,167,Kallakurichi,Local,Kallakurichi(Uzhavar Sandhai),5000,5000,5000,Tamil Nadu,Chow Chow
+25/10/2026,Colacasia,318,Kallakurichi,Local,Kallakurichi(Uzhavar Sandhai),4000,4000,4000,Tamil Nadu,Colacasia
+25/10/2026,Drumstick,168,Kallakurichi,Local,Kallakurichi(Uzhavar Sandhai),9000,9000,9000,Tamil Nadu,Drumstick
+25/10/2026,Groundnut,10,Kallakurichi,Local,Kallakurichi(Uzhavar Sandhai),6000,6000,6000,Tamil Nadu,Big (With Shell)
+25/10/2026,Jasmine,229,Kallakurichi,Local,Kallakurichi(Uzhavar Sandhai),40000,40000,40000,Tamil Nadu,Jasmine
+25/10/2026,Knool Khol,177,Kallakurichi,Local,Kallakurichi(Uzhavar Sandhai),7000,7000,7000,Tamil Nadu,Knool Khol
+25/10/2026,Lemon,310,Kallakurichi,Local,Kallakurichi(Uzhavar Sandhai),20000,20000,20000,Tamil Nadu,Lemon
+25/10/2026,Mango(Raw-Ripe),172,Kallakurichi,Local,Kallakurichi(Uzhavar Sandhai),12000,12000,12000,Tamil Nadu,Mango - Raw-Ripe
+25/10/2026,Marigold(Calcutta),235,Kallakurichi,Local,Kallakurichi(Uzhavar Sandhai),40000,40000,40000,Tamil Nadu,Marigold(Calcutta)
+25/10/2026,Rose(Local),374,Kallakurichi,Local,Kallakurichi(Uzhavar Sandhai),30000,30000,30000,Tamil Nadu,Rose (Local)
+25/10/2026,Sweet Potato,152,Kallakurichi,Local,Kallakurichi(Uzhavar Sandhai),6000,6000,6000,Tamil Nadu,Hosur Red
+25/10/2026,Tender Coconut,200,Kallakurichi,Local,Kallakurichi(Uzhavar Sandhai),3000,3000,3000,Tamil Nadu,Tender Coconut
+25/10/2026,Tomato,78,Kallakurichi,Local,Kallakurichi(Uzhavar Sandhai),4000,4000,4000,Tamil Nadu,Deshi
+25/10/2026,Bottle gourd,82,Kallakurichi,Local,Sankarapuram(Uzhavar Sandhai),1500,1500,1500,Tamil Nadu,Bottle Gourd
+25/10/2026,Chikoos(Sapota),71,Kallakurichi,Local,Sankarapuram(Uzhavar Sandhai),5000,5000,5000,Tamil Nadu,Sapota
+25/10/2026,Custard Apple(Sharifa),352,Kallakurichi,Local,Sankarapuram(Uzhavar Sandhai),5000,5000,5000,Tamil Nadu,Custard Apple(Sharifa)
+25/10/2026,Ginger(Green),103,Kallakurichi,Local,Sankarapuram(Uzhavar Sandhai),12000,12000,12000,Tamil Nadu,Green Ginger
+25/10/2026,Groundnut,10,Kallakurichi,Local,Sankarapuram(Uzhavar Sandhai),6000,6000,6000,Tamil Nadu,Big (With Shell)
+25/10/2026,Pumpkin,84,Kallakurichi,Local,Sankarapuram(Uzhavar Sandhai),2000,2000,2000,Tamil Nadu,Pumpkin
+25/10/2026,Tender Coconut,200,Kallakurichi,Local,Sankarapuram(Uzhavar Sandhai),3000,3000,3000,Tamil Nadu,Tender Coconut
+25/10/2026,Yam(Ratalu),297,Kallakurichi,Local,Sankarapuram(Uzhavar Sandhai),3000,3000,3000,Tamil Nadu,Yam (Ratalu)
+25/10/2026,Ginger(Green),103,Kallakurichi,Local,Ulundurpet RM,8000,8000,8000,Tamil Nadu,Green Ginger
+25/10/2026,Lemon,310,Kallakurichi,Local,Ulundurpet RM,6000,6000,6000,Tamil Nadu,Lemon
+25/10/2026,Mango(Raw-Ripe),172,Kallakurichi,Local,Ulundurpet RM,10000,10000,10000,Tamil Nadu,Mango - Raw-Ripe
+25/10/2026,Potato,24,Kallakurichi,Local,Ulundurpet RM,3000,3000,3000,Tamil Nadu,Red Nanital
+25/10/2026,Pumpkin,84,Kallakurichi,Local,Ulundurpet RM,2500,2500,2500,Tamil Nadu,Pumpkin
+25/10/2026,Tender Coconut,200,Kallakurichi,Local,Ulundurpet RM,3000,3000,3000,Tamil Nadu,Tender Coconut
+25/10/2026,Tomato,78,Kallakurichi,Local,Ulundurpet RM,3000,3000,3000,Tamil Nadu,Deshi
+25/10/2026,Yam(Ratalu),297,Kallakurichi,Local,Ulundurpet RM,3000,3000,3000,Tamil Nadu,Yam (Ratalu)
+25/10/2026,Cabbage,154,Kancheepuram,Local,Kancheepuram(Uzhavar Sandhai),3000,3000,3000,Tamil Nadu,Cabbage
+25/10/2026,Cauliflower,34,Kancheepuram,Local,Kancheepuram(Uzhavar Sandhai),3500,3000,3250,Tamil Nadu,Ranchi
+25/10/2026,Drumstick,168,Kancheepuram,Local,Kancheepuram(Uzhavar Sandhai),5000,5000,5000,Tamil Nadu,Drumstick
+25/10/2026,Pumpkin,84,Kancheepuram,Local,Kancheepuram(Uzhavar Sandhai),2500,2500,2500,Tamil Nadu,Pumpkin
+25/10/2026,Tender Coconut,200,Kancheepuram,Local,Kancheepuram(Uzhavar Sandhai),3500,3500,3500,Tamil Nadu,Tender Coconut
+25/10/2026,Cabbage,154,Kancheepuram,Local,Kundrathur(Uzhavar Sandhai),3000,3000,3000,Tamil Nadu,Cabbage
+25/10/2026,Cauliflower,34,Kancheepuram,Local,Kundrathur(Uzhavar Sandhai),3500,3000,3250,Tamil Nadu,Ranchi
+25/10/2026,Drumstick,168,Kancheepuram,Local,Kundrathur(Uzhavar Sandhai),5000,5000,5000,Tamil Nadu,Drumstick
+25/10/2026,Yam(Ratalu),297,Kancheepuram,Local,Kundrathur(Uzhavar Sandhai),5000,5000,5000,Tamil Nadu,Yam (Ratalu)
+25/10/2026,Beetroot,157,Kancheepuram,Local,Sunguvarchatram(Uzhavar Sandhai),3500,3500,3500,Tamil Nadu,Beetroot
+25/10/2026,Bottle gourd,82,Kancheepuram,Local,Sunguvarchatram(Uzhavar Sandhai),3000,3000,3000,Tamil Nadu,Bottle Gourd
+25/10/2026,Colacasia,318,Kancheepuram,Local,Sunguvarchatram(Uzhavar Sandhai),4000,4000,4000,Tamil Nadu,Colacasia
+25/10/2026,Drumstick,168,Kancheepuram,Local,Sunguvarchatram(Uzhavar Sandhai),5000,5000,5000,Tamil Nadu,Drumstick
+25/10/2026,Yam(Ratalu),297,Kancheepuram,Local,Sunguvarchatram(Uzhavar Sandhai),5000,5000,5000,Tamil Nadu,Yam (Ratalu)
+25/10/2026,Beetroot,157,Kannyiakumari,Local,Myladi(Uzhavar Sandhai),6000,5500,5750,Tamil Nadu,Beetroot
+25/10/2026,Bottle gourd,82,Kannyiakumari,Local,Myladi(Uzhavar Sandhai),2000,1800,1900,Tamil Nadu,Bottle Gourd
+25/10/2026,Cauliflower,34,Kannyiakumari,Local,Myladi(Uzhavar Sandhai),6500,6000,6250,Tamil Nadu,Ranchi
+25/10/2026,Drumstick,168,Kannyiakumari,Local,Myladi(Uzhavar Sandhai),5000,4500,4750,Tamil Nadu,Drumstick
+25/10/2026,Garlic,25,Kannyiakumari,Local,Myladi(Uzhavar Sandhai),17000,16000,16500,Tamil Nadu,Garlic
+25/10/2026,Potato,24,Kannyiakumari,Local,Myladi(Uzhavar Sandhai),4000,3500,3750,Tamil Nadu,Red Nanital
+25/10/2026,Pumpkin,84,Kannyiakumari,Local,Myladi(Uzhavar Sandhai),2000,1800,1900,Tamil Nadu,Pumpkin
+25/10/2026,Tomato,78,Kannyiakumari,Local,Myladi(Uzhavar Sandhai),4500,4000,4250,Tamil Nadu,Deshi
+25/10/2026,Bottle gourd,82,Kannyiakumari,Local,Vadaseri RM,2000,1700,1850,Tamil Nadu,Bottle Gourd
+25/10/2026,Chow Chow,167,Kannyiakumari,Local,Vadaseri RM,4800,4300,4550,Tamil Nadu,Chow Chow
+25/10/2026,Ginger(Green),103,Kannyiakumari,Local,Vadaseri RM,12000,11000,11500,Tamil Nadu,Green Ginger
+25/10/2026,Groundnut,10,Kannyiakumari,Local,Vadaseri RM,8000,7500,7750,Tamil Nadu,Big (With Shell)
+25/10/2026,Jack Fruit(Ripe),182,Kannyiakumari,Local,Vadaseri RM,3500,3000,3250,Tamil Nadu,Jack Fruit
+25/10/2026,Lime,180,Kannyiakumari,Local,Vadaseri RM,5000,4500,4750,Tamil Nadu,Lime
+25/10/2026,Mango(Raw-Ripe),172,Kannyiakumari,Local,Vadaseri RM,9000,8500,8750,Tamil Nadu,Mango - Raw-Ripe
+25/10/2026,Potato,24,Kannyiakumari,Local,Vadaseri RM,4000,3500,3750,Tamil Nadu,Red Nanital
+25/10/2026,Tamarind Fruit,261,Kannyiakumari,Local,Vadaseri RM,14000,13000,13500,Tamil Nadu,Tamarind Fruit
+25/10/2026,Tender Coconut,200,Kannyiakumari,Local,Vadaseri RM,5000,4500,4750,Tamil Nadu,Tender Coconut
+25/10/2026,Water Melon,73,Kannyiakumari,Local,Vadaseri RM,2500,2200,2350,Tamil Nadu,Water Melon
+25/10/2026,Bottle gourd,82,Karur,Local,Gandhigramam(Uzhavar Sandhai),2000,1500,1750,Tamil Nadu,Bottle Gourd
+25/10/2026,Cabbage,154,Karur,Local,Gandhigramam(Uzhavar Sandhai),4000,3500,3750,Tamil Nadu,Cabbage
+25/10/2026,Capsicum,164,Karur,Local,Gandhigramam(Uzhavar Sandhai),6000,5500,5750,Tamil Nadu,Capsicum
+25/10/2026,Chow Chow,167,Karur,Local,Gandhigramam(Uzhavar Sandhai),4000,3500,3750,Tamil Nadu,Chow Chow
+25/10/2026,Drumstick,168,Karur,Local,Gandhigramam(Uzhavar Sandhai),8000,7000,7500,Tamil Nadu,Drumstick
+25/10/2026,Ginger(Green),103,Karur,Local,Gandhigramam(Uzhavar Sandhai),9000,8500,8750,Tamil Nadu,Green Ginger
+25/10/2026,Lemon,310,Karur,Local,Gandhigramam(Uzhavar Sandhai),25000,22000,23500,Tamil Nadu,Lemon
+25/10/2026,Bottle gourd,82,Karur,Local,Karur(Uzhavar Sandhai),2000,1500,1750,Tamil Nadu,Bottle Gourd
+25/10/2026,Cabbage,154,Karur,Local,Karur(Uzhavar Sandhai),4000,3500,3750,Tamil Nadu,Cabbage
+25/10/2026,Chow Chow,167,Karur,Local,Karur(Uzhavar Sandhai),4000,3500,3750,Tamil Nadu,Chow Chow
+25/10/2026,Mango(Raw-Ripe),172,Karur,Local,Karur(Uzhavar Sandhai),10000,9500,9750,Tamil Nadu,Mango - Raw-Ripe
+25/10/2026,Pumpkin,84,Karur,Local,Karur(Uzhavar Sandhai),2500,2000,2250,Tamil Nadu,Pumpkin
+25/10/2026,Tomato,78,Karur,Local,Karur(Uzhavar Sandhai),4500,4000,4250,Tamil Nadu,Deshi
+25/10/2026,Beetroot,157,Karur,Local,Kulithalai(Uzhavar Sandhai),5000,4000,4500,Tamil Nadu,Beetroot
+25/10/2026,Bottle gourd,82,Karur,Local,Kulithalai(Uzhavar Sandhai),2000,1500,1750,Tamil Nadu,Bottle Gourd
+25/10/2026,Cabbage,154,Karur,Local,Kulithalai(Uzhavar Sandhai),2000,1600,1800,Tamil Nadu,Cabbage
+25/10/2026,Cauliflower,34,Karur,Local,Kulithalai(Uzhavar Sandhai),4000,3500,3750,Tamil Nadu,Ranchi
+25/10/2026,Chow Chow,167,Karur,Local,Kulithalai(Uzhavar Sandhai),4000,3600,3800,Tamil Nadu,Chow Chow
+25/10/2026,Drumstick,168,Karur,Local,Kulithalai(Uzhavar Sandhai),6000,5000,5500,Tamil Nadu,Drumstick
+25/10/2026,Ginger(Green),103,Karur,Local,Kulithalai(Uzhavar Sandhai),10000,9500,9750,Tamil Nadu,Green Ginger
+25/10/2026,Lemon,310,Karur,Local,Kulithalai(Uzhavar Sandhai),28000,27500,27750,Tamil Nadu,Lemon
+25/10/2026,Pumpkin,84,Karur,Local,Kulithalai(Uzhavar Sandhai),3000,2500,2750,Tamil Nadu,Pumpkin
+25/10/2026,Sweet Potato,152,Karur,Local,Kulithalai(Uzhavar Sandhai),3000,2500,2750,Tamil Nadu,Hosur Red
+25/10/2026,Tomato,78,Karur,Local,Kulithalai(Uzhavar Sandhai),3800,3600,3700,Tamil Nadu,Deshi
+25/10/2026,Water Melon,73,Karur,Local,Kulithalai(Uzhavar Sandhai),3000,2500,2750,Tamil Nadu,Water Melon
+25/10/2026,Chikoos(Sapota),71,Karur,Local,Pallapatti (Uzhavar Sandhai),6000,5500,5750,Tamil Nadu,Sapota
+25/10/2026,Lemon,310,Karur,Local,Pallapatti (Uzhavar Sandhai),20000,18000,19000,Tamil Nadu,Lemon
+25/10/2026,Sweet Potato,152,Karur,Local,Pallapatti (Uzhavar Sandhai),4000,3500,3750,Tamil Nadu,Hosur Red
+25/10/2026,Drumstick,168,Karur,Local,Velayuthampalayam(Uzhavar Sandhai),8000,7000,7500,Tamil Nadu,Drumstick
+25/10/2026,Pumpkin,84,Karur,Local,Velayuthampalayam(Uzhavar Sandhai),2500,2000,2250,Tamil Nadu,Pumpkin
+25/10/2026,Bottle gourd,82,Karur,Local,Vengamedu(Uzhavar Sandhai),2000,1500,1750,Tamil Nadu,Bottle Gourd
+25/10/2026,Lemon,310,Karur,Local,Vengamedu(Uzhavar Sandhai),25000,24500,24750,Tamil Nadu,Lemon
+25/10/2026,Tomato,78,Karur,Local,Vengamedu(Uzhavar Sandhai),4500,4000,4250,Tamil Nadu,Deshi
+25/10/2026,Beetroot,157,Krishnagiri,Local,Avallapalli(Uzhavar Sandhai),3000,2500,2750,Tamil Nadu,Beetroot
+25/10/2026,Cabbage,154,Krishnagiri,Local,Avallapalli(Uzhavar Sandhai),1500,1000,1250,Tamil Nadu,Cabbage
+25/10/2026,Capsicum,164,Krishnagiri,Local,Avallapalli(Uzhavar Sandhai),5000,4500,4750,Tamil Nadu,Capsicum
+25/10/2026,Cauliflower,34,Krishnagiri,Local,Avallapalli(Uzhavar Sandhai),3500,3000,3250,Tamil Nadu,Ranchi
+25/10/2026,Chow Chow,167,Krishnagiri,Local,Avallapalli(Uzhavar Sandhai),2500,2000,2250,Tamil Nadu,Chow Chow
+25/10/2026,Ginger(Green),103,Krishnagiri,Local,Avallapalli(Uzhavar Sandhai),16000,15000,15500,Tamil Nadu,Green Ginger
+25/10/2026,Indian Beans(Seam),299,Krishnagiri,Local,Avallapalli(Uzhavar Sandhai),6000,5500,5750,Tamil Nadu,Indian Beans (Seam)
+25/10/2026,Knool Khol,177,Krishnagiri,Local,Avallapalli(Uzhavar Sandhai),6000,5500,5750,Tamil Nadu,Knool Khol
+25/10/2026,Potato,24,Krishnagiri,Local,Avallapalli(Uzhavar Sandhai),3000,2500,2750,Tamil Nadu,Red Nanital
+25/10/2026,Tomato,78,Krishnagiri,Local,Avallapalli(Uzhavar Sandhai),4000,3500,3750,Tamil Nadu,Deshi
+25/10/2026,Bottle gourd,82,Krishnagiri,Local,Denkanikottai(Uzhavar Sandhai),3500,3000,3250,Tamil Nadu,Bottle Gourd
+25/10/2026,Garlic,25,Krishnagiri,Local,Denkanikottai(Uzhavar Sandhai),24000,20000,22000,Tamil Nadu,Garlic
+25/10/2026,Ginger(Green),103,Krishnagiri,Local,Denkanikottai(Uzhavar Sandhai),16000,15000,15500,Tamil Nadu,Green Ginger
+25/10/2026,Knool Khol,177,Krishnagiri,Local,Denkanikottai(Uzhavar Sandhai),6000,5500,5750,Tamil Nadu,Knool Khol
+25/10/2026,Potato,24,Krishnagiri,Local,Denkanikottai(Uzhavar Sandhai),3000,2500,2750,Tamil Nadu,Red Nanital
+25/10/2026,Cabbage,154,Krishnagiri,Local,Hosur(Uzhavar Sandhai),1500,1200,1350,Tamil Nadu,Cabbage
+25/10/2026,Capsicum,164,Krishnagiri,Local,Hosur(Uzhavar Sandhai),5000,4500,4750,Tamil Nadu,Capsicum
+25/10/2026,Chow Chow,167,Krishnagiri,Local,Hosur(Uzhavar Sandhai),2500,2000,2250,Tamil Nadu,Chow Chow
+25/10/2026,Drumstick,168,Krishnagiri,Local,Hosur(Uzhavar Sandhai),7000,6500,6750,Tamil Nadu,Drumstick
+25/10/2026,Ginger(Green),103,Krishnagiri,Local,Hosur(Uzhavar Sandhai),16000,14000,15000,Tamil Nadu,Green Ginger
+25/10/2026,Green Peas,50,Krishnagiri,Local,Hosur(Uzhavar Sandhai),18000,16000,17000,Tamil Nadu,Green Peas
+25/10/2026,Jasmine,229,Krishnagiri,Local,Hosur(Uzhavar Sandhai),80000,70000,75000,Tamil Nadu,Jasmine
+25/10/2026,Karbuja(Musk Melon),187,Krishnagiri,Local,Hosur(Uzhavar Sandhai),6000,5500,5750,Tamil Nadu,Karbhuja
+25/10/2026,Knool Khol,177,Krishnagiri,Local,Hosur(Uzhavar Sandhai),6000,5500,5750,Tamil Nadu,Knool Khol
+25/10/2026,Lime,180,Krishnagiri,Local,Hosur(Uzhavar Sandhai),12000,10000,11000,Tamil Nadu,Lime
+25/10/2026,Mango(Raw-Ripe),172,Krishnagiri,Local,Hosur(Uzhavar Sandhai),12000,10000,11000,Tamil Nadu,Mango - Raw-Ripe
+25/10/2026,Orange,18,Krishnagiri,Local,Hosur(Uzhavar Sandhai),8000,7000,7500,Tamil Nadu,Darjeeling
+25/10/2026,Potato,24,Krishnagiri,Local,Hosur(Uzhavar Sandhai),3000,2500,2750,Tamil Nadu,Red Nanital
+25/10/2026,Pumpkin,84,Krishnagiri,Local,Hosur(Uzhavar Sandhai),2000,1500,1750,Tamil Nadu,Pumpkin
+25/10/2026,Red gram/Arhar/Tur(whole),49,Krishnagiri,Local,Hosur(Uzhavar Sandhai),8000,7000,7500,Tamil Nadu,Arhar (Whole)
+25/10/2026,Sweet Potato,152,Krishnagiri,Local,Hosur(Uzhavar Sandhai),6000,5500,5750,Tamil Nadu,Hosur Red
+25/10/2026,Tube Flower,234,Krishnagiri,Local,Hosur(Uzhavar Sandhai),160000,150000,155000,Tamil Nadu,Tube Flower
+25/10/2026,Tube Rose(Loose),408,Krishnagiri,Local,Hosur(Uzhavar Sandhai),8000,7000,7500,Tamil Nadu,Tube Rose (Loose)
+25/10/2026,Yam(Ratalu),297,Krishnagiri,Local,Hosur(Uzhavar Sandhai),5000,4500,4750,Tamil Nadu,Yam (Ratalu)
+25/10/2026,Ginger(Green),103,Krishnagiri,Local,Kaveripattinam(Uzhavar Sandhai),7000,7000,7000,Tamil Nadu,Green Ginger
+25/10/2026,Mango(Raw-Ripe),172,Krishnagiri,Local,Kaveripattinam(Uzhavar Sandhai),12000,7000,9500,Tamil Nadu,Mango - Raw-Ripe
+25/10/2026,Pumpkin,84,Krishnagiri,Local,Kaveripattinam(Uzhavar Sandhai),2000,2000,2000,Tamil Nadu,Pumpkin
+25/10/2026,Beetroot,157,Krishnagiri,Local,Krishnagiri(Uzhavar Sandhai),4000,3500,3750,Tamil Nadu,Beetroot
+25/10/2026,Cabbage,154,Krishnagiri,Local,Krishnagiri(Uzhavar Sandhai),2500,2000,2250,Tamil Nadu,Cabbage
+25/10/2026,Cauliflower,34,Krishnagiri,Local,Krishnagiri(Uzhavar Sandhai),4000,3500,3750,Tamil Nadu,Ranchi
+25/10/2026,Drumstick,168,Krishnagiri,Local,Krishnagiri(Uzhavar Sandhai),7000,6500,6750,Tamil Nadu,Drumstick
+25/10/2026,Garlic,25,Krishnagiri,Local,Krishnagiri(Uzhavar Sandhai),24000,20000,22000,Tamil Nadu,Garlic
+25/10/2026,Ginger(Green),103,Krishnagiri,Local,Krishnagiri(Uzhavar Sandhai),8000,7000,7500,Tamil Nadu,Green Ginger
+25/10/2026,Indian Beans(Seam),299,Krishnagiri,Local,Krishnagiri(Uzhavar Sandhai),6000,5500,5750,Tamil Nadu,Indian Beans (Seam)
+25/10/2026,Knool Khol,177,Krishnagiri,Local,Krishnagiri(Uzhavar Sandhai),5000,4000,4500,Tamil Nadu,Knool Khol
+25/10/2026,Mango(Raw-Ripe),172,Krishnagiri,Local,Krishnagiri(Uzhavar Sandhai),8000,7000,7500,Tamil Nadu,Mango - Raw-Ripe
+25/10/2026,Potato,24,Krishnagiri,Local,Krishnagiri(Uzhavar Sandhai),2600,2200,2400,Tamil Nadu,Red Nanital
+25/10/2026,Sweet Potato,152,Krishnagiri,Local,Krishnagiri(Uzhavar Sandhai),4000,3500,3750,Tamil Nadu,Hosur Red
+25/10/2026,Tomato,78,Krishnagiri,Local,Krishnagiri(Uzhavar Sandhai),2500,2000,2250,Tamil Nadu,Deshi
+25/10/2026,Bottle gourd,82,Madurai,Local,Anaiyur(Uzhavar Sandhai),2000,1500,1750,Tamil Nadu,Bottle Gourd
+25/10/2026,Cauliflower,34,Madurai,Local,Anaiyur(Uzhavar Sandhai),3000,2500,2750,Tamil Nadu,Ranchi
+25/10/2026,Chow Chow,167,Madurai,Local,Anaiyur(Uzhavar Sandhai),3200,3000,3100,Tamil Nadu,Chow Chow
+25/10/2026,Colacasia,318,Madurai,Local,Anaiyur(Uzhavar Sandhai),6000,5000,5500,Tamil Nadu,Colacasia
+25/10/2026,Ginger(Green),103,Madurai,Local,Anaiyur(Uzhavar Sandhai),20000,10000,15000,Tamil Nadu,Green Ginger
+25/10/2026,Grapes,22,Madurai,Local,Anaiyur(Uzhavar Sandhai),12000,11000,11500,Tamil Nadu,Annabesahai
+25/10/2026,Indian Beans(Seam),299,Madurai,Local,Anaiyur(Uzhavar Sandhai),6000,5500,5750,Tamil Nadu,Indian Beans (Seam)
+25/10/2026,Mango(Raw-Ripe),172,Madurai,Local,Anaiyur(Uzhavar Sandhai),10000,8000,9000,Tamil Nadu,Mango - Raw-Ripe
+25/10/2026,Sweet Potato,152,Madurai,Local,Anaiyur(Uzhavar Sandhai),6000,5500,5750,Tamil Nadu,Hosur Red
+25/10/2026,Tomato,78,Madurai,Local,Anaiyur(Uzhavar Sandhai),3500,3200,3350,Tamil Nadu,Deshi
+25/10/2026,Yam(Ratalu),297,Madurai,Local,Anaiyur(Uzhavar Sandhai),6000,5500,5750,Tamil Nadu,Yam (Ratalu)
+25/10/2026,Apple,17,Madurai,Local,Anna nagar(Uzhavar Sandhai),19000,17000,18000,Tamil Nadu,American
+25/10/2026,Bottle gourd,82,Madurai,Local,Anna nagar(Uzhavar Sandhai),1800,1400,1600,Tamil Nadu,Bottle Gourd
+25/10/2026,Cabbage,154,Madurai,Local,Anna nagar(Uzhavar Sandhai),2800,2600,2700,Tamil Nadu,Cabbage
+25/10/2026,Chikoos(Sapota),71,Madurai,Local,Anna nagar(Uzhavar Sandhai),6000,5000,5500,Tamil Nadu,Sapota
+25/10/2026,Chili Red,26,Madurai,Local,Anna nagar(Uzhavar Sandhai),20000,20000,20000,Tamil Nadu,Bold
+25/10/2026,Garlic,25,Madurai,Local,Anna nagar(Uzhavar Sandhai),18000,16000,17000,Tamil Nadu,Garlic
+25/10/2026,Ginger(Green),103,Madurai,Local,Anna nagar(Uzhavar Sandhai),19500,19500,19500,Tamil Nadu,Green Ginger
+25/10/2026,Green Peas,50,Madurai,Local,Anna nagar(Uzhavar Sandhai),24000,22000,23000,Tamil Nadu,Green Peas
+25/10/2026,Groundnut,10,Madurai,Local,Anna nagar(Uzhavar Sandhai),8000,7000,7500,Tamil Nadu,Big (With Shell)
+25/10/2026,Indian Beans(Seam),299,Madurai,Local,Anna nagar(Uzhavar Sandhai),7600,7000,7300,Tamil Nadu,Indian Beans (Seam)
+25/10/2026,Jasmine,229,Madurai,Local,Anna nagar(Uzhavar Sandhai),40000,40000,40000,Tamil Nadu,Jasmine
+25/10/2026,Karbuja(Musk Melon),187,Madurai,Local,Anna nagar(Uzhavar Sandhai),5000,5000,5000,Tamil Nadu,Karbhuja
+25/10/2026,Knool Khol,177,Madurai,Local,Anna nagar(Uzhavar Sandhai),3000,3000,3000,Tamil Nadu,Knool Khol
+25/10/2026,Lemon,310,Madurai,Local,Anna nagar(Uzhavar Sandhai),23000,23000,23000,Tamil Nadu,Lemon
+25/10/2026,Lime,180,Madurai,Local,Anna nagar(Uzhavar Sandhai),4600,4600,4600,Tamil Nadu,Lime
+25/10/2026,Mango(Raw-Ripe),172,Madurai,Local,Anna nagar(Uzhavar Sandhai),11000,9000,10000,Tamil Nadu,Mango - Raw-Ripe
+25/10/2026,Marigold(Calcutta),235,Madurai,Local,Anna nagar(Uzhavar Sandhai),10000,10000,10000,Tamil Nadu,Marigold(Calcutta)
+25/10/2026,Mousambi(Sweet Lime),77,Madurai,Local,Anna nagar(Uzhavar Sandhai),6000,6000,6000,Tamil Nadu,Mousambi
+25/10/2026,Orange,18,Madurai,Local,Anna nagar(Uzhavar Sandhai),7500,7500,7500,Tamil Nadu,Darjeeling
+25/10/2026,Sweet Potato,152,Madurai,Local,Anna nagar(Uzhavar Sandhai),5600,5000,5300,Tamil Nadu,Hosur Red
+25/10/2026,Tender Coconut,200,Madurai,Local,Anna nagar(Uzhavar Sandhai),4500,4000,4250,Tamil Nadu,Tender Coconut
+25/10/2026,Water Melon,73,Madurai,Local,Anna nagar(Uzhavar Sandhai),2000,2000,2000,Tamil Nadu,Water Melon
+25/10/2026,Apple,17,Madurai,Local,Chokkikulam(Uzhavar Sandhai),24000,18000,21000,Tamil Nadu,American
+25/10/2026,Beetroot,157,Madurai,Local,Chokkikulam(Uzhavar Sandhai),5500,4500,5000,Tamil Nadu,Beetroot
+25/10/2026,Betal Leaves,143,Madurai,Local,Chokkikulam(Uzhavar Sandhai),26000,24000,25000,Tamil Nadu,Mysore
+25/10/2026,Bottle gourd,82,Madurai,Local,Chokkikulam(Uzhavar Sandhai),2000,1500,1750,Tamil Nadu,Bottle Gourd
+25/10/2026,Cabbage,154,Madurai,Local,Chokkikulam(Uzhavar Sandhai),3000,2500,2750,Tamil Nadu,Cabbage
+25/10/2026,Cauliflower,34,Madurai,Local,Chokkikulam(Uzhavar Sandhai),3000,2500,2750,Tamil Nadu,Ranchi
+25/10/2026,Chow Chow,167,Madurai,Local,Chokkikulam(Uzhavar Sandhai),3200,3000,3100,Tamil Nadu,Chow Chow
+25/10/2026,Drumstick,168,Madurai,Local,Chokkikulam(Uzhavar Sandhai),10000,8000,9000,Tamil Nadu,Drumstick
+25/10/2026,Ginger(Green),103,Madurai,Local,Chokkikulam(Uzhavar Sandhai),20000,10000,15000,Tamil Nadu,Green Ginger
+25/10/2026,Grapes,22,Madurai,Local,Chokkikulam(Uzhavar Sandhai),12000,11000,11500,Tamil Nadu,Annabesahai
+25/10/2026,Green Peas,50,Madurai,Local,Chokkikulam(Uzhavar Sandhai),24000,20000,22000,Tamil Nadu,Green Peas
+25/10/2026,Lemon,310,Madurai,Local,Chokkikulam(Uzhavar Sandhai),18000,16000,17000,Tamil Nadu,Lemon
+25/10/2026,Lime,180,Madurai,Local,Chokkikulam(Uzhavar Sandhai),4000,3600,3800,Tamil Nadu,Lime
+25/10/2026,Mango(Raw-Ripe),172,Madurai,Local,Chokkikulam(Uzhavar Sandhai),11000,8000,9500,Tamil Nadu,Mango - Raw-Ripe
+25/10/2026,Mousambi(Sweet Lime),77,Madurai,Local,Chokkikulam(Uzhavar Sandhai),7000,6500,6750,Tamil Nadu,Mousambi
+25/10/2026,Orange,18,Madurai,Local,Chokkikulam(Uzhavar Sandhai),16000,13000,14500,Tamil Nadu,Darjeeling
+25/10/2026,Potato,24,Madurai,Local,Chokkikulam(Uzhavar Sandhai),7000,6500,6750,Tamil Nadu,Red Nanital
+25/10/2026,Pumpkin,84,Madurai,Local,Chokkikulam(Uzhavar Sandhai),2000,1600,1800,Tamil Nadu,Pumpkin
+25/10/2026,Sweet Potato,152,Madurai,Local,Chokkikulam(Uzhavar Sandhai),6000,5500,5750,Tamil Nadu,Hosur Red
+25/10/2026,Tomato,78,Madurai,Local,Chokkikulam(Uzhavar Sandhai),3500,3200,3350,Tamil Nadu,Deshi
+25/10/2026,Yam(Ratalu),297,Madurai,Local,Chokkikulam(Uzhavar Sandhai),6000,5000,5500,Tamil Nadu,Yam (Ratalu)
+25/10/2026,Chikoos(Sapota),71,Madurai,Local,Melur(Uzhavar Sandhai),6000,4000,5000,Tamil Nadu,Sapota
+25/10/2026,Drumstick,168,Madurai,Local,Melur(Uzhavar Sandhai),10000,9000,9500,Tamil Nadu,Drumstick
+25/10/2026,Lemon,310,Madurai,Local,Melur(Uzhavar Sandhai),18000,16000,17000,Tamil Nadu,Lemon
+25/10/2026,Lime,180,Madurai,Local,Melur(Uzhavar Sandhai),4000,3600,3800,Tamil Nadu,Lime
+25/10/2026,Pumpkin,84,Madurai,Local,Melur(Uzhavar Sandhai),2000,1600,1800,Tamil Nadu,Pumpkin
+25/10/2026,Apple,17,Madurai,Local,Palanganatham(Uzhavar Sandhai),24000,18000,21000,Tamil Nadu,American
+25/10/2026,Bottle gourd,82,Madurai,Local,Palanganatham(Uzhavar Sandhai),2000,1500,1750,Tamil Nadu,Bottle Gourd
+25/10/2026,Cabbage,154,Madurai,Local,Palanganatham(Uzhavar Sandhai),3000,2500,2750,Tamil Nadu,Cabbage
+25/10/2026,Cauliflower,34,Madurai,Local,Palanganatham(Uzhavar Sandhai),3000,2500,2750,Tamil Nadu,Ranchi
+25/10/2026,Chow Chow,167,Madurai,Local,Palanganatham(Uzhavar Sandhai),3200,3000,3100,Tamil Nadu,Chow Chow
+25/10/2026,Colacasia,318,Madurai,Local,Palanganatham(Uzhavar Sandhai),6000,5000,5500,Tamil Nadu,Colacasia
+25/10/2026,Garlic,25,Madurai,Local,Palanganatham(Uzhavar Sandhai),28000,14000,21000,Tamil Nadu,Garlic
+25/10/2026,Ginger(Green),103,Madurai,Local,Palanganatham(Uzhavar Sandhai),20000,12000,16000,Tamil Nadu,Green Ginger
+25/10/2026,Indian Beans(Seam),299,Madurai,Local,Palanganatham(Uzhavar Sandhai),6000,5000,5500,Tamil Nadu,Indian Beans (Seam)
+25/10/2026,Mango(Raw-Ripe),172,Madurai,Local,Palanganatham(Uzhavar Sandhai),11000,9000,10000,Tamil Nadu,Mango - Raw-Ripe
+25/10/2026,Orange,18,Madurai,Local,Palanganatham(Uzhavar Sandhai),16000,12000,14000,Tamil Nadu,Darjeeling
+25/10/2026,Bottle gourd,82,Madurai,Local,Thirumangalam(Uzhavar Sandhai),1500,1200,1350,Tamil Nadu,Bottle Gourd
+25/10/2026,Drumstick,168,Madurai,Local,Thirumangalam(Uzhavar Sandhai),10000,9000,9500,Tamil Nadu,Drumstick
+25/10/2026,Lemon,310,Madurai,Local,Thirumangalam(Uzhavar Sandhai),18000,16000,17000,Tamil Nadu,Lemon
+25/10/2026,Mousambi(Sweet Lime),77,Madurai,Local,Thirumangalam(Uzhavar Sandhai),7000,6500,6750,Tamil Nadu,Mousambi
+25/10/2026,Pumpkin,84,Madurai,Local,Thirumangalam(Uzhavar Sandhai),2000,1600,1800,Tamil Nadu,Pumpkin
+25/10/2026,Tomato,78,Madurai,Local,Thirumangalam(Uzhavar Sandhai),3500,3200,3350,Tamil Nadu,Deshi
+25/10/2026,Bottle gourd,82,Madurai,Local,Usilampatti(Uzhavar Sandhai),1500,1200,1350,Tamil Nadu,Bottle Gourd
+25/10/2026,Lemon,310,Madurai,Local,Usilampatti(Uzhavar Sandhai),18000,16000,17000,Tamil Nadu,Lemon
+25/10/2026,Tomato,78,Madurai,Local,Usilampatti(Uzhavar Sandhai),3500,3200,3350,Tamil Nadu,Deshi
+25/10/2026,Beetroot,157,Mayiladuthurai,Local,Mayiladuthurai(Uzhavar Sandhai),5000,4500,4750,Tamil Nadu,Beetroot
+25/10/2026,Bottle gourd,82,Mayiladuthurai,Local,Mayiladuthurai(Uzhavar Sandhai),3000,2500,2750,Tamil Nadu,Bottle Gourd
+25/10/2026,Cabbage,154,Mayiladuthurai,Local,Mayiladuthurai(Uzhavar Sandhai),3000,3000,3000,Tamil Nadu,Cabbage
+25/10/2026,Cauliflower,34,Mayiladuthurai,Local,Mayiladuthurai(Uzhavar Sandhai),6000,5500,5750,Tamil Nadu,Ranchi
+25/10/2026,Chow Chow,167,Mayiladuthurai,Local,Mayiladuthurai(Uzhavar Sandhai),4000,3500,3750,Tamil Nadu,Chow Chow
+25/10/2026,Potato,24,Mayiladuthurai,Local,Mayiladuthurai(Uzhavar Sandhai),3000,3000,3000,Tamil Nadu,Red Nanital
+25/10/2026,Tender Coconut,200,Mayiladuthurai,Local,Mayiladuthurai(Uzhavar Sandhai),2500,2000,2250,Tamil Nadu,Tender Coconut
+25/10/2026,Yam(Ratalu),297,Mayiladuthurai,Local,Mayiladuthurai(Uzhavar Sandhai),9000,8000,8500,Tamil Nadu,Yam (Ratalu)
+25/10/2026,Bottle gourd,82,Mayiladuthurai,Local,Sirkali(Uzhavar Sandhai),3000,2500,2750,Tamil Nadu,Bottle Gourd
+25/10/2026,Cauliflower,34,Mayiladuthurai,Local,Sirkali(Uzhavar Sandhai),5000,5000,5000,Tamil Nadu,Ranchi
+25/10/2026,Chow Chow,167,Mayiladuthurai,Local,Sirkali(Uzhavar Sandhai),3000,3000,3000,Tamil Nadu,Chow Chow
+25/10/2026,Groundnut,10,Mayiladuthurai,Local,Sirkali(Uzhavar Sandhai),6000,5500,5750,Tamil Nadu,Big (With Shell)
+25/10/2026,Pumpkin,84,Mayiladuthurai,Local,Sirkali(Uzhavar Sandhai),3000,2500,2750,Tamil Nadu,Pumpkin
+25/10/2026,Tamarind Fruit,261,Mayiladuthurai,Local,Sirkali(Uzhavar Sandhai),15000,15000,15000,Tamil Nadu,Tamarind Fruit
+25/10/2026,Tender Coconut,200,Mayiladuthurai,Local,Sirkali(Uzhavar Sandhai),2500,2000,2250,Tamil Nadu,Tender Coconut
+25/10/2026,Tomato,78,Mayiladuthurai,Local,Sirkali(Uzhavar Sandhai),4000,3500,3750,Tamil Nadu,Deshi
+25/10/2026,Yam(Ratalu),297,Mayiladuthurai,Local,Sirkali(Uzhavar Sandhai),6000,5500,5750,Tamil Nadu,Yam (Ratalu)
+25/10/2026,Beetroot,157,Nagapattinam,Local,Nagapattinam(Uzhavar Sandhai),4200,4200,4200,Tamil Nadu,Beetroot
+25/10/2026,Chow Chow,167,Nagapattinam,Local,Nagapattinam(Uzhavar Sandhai),2800,2800,2800,Tamil Nadu,Chow Chow
+25/10/2026,Garlic,25,Nagapattinam,Local,Nagapattinam(Uzhavar Sandhai),20000,17700,18850,Tamil Nadu,Garlic
+25/10/2026,Lime,180,Nagapattinam,Local,Nagapattinam(Uzhavar Sandhai),3400,3400,3400,Tamil Nadu,Lime
+25/10/2026,Mango(Raw-Ripe),172,Nagapattinam,Local,Nagapattinam(Uzhavar Sandhai),6000,5000,5500,Tamil Nadu,Mango - Raw-Ripe
+25/10/2026,Pumpkin,84,Nagapattinam,Local,Nagapattinam(Uzhavar Sandhai),3100,3100,3100,Tamil Nadu,Pumpkin
+25/10/2026,Tamarind Fruit,261,Nagapattinam,Local,Nagapattinam(Uzhavar Sandhai),16000,14000,15000,Tamil Nadu,Tamarind Fruit
+25/10/2026,Yam(Ratalu),297,Nagapattinam,Local,Nagapattinam(Uzhavar Sandhai),8500,7800,8150,Tamil Nadu,Yam (Ratalu)
+25/10/2026,Beetroot,157,Nagapattinam,Local,Vedaranyam(Uzhavar Sandhai),4500,4000,4250,Tamil Nadu,Beetroot
+25/10/2026,Bottle gourd,82,Nagapattinam,Local,Vedaranyam(Uzhavar Sandhai),3500,3000,3250,Tamil Nadu,Bottle Gourd
+25/10/2026,Drumstick,168,Nagapattinam,Local,Vedaranyam(Uzhavar Sandhai),3800,3800,3800,Tamil Nadu,Drumstick
+25/10/2026,Ginger(Green),103,Nagapattinam,Local,Vedaranyam(Uzhavar Sandhai),20000,20000,20000,Tamil Nadu,Green Ginger
+25/10/2026,Lemon,310,Nagapattinam,Local,Vedaranyam(Uzhavar Sandhai),15500,15500,15500,Tamil Nadu,Lemon
+25/10/2026,Lime,180,Nagapattinam,Local,Vedaranyam(Uzhavar Sandhai),3000,3000,3000,Tamil Nadu,Lime
+25/10/2026,Mango(Raw-Ripe),172,Nagapattinam,Local,Vedaranyam(Uzhavar Sandhai),6500,4000,5250,Tamil Nadu,Mango - Raw-Ripe
+25/10/2026,Pumpkin,84,Nagapattinam,Local,Vedaranyam(Uzhavar Sandhai),3000,2500,2750,Tamil Nadu,Pumpkin
+25/10/2026,Tomato,78,Nagapattinam,Local,Vedaranyam(Uzhavar Sandhai),3800,3500,3650,Tamil Nadu,Deshi
+25/10/2026,Beetroot,157,Namakkal,Local,Kumarapalayam(Uzhavar Sandhai),6500,5500,6000,Tamil Nadu,Beetroot
+25/10/2026,Cabbage,154,Namakkal,Local,Kumarapalayam(Uzhavar Sandhai),3500,3100,3300,Tamil Nadu,Cabbage
+25/10/2026,Cauliflower,34,Namakkal,Local,Kumarapalayam(Uzhavar Sandhai),4500,3500,4000,Tamil Nadu,Ranchi
+25/10/2026,Chikoos(Sapota),71,Namakkal,Local,Kumarapalayam(Uzhavar Sandhai),4000,3500,3750,Tamil Nadu,Sapota
+25/10/2026,Drumstick,168,Namakkal,Local,Kumarapalayam(Uzhavar Sandhai),7500,7000,7250,Tamil Nadu,Drumstick
+25/10/2026,Lemon,310,Namakkal,Local,Kumarapalayam(Uzhavar Sandhai),16000,14000,15000,Tamil Nadu,Lemon
+25/10/2026,Mousambi(Sweet Lime),77,Namakkal,Local,Kumarapalayam(Uzhavar Sandhai),4000,3500,3750,Tamil Nadu,Mousambi
+25/10/2026,Pumpkin,84,Namakkal,Local,Kumarapalayam(Uzhavar Sandhai),3000,2600,2800,Tamil Nadu,Pumpkin
+25/10/2026,Tender Coconut,200,Namakkal,Local,Kumarapalayam(Uzhavar Sandhai),4000,3500,3750,Tamil Nadu,Tender Coconut
+25/10/2026,Water Melon,73,Namakkal,Local,Kumarapalayam(Uzhavar Sandhai),1500,1000,1250,Tamil Nadu,Water Melon
+25/10/2026,Beetroot,157,Namakkal,Local,Mohanur(Uzhavar Sandhai),7000,6300,6650,Tamil Nadu,Beetroot
+25/10/2026,Chow Chow,167,Namakkal,Local,Mohanur(Uzhavar Sandhai),4000,3500,3750,Tamil Nadu,Chow Chow
+25/10/2026,Lemon,310,Namakkal,Local,Mohanur(Uzhavar Sandhai),12000,10800,11400,Tamil Nadu,Lemon
+25/10/2026,Pumpkin,84,Namakkal,Local,Mohanur(Uzhavar Sandhai),2400,2000,2200,Tamil Nadu,Pumpkin
+25/10/2026,Tender Coconut,200,Namakkal,Local,Mohanur(Uzhavar Sandhai),3600,3100,3350,Tamil Nadu,Tender Coconut
+25/10/2026,Betal Leaves,143,Namakkal,Local,Namakkal(Uzhavar Sandhai),12000,10000,11000,Tamil Nadu,Mysore
+25/10/2026,Bottle gourd,82,Namakkal,Local,Namakkal(Uzhavar Sandhai),1600,1000,1300,Tamil Nadu,Bottle Gourd
+25/10/2026,Cauliflower,34,Namakkal,Local,Namakkal(Uzhavar Sandhai),4500,2500,3500,Tamil Nadu,Ranchi
+25/10/2026,Chow Chow,167,Namakkal,Local,Namakkal(Uzhavar Sandhai),3200,3000,3100,Tamil Nadu,Chow Chow
+25/10/2026,Drumstick,168,Namakkal,Local,Namakkal(Uzhavar Sandhai),9000,8000,8500,Tamil Nadu,Drumstick
+25/10/2026,Garlic,25,Namakkal,Local,Namakkal(Uzhavar Sandhai),28000,24000,26000,Tamil Nadu,Garlic
+25/10/2026,Groundnut,10,Namakkal,Local,Namakkal(Uzhavar Sandhai),7500,7000,7250,Tamil Nadu,Big (With Shell)
+25/10/2026,Jack Fruit(Ripe),182,Namakkal,Local,Namakkal(Uzhavar Sandhai),5000,4500,4750,Tamil Nadu,Jack Fruit
+25/10/2026,Knool Khol,177,Namakkal,Local,Namakkal(Uzhavar Sandhai),6000,5000,5500,Tamil Nadu,Knool Khol
+25/10/2026,Lemon,310,Namakkal,Local,Namakkal(Uzhavar Sandhai),11000,10000,10500,Tamil Nadu,Lemon
+25/10/2026,Lime,180,Namakkal,Local,Namakkal(Uzhavar Sandhai),4000,3500,3750,Tamil Nadu,Lime
+25/10/2026,Mango(Raw-Ripe),172,Namakkal,Local,Namakkal(Uzhavar Sandhai),10000,8000,9000,Tamil Nadu,Mango - Raw-Ripe
+25/10/2026,Orange,18,Namakkal,Local,Namakkal(Uzhavar Sandhai),6000,5000,5500,Tamil Nadu,Darjeeling
+25/10/2026,Water Melon,73,Namakkal,Local,Namakkal(Uzhavar Sandhai),1800,1500,1650,Tamil Nadu,Water Melon
+25/10/2026,Cauliflower,34,Namakkal,Local,Paramathivelur(Uzhavar Sandhai),3500,3000,3250,Tamil Nadu,Ranchi
+25/10/2026,Drumstick,168,Namakkal,Local,Paramathivelur(Uzhavar Sandhai),6500,5000,5750,Tamil Nadu,Drumstick
+25/10/2026,Lemon,310,Namakkal,Local,Paramathivelur(Uzhavar Sandhai),11000,8000,9500,Tamil Nadu,Lemon
+25/10/2026,Potato,24,Namakkal,Local,Paramathivelur(Uzhavar Sandhai),4000,3000,3500,Tamil Nadu,Red Nanital
+25/10/2026,Tomato,78,Namakkal,Local,Paramathivelur(Uzhavar Sandhai),4500,4000,4250,Tamil Nadu,Deshi
+25/10/2026,Beetroot,157,Namakkal,Local,Rasipuram(Uzhavar Sandhai),6500,5500,6000,Tamil Nadu,Beetroot
+25/10/2026,Bottle gourd,82,Namakkal,Local,Rasipuram(Uzhavar Sandhai),2200,1500,1850,Tamil Nadu,Bottle Gourd
+25/10/2026,Cabbage,154,Namakkal,Local,Rasipuram(Uzhavar Sandhai),3500,3000,3250,Tamil Nadu,Cabbage
+25/10/2026,Chikoos(Sapota),71,Namakkal,Local,Rasipuram(Uzhavar Sandhai),4500,4000,4250,Tamil Nadu,Sapota
+25/10/2026,Drumstick,168,Namakkal,Local,Rasipuram(Uzhavar Sandhai),9000,8500,8750,Tamil Nadu,Drumstick
+25/10/2026,Groundnut,10,Namakkal,Local,Rasipuram(Uzhavar Sandhai),7500,7000,7250,Tamil Nadu,Big (With Shell)
+25/10/2026,Lemon,310,Namakkal,Local,Rasipuram(Uzhavar Sandhai),15000,13000,14000,Tamil Nadu,Lemon
+25/10/2026,Mango(Raw-Ripe),172,Namakkal,Local,Rasipuram(Uzhavar Sandhai),8500,7500,8000,Tamil Nadu,Mango - Raw-Ripe
+25/10/2026,Marigold(Calcutta),235,Namakkal,Local,Rasipuram(Uzhavar Sandhai),16000,14000,15000,Tamil Nadu,Marigold(Calcutta)
+25/10/2026,Pumpkin,84,Namakkal,Local,Rasipuram(Uzhavar Sandhai),2200,1800,2000,Tamil Nadu,Pumpkin
+25/10/2026,Rose(Local),374,Namakkal,Local,Rasipuram(Uzhavar Sandhai),14000,12000,13000,Tamil Nadu,Rose (Local)
+25/10/2026,Tamarind Fruit,261,Namakkal,Local,Rasipuram(Uzhavar Sandhai),15000,13000,14000,Tamil Nadu,Tamarind Fruit
+25/10/2026,Tender Coconut,200,Namakkal,Local,Rasipuram(Uzhavar Sandhai),4000,3500,3750,Tamil Nadu,Tender Coconut
+25/10/2026,Beetroot,157,Namakkal,Local,Thiruchengodu RM,7000,6200,6600,Tamil Nadu,Beetroot
+25/10/2026,Cabbage,154,Namakkal,Local,Thiruchengodu RM,3000,2600,2800,Tamil Nadu,Cabbage
+25/10/2026,Cauliflower,34,Namakkal,Local,Thiruchengodu RM,3500,3000,3250,Tamil Nadu,Ranchi
+25/10/2026,Chow Chow,167,Namakkal,Local,Thiruchengodu RM,3000,2600,2800,Tamil Nadu,Chow Chow
+25/10/2026,Drumstick,168,Namakkal,Local,Thiruchengodu RM,9000,8000,8500,Tamil Nadu,Drumstick
+25/10/2026,Ginger(Green),103,Namakkal,Local,Thiruchengodu RM,17000,15000,16000,Tamil Nadu,Green Ginger
+25/10/2026,Lemon,310,Namakkal,Local,Thiruchengodu RM,12000,10500,11250,Tamil Nadu,Lemon
+25/10/2026,Mango(Raw-Ripe),172,Namakkal,Local,Thiruchengodu RM,10000,9000,9500,Tamil Nadu,Mango - Raw-Ripe
+25/10/2026,Mousambi(Sweet Lime),77,Namakkal,Local,Thiruchengodu RM,4000,3500,3750,Tamil Nadu,Mousambi
+25/10/2026,Pumpkin,84,Namakkal,Local,Thiruchengodu RM,2500,2000,2250,Tamil Nadu,Pumpkin
+25/10/2026,Sweet Potato,152,Namakkal,Local,Thiruchengodu RM,6500,5800,6150,Tamil Nadu,Hosur Red
+25/10/2026,Yam(Ratalu),297,Namakkal,Local,Thiruchengodu RM,8000,7000,7500,Tamil Nadu,Yam (Ratalu)
+25/10/2026,Apple,17,Perambalur,Local,Perambalur(Uzhavar Sandhai),18000,16000,17000,Tamil Nadu,American
+25/10/2026,Capsicum,164,Perambalur,Local,Perambalur(Uzhavar Sandhai),8400,8000,8200,Tamil Nadu,Capsicum
+25/10/2026,Colacasia,318,Perambalur,Local,Perambalur(Uzhavar Sandhai),6000,5000,5500,Tamil Nadu,Colacasia
+25/10/2026,Grapes,22,Perambalur,Local,Perambalur(Uzhavar Sandhai),11000,10000,10500,Tamil Nadu,Annabesahai
+25/10/2026,Groundnut,10,Perambalur,Local,Perambalur(Uzhavar Sandhai),9000,8000,8500,Tamil Nadu,Big (With Shell)
+25/10/2026,Indian Beans(Seam),299,Perambalur,Local,Perambalur(Uzhavar Sandhai),8800,8000,8400,Tamil Nadu,Indian Beans (Seam)
+25/10/2026,Pumpkin,84,Perambalur,Local,Perambalur(Uzhavar Sandhai),1600,1400,1500,Tamil Nadu,Pumpkin
+25/10/2026,Tender Coconut,200,Perambalur,Local,Perambalur(Uzhavar Sandhai),4000,3000,3500,Tamil Nadu,Tender Coconut
+25/10/2026,Tomato,78,Perambalur,Local,Perambalur(Uzhavar Sandhai),5200,4800,5000,Tamil Nadu,Deshi
+25/10/2026,Yam(Ratalu),297,Perambalur,Local,Perambalur(Uzhavar Sandhai),6000,5000,5500,Tamil Nadu,Yam (Ratalu)
+25/10/2026,Bottle gourd,82,Pudukkottai,Local,Alangudi(Uzhavar Sandhai),2000,1500,1750,Tamil Nadu,Bottle Gourd
+25/10/2026,Drumstick,168,Pudukkottai,Local,Alangudi(Uzhavar Sandhai),6000,5500,5750,Tamil Nadu,Drumstick
+25/10/2026,Tomato,78,Pudukkottai,Local,Alangudi(Uzhavar Sandhai),4000,3500,3750,Tamil Nadu,Deshi
+25/10/2026,Bottle gourd,82,Pudukkottai,Local,Gandarvakottai(Uzhavar Sandhai),2000,1500,1750,Tamil Nadu,Bottle Gourd
+25/10/2026,Pumpkin,84,Pudukkottai,Local,Gandarvakottai(Uzhavar Sandhai),1500,1000,1250,Tamil Nadu,Pumpkin
+25/10/2026,Bottle gourd,82,Pudukkottai,Local,Karambakkudi(Uzhavar Sandhai),2500,2000,2250,Tamil Nadu,Bottle Gourd
+25/10/2026,Drumstick,168,Pudukkottai,Local,Karambakkudi(Uzhavar Sandhai),8000,7000,7500,Tamil Nadu,Drumstick
+25/10/2026,Potato,24,Pudukkottai,Local,Karambakkudi(Uzhavar Sandhai),7000,6000,6500,Tamil Nadu,Red Nanital
+25/10/2026,Tomato,78,Pudukkottai,Local,Karambakkudi(Uzhavar Sandhai),4000,3500,3750,Tamil Nadu,Deshi
+25/10/2026,Drumstick,168,Pudukkottai,Local,Ponnamaravathi(Uzhavar Sandhai),10000,9500,9750,Tamil Nadu,Drumstick
+25/10/2026,Lemon,310,Pudukkottai,Local,Ponnamaravathi(Uzhavar Sandhai),20000,19500,19750,Tamil Nadu,Lemon
+25/10/2026,Pumpkin,84,Pudukkottai,Local,Ponnamaravathi(Uzhavar Sandhai),1500,1000,1250,Tamil Nadu,Pumpkin
+25/10/2026,Beetroot,157,Pudukkottai,Local,Pudukottai(Uzhavar Sandhai),5000,4000,4500,Tamil Nadu,Beetroot
+25/10/2026,Bottle gourd,82,Pudukkottai,Local,Pudukottai(Uzhavar Sandhai),2000,1500,1750,Tamil Nadu,Bottle Gourd
+25/10/2026,Capsicum,164,Pudukkottai,Local,Pudukottai(Uzhavar Sandhai),7000,6000,6500,Tamil Nadu,Capsicum
+25/10/2026,Chow Chow,167,Pudukkottai,Local,Pudukottai(Uzhavar Sandhai),3500,3000,3250,Tamil Nadu,Chow Chow
+25/10/2026,Colacasia,318,Pudukkottai,Local,Pudukottai(Uzhavar Sandhai),6000,5000,5500,Tamil Nadu,Colacasia
+25/10/2026,Drumstick,168,Pudukkottai,Local,Pudukottai(Uzhavar Sandhai),10000,9000,9500,Tamil Nadu,Drumstick
+25/10/2026,Lemon,310,Pudukkottai,Local,Pudukottai(Uzhavar Sandhai),20000,18000,19000,Tamil Nadu,Lemon
+25/10/2026,Lime,180,Pudukkottai,Local,Pudukottai(Uzhavar Sandhai),2000,1500,1750,Tamil Nadu,Lime
+25/10/2026,Mango(Raw-Ripe),172,Pudukkottai,Local,Pudukottai(Uzhavar Sandhai),11000,10000,10500,Tamil Nadu,Mango - Raw-Ripe
+25/10/2026,Mousambi(Sweet Lime),77,Pudukkottai,Local,Pudukottai(Uzhavar Sandhai),7000,6000,6500,Tamil Nadu,Mousambi
+25/10/2026,Tender Coconut,200,Pudukkottai,Local,Pudukottai(Uzhavar Sandhai),6000,5000,5500,Tamil Nadu,Tender Coconut
+25/10/2026,Tomato,78,Pudukkottai,Local,Pudukottai(Uzhavar Sandhai),4000,3500,3750,Tamil Nadu,Deshi
+25/10/2026,Bottle gourd,82,Pudukkottai,Local,Viralimalai(Uzhavar Sandhai),2500,2000,2250,Tamil Nadu,Bottle Gourd
+25/10/2026,Drumstick,168,Pudukkottai,Local,Viralimalai(Uzhavar Sandhai),11000,9000,10000,Tamil Nadu,Drumstick
+25/10/2026,Lemon,310,Pudukkottai,Local,Viralimalai(Uzhavar Sandhai),22000,20000,21000,Tamil Nadu,Lemon
+25/10/2026,Pumpkin,84,Pudukkottai,Local,Viralimalai(Uzhavar Sandhai),1500,1000,1250,Tamil Nadu,Pumpkin
+25/10/2026,Tomato,78,Pudukkottai,Local,Viralimalai(Uzhavar Sandhai),4500,4000,4250,Tamil Nadu,Deshi
+25/10/2026,Bottle gourd,82,Ramanathapuram,Local,Paramakudi(Uzhavar Sandhai),2000,1800,1900,Tamil Nadu,Bottle Gourd
+25/10/2026,Cabbage,154,Ramanathapuram,Local,Paramakudi(Uzhavar Sandhai),5000,4800,4900,Tamil Nadu,Cabbage
+25/10/2026,Cauliflower,34,Ramanathapuram,Local,Paramakudi(Uzhavar Sandhai),6000,5800,5900,Tamil Nadu,Ranchi
+25/10/2026,Chow Chow,167,Ramanathapuram,Local,Paramakudi(Uzhavar Sandhai),4800,4500,4650,Tamil Nadu,Chow Chow
+25/10/2026,Colacasia,318,Ramanathapuram,Local,Paramakudi(Uzhavar Sandhai),7200,7000,7100,Tamil Nadu,Colacasia
+25/10/2026,Ginger(Green),103,Ramanathapuram,Local,Paramakudi(Uzhavar Sandhai),13000,12000,12500,Tamil Nadu,Green Ginger
+25/10/2026,Jasmine,229,Ramanathapuram,Local,Paramakudi(Uzhavar Sandhai),90000,80000,85000,Tamil Nadu,Jasmine
+25/10/2026,Kakada,230,Ramanathapuram,Local,Paramakudi(Uzhavar Sandhai),60000,50000,55000,Tamil Nadu,Kakada
+25/10/2026,Lemon,310,Ramanathapuram,Local,Paramakudi(Uzhavar Sandhai),21000,20000,20500,Tamil Nadu,Lemon
+25/10/2026,Lime,180,Ramanathapuram,Local,Paramakudi(Uzhavar Sandhai),12000,11000,11500,Tamil Nadu,Lime
+25/10/2026,Marigold(Calcutta),235,Ramanathapuram,Local,Paramakudi(Uzhavar Sandhai),10000,9000,9500,Tamil Nadu,Marigold(Calcutta)
+25/10/2026,Pumpkin,84,Ramanathapuram,Local,Paramakudi(Uzhavar Sandhai),2200,2000,2100,Tamil Nadu,Pumpkin
+25/10/2026,Tomato,78,Ramanathapuram,Local,Paramakudi(Uzhavar Sandhai),4500,4000,4250,Tamil Nadu,Deshi
+25/10/2026,Yam(Ratalu),297,Ramanathapuram,Local,Paramakudi(Uzhavar Sandhai),6000,5500,5750,Tamil Nadu,Yam (Ratalu)
+25/10/2026,Beetroot,157,Ramanathapuram,Local,Ramanathapuram(Uzhavar Sandhai),5500,5000,5250,Tamil Nadu,Beetroot
+25/10/2026,Chow Chow,167,Ramanathapuram,Local,Ramanathapuram(Uzhavar Sandhai),4500,4000,4250,Tamil Nadu,Chow Chow
+25/10/2026,Drumstick,168,Ramanathapuram,Local,Ramanathapuram(Uzhavar Sandhai),9000,8000,8500,Tamil Nadu,Drumstick
+25/10/2026,Lemon,310,Ramanathapuram,Local,Ramanathapuram(Uzhavar Sandhai),21000,20000,20500,Tamil Nadu,Lemon
+25/10/2026,Lime,180,Ramanathapuram,Local,Ramanathapuram(Uzhavar Sandhai),12000,11000,11500,Tamil Nadu,Lime
+25/10/2026,Potato,24,Ramanathapuram,Local,Ramanathapuram(Uzhavar Sandhai),5500,5000,5250,Tamil Nadu,Red Nanital
+25/10/2026,Pumpkin,84,Ramanathapuram,Local,Ramanathapuram(Uzhavar Sandhai),2200,2000,2100,Tamil Nadu,Pumpkin
+25/10/2026,Tender Coconut,200,Ramanathapuram,Local,Ramanathapuram(Uzhavar Sandhai),6000,5000,5500,Tamil Nadu,Tender Coconut
+25/10/2026,Tomato,78,Ramanathapuram,Local,Ramanathapuram(Uzhavar Sandhai),4500,4000,4250,Tamil Nadu,Deshi
+25/10/2026,Yam(Ratalu),297,Ramanathapuram,Local,Ramanathapuram(Uzhavar Sandhai),7200,7000,7100,Tamil Nadu,Yam (Ratalu)
+25/10/2026,Beetroot,157,Ranipet,Local,Arcot(Uzhavar Sandhai),4500,4500,4500,Tamil Nadu,Beetroot
+25/10/2026,Cauliflower,34,Ranipet,Local,Arcot(Uzhavar Sandhai),4000,3000,3500,Tamil Nadu,Ranchi
+25/10/2026,Chow Chow,167,Ranipet,Local,Arcot(Uzhavar Sandhai),4000,4000,4000,Tamil Nadu,Chow Chow
+25/10/2026,Colacasia,318,Ranipet,Local,Arcot(Uzhavar Sandhai),4000,4000,4000,Tamil Nadu,Colacasia
+25/10/2026,Drumstick,168,Ranipet,Local,Arcot(Uzhavar Sandhai),10000,9000,9500,Tamil Nadu,Drumstick
+25/10/2026,Garlic,25,Ranipet,Local,Arcot(Uzhavar Sandhai),20000,20000,20000,Tamil Nadu,Garlic
+25/10/2026,Groundnut,10,Ranipet,Local,Arcot(Uzhavar Sandhai),6000,6000,6000,Tamil Nadu,Big (With Shell)
+25/10/2026,Knool Khol,177,Ranipet,Local,Arcot(Uzhavar Sandhai),6000,6000,6000,Tamil Nadu,Knool Khol
+25/10/2026,Mousambi(Sweet Lime),77,Ranipet,Local,Arcot(Uzhavar Sandhai),5000,5000,5000,Tamil Nadu,Mousambi
+25/10/2026,Potato,24,Ranipet,Local,Arcot(Uzhavar Sandhai),3000,3000,3000,Tamil Nadu,Red Nanital
+25/10/2026,Tender Coconut,200,Ranipet,Local,Arcot(Uzhavar Sandhai),3000,2500,2750,Tamil Nadu,Tender Coconut
+25/10/2026,Tomato,78,Ranipet,Local,Arcot(Uzhavar Sandhai),3500,3500,3500,Tamil Nadu,Deshi
+25/10/2026,Beetroot,157,Ranipet,Local,Ranipettai(Uzhavar Sandhai),4500,4500,4500,Tamil Nadu,Beetroot
+25/10/2026,Cabbage,154,Ranipet,Local,Ranipettai(Uzhavar Sandhai),2500,2500,2500,Tamil Nadu,Cabbage
+25/10/2026,Capsicum,164,Ranipet,Local,Ranipettai(Uzhavar Sandhai),8000,8000,8000,Tamil Nadu,Capsicum
+25/10/2026,Colacasia,318,Ranipet,Local,Ranipettai(Uzhavar Sandhai),4000,3000,3500,Tamil Nadu,Colacasia
+25/10/2026,Drumstick,168,Ranipet,Local,Ranipettai(Uzhavar Sandhai),12000,8000,10000,Tamil Nadu,Drumstick
+25/10/2026,Garlic,25,Ranipet,Local,Ranipettai(Uzhavar Sandhai),24000,24000,24000,Tamil Nadu,Garlic
+25/10/2026,Kakada,230,Ranipet,Local,Ranipettai(Uzhavar Sandhai),54000,54000,54000,Tamil Nadu,Kakada
+25/10/2026,Knool Khol,177,Ranipet,Local,Ranipettai(Uzhavar Sandhai),6000,6000,6000,Tamil Nadu,Knool Khol
+25/10/2026,Lemon,310,Ranipet,Local,Ranipettai(Uzhavar Sandhai),16000,10000,13000,Tamil Nadu,Lemon
+25/10/2026,Mango(Raw-Ripe),172,Ranipet,Local,Ranipettai(Uzhavar Sandhai),12000,8000,10000,Tamil Nadu,Mango - Raw-Ripe
+25/10/2026,Tender Coconut,200,Ranipet,Local,Ranipettai(Uzhavar Sandhai),4000,3000,3500,Tamil Nadu,Tender Coconut
+25/10/2026,Apple,17,Salem,Local,Ammapet(Uzhavar Sandhai),16000,15000,15500,Tamil Nadu,American
+25/10/2026,Bottle gourd,82,Salem,Local,Ammapet(Uzhavar Sandhai),3000,2500,2750,Tamil Nadu,Bottle Gourd
+25/10/2026,Cabbage,154,Salem,Local,Ammapet(Uzhavar Sandhai),3000,2400,2700,Tamil Nadu,Cabbage
+25/10/2026,Capsicum,164,Salem,Local,Ammapet(Uzhavar Sandhai),7500,7000,7250,Tamil Nadu,Capsicum
+25/10/2026,Cauliflower,34,Salem,Local,Ammapet(Uzhavar Sandhai),3000,2400,2700,Tamil Nadu,Ranchi
+25/10/2026,Chikoos(Sapota),71,Salem,Local,Ammapet(Uzhavar Sandhai),5000,4600,4800,Tamil Nadu,Sapota
+25/10/2026,Chow Chow,167,Salem,Local,Ammapet(Uzhavar Sandhai),4000,3800,3900,Tamil Nadu,Chow Chow
+25/10/2026,Custard Apple(Sharifa),352,Salem,Local,Ammapet(Uzhavar Sandhai),5000,4600,4800,Tamil Nadu,Custard Apple(Sharifa)
+25/10/2026,Drumstick,168,Salem,Local,Ammapet(Uzhavar Sandhai),7500,6500,7000,Tamil Nadu,Drumstick
+25/10/2026,Groundnut,10,Salem,Local,Ammapet(Uzhavar Sandhai),7000,6000,6500,Tamil Nadu,Big (With Shell)
+25/10/2026,Indian Beans(Seam),299,Salem,Local,Ammapet(Uzhavar Sandhai),7000,6600,6800,Tamil Nadu,Indian Beans (Seam)
+25/10/2026,Knool Khol,177,Salem,Local,Ammapet(Uzhavar Sandhai),6500,6000,6250,Tamil Nadu,Knool Khol
+25/10/2026,Mousambi(Sweet Lime),77,Salem,Local,Ammapet(Uzhavar Sandhai),4000,3600,3800,Tamil Nadu,Mousambi
+25/10/2026,Orange,18,Salem,Local,Ammapet(Uzhavar Sandhai),10000,9000,9500,Tamil Nadu,Darjeeling
+25/10/2026,Bottle gourd,82,Salem,Local,Athur(Uzhavar Sandhai),2200,2000,2100,Tamil Nadu,Bottle Gourd
+25/10/2026,Capsicum,164,Salem,Local,Athur(Uzhavar Sandhai),8000,7500,7750,Tamil Nadu,Capsicum
+25/10/2026,Cauliflower,34,Salem,Local,Athur(Uzhavar Sandhai),4000,3500,3750,Tamil Nadu,Ranchi
+25/10/2026,Drumstick,168,Salem,Local,Athur(Uzhavar Sandhai),8000,7000,7500,Tamil Nadu,Drumstick
+25/10/2026,Garlic,25,Salem,Local,Athur(Uzhavar Sandhai),22000,20000,21000,Tamil Nadu,Garlic
+25/10/2026,Groundnut,10,Salem,Local,Athur(Uzhavar Sandhai),7000,6500,6750,Tamil Nadu,Big (With Shell)
+25/10/2026,Kakada,230,Salem,Local,Athur(Uzhavar Sandhai),50000,45000,47500,Tamil Nadu,Kakada
+25/10/2026,Lemon,310,Salem,Local,Athur(Uzhavar Sandhai),10000,9000,9500,Tamil Nadu,Lemon
+25/10/2026,Mango(Raw-Ripe),172,Salem,Local,Athur(Uzhavar Sandhai),10000,8000,9000,Tamil Nadu,Mango - Raw-Ripe
+25/10/2026,Mousambi(Sweet Lime),77,Salem,Local,Athur(Uzhavar Sandhai),6000,5000,5500,Tamil Nadu,Mousambi
+25/10/2026,Rose(Local),374,Salem,Local,Athur(Uzhavar Sandhai),14000,12000,13000,Tamil Nadu,Rose (Local)
+25/10/2026,Sweet Potato,152,Salem,Local,Athur(Uzhavar Sandhai),4500,4000,4250,Tamil Nadu,Hosur Red
+25/10/2026,Tamarind Fruit,261,Salem,Local,Athur(Uzhavar Sandhai),16000,13000,14500,Tamil Nadu,Tamarind Fruit
+25/10/2026,Tube Rose(Loose),408,Salem,Local,Athur(Uzhavar Sandhai),10000,4000,7000,Tamil Nadu,Tube Rose (Loose)
+25/10/2026,Yam(Ratalu),297,Salem,Local,Athur(Uzhavar Sandhai),4000,3500,3750,Tamil Nadu,Yam (Ratalu)
+25/10/2026,Drumstick,168,Salem,Local,Attayampatti(Uzhavar Sandhai),7000,7000,7000,Tamil Nadu,Drumstick
+25/10/2026,Groundnut,10,Salem,Local,Attayampatti(Uzhavar Sandhai),7500,7500,7500,Tamil Nadu,Big (With Shell)
+25/10/2026,Lemon,310,Salem,Local,Attayampatti(Uzhavar Sandhai),20000,20000,20000,Tamil Nadu,Lemon
+25/10/2026,Tomato,78,Salem,Local,Attayampatti(Uzhavar Sandhai),3500,3500,3500,Tamil Nadu,Deshi
+25/10/2026,Beetroot,157,Salem,Local,Edapadi (Uzhavar Sandhai),7000,6500,6750,Tamil Nadu,Beetroot
+25/10/2026,Bottle gourd,82,Salem,Local,Edapadi (Uzhavar Sandhai),2500,2000,2250,Tamil Nadu,Bottle Gourd
+25/10/2026,Cabbage,154,Salem,Local,Edapadi (Uzhavar Sandhai),3500,3000,3250,Tamil Nadu,Cabbage
+25/10/2026,Chow Chow,167,Salem,Local,Edapadi (Uzhavar Sandhai),4000,3500,3750,Tamil Nadu,Chow Chow
+25/10/2026,Drumstick,168,Salem,Local,Edapadi (Uzhavar Sandhai),6500,6000,6250,Tamil Nadu,Drumstick
+25/10/2026,Jasmine,229,Salem,Local,Edapadi (Uzhavar Sandhai),44000,43000,43500,Tamil Nadu,Jasmine
+25/10/2026,Mango(Raw-Ripe),172,Salem,Local,Edapadi (Uzhavar Sandhai),8000,7500,7750,Tamil Nadu,Mango - Raw-Ripe
+25/10/2026,Sweet Potato,152,Salem,Local,Edapadi (Uzhavar Sandhai),4500,4000,4250,Tamil Nadu,Hosur Red
+25/10/2026,Yam(Ratalu),297,Salem,Local,Edapadi (Uzhavar Sandhai),5000,4500,4750,Tamil Nadu,Yam (Ratalu)
+25/10/2026,Cauliflower,34,Salem,Local,Elampillai(Uzhavar Sandhai),3000,2500,2750,Tamil Nadu,Ranchi
+25/10/2026,Chow Chow,167,Salem,Local,Elampillai(Uzhavar Sandhai),4000,3500,3750,Tamil Nadu,Chow Chow
+25/10/2026,Groundnut,10,Salem,Local,Elampillai(Uzhavar Sandhai),6000,5500,5750,Tamil Nadu,Big (With Shell)
+25/10/2026,Mousambi(Sweet Lime),77,Salem,Local,Elampillai(Uzhavar Sandhai),3500,3000,3250,Tamil Nadu,Mousambi
+25/10/2026,Pumpkin,84,Salem,Local,Elampillai(Uzhavar Sandhai),2000,1800,1900,Tamil Nadu,Pumpkin
+25/10/2026,Beetroot,157,Salem,Local,Hasthampatti(Uzhavar Sandhai),6000,5500,5750,Tamil Nadu,Beetroot
+25/10/2026,Bottle gourd,82,Salem,Local,Hasthampatti(Uzhavar Sandhai),3000,2500,2750,Tamil Nadu,Bottle Gourd
+25/10/2026,Cabbage,154,Salem,Local,Hasthampatti(Uzhavar Sandhai),3400,3000,3200,Tamil Nadu,Cabbage
+25/10/2026,Cauliflower,34,Salem,Local,Hasthampatti(Uzhavar Sandhai),3500,3000,3250,Tamil Nadu,Ranchi
+25/10/2026,Custard Apple(Sharifa),352,Salem,Local,Hasthampatti(Uzhavar Sandhai),4500,4000,4250,Tamil Nadu,Custard Apple(Sharifa)
+25/10/2026,Garlic,25,Salem,Local,Hasthampatti(Uzhavar Sandhai),20000,18000,19000,Tamil Nadu,Garlic
+25/10/2026,Knool Khol,177,Salem,Local,Hasthampatti(Uzhavar Sandhai),6500,6000,6250,Tamil Nadu,Knool Khol
+25/10/2026,Mango(Raw-Ripe),172,Salem,Local,Hasthampatti(Uzhavar Sandhai),10000,8000,9000,Tamil Nadu,Mango - Raw-Ripe
+25/10/2026,Orange,18,Salem,Local,Hasthampatti(Uzhavar Sandhai),10000,8000,9000,Tamil Nadu,Darjeeling
+25/10/2026,Pumpkin,84,Salem,Local,Hasthampatti(Uzhavar Sandhai),2000,1800,1900,Tamil Nadu,Pumpkin
+25/10/2026,Tamarind Fruit,261,Salem,Local,Hasthampatti(Uzhavar Sandhai),16000,15000,15500,Tamil Nadu,Tamarind Fruit
+25/10/2026,Cabbage,154,Salem,Local,Jalagandapuram(Uzhavar Sandhai),3000,2500,2750,Tamil Nadu,Cabbage
+25/10/2026,Capsicum,164,Salem,Local,Jalagandapuram(Uzhavar Sandhai),8000,7000,7500,Tamil Nadu,Capsicum
+25/10/2026,Ginger(Green),103,Salem,Local,Jalagandapuram(Uzhavar Sandhai),19000,18000,18500,Tamil Nadu,Green Ginger
+25/10/2026,Groundnut,10,Salem,Local,Jalagandapuram(Uzhavar Sandhai),7000,6000,6500,Tamil Nadu,Big (With Shell)
+25/10/2026,Lemon,310,Salem,Local,Jalagandapuram(Uzhavar Sandhai),6000,5500,5750,Tamil Nadu,Lemon
+25/10/2026,Lime,180,Salem,Local,Jalagandapuram(Uzhavar Sandhai),3500,3000,3250,Tamil Nadu,Lime
+25/10/2026,Pumpkin,84,Salem,Local,Jalagandapuram(Uzhavar Sandhai),2000,1800,1900,Tamil Nadu,Pumpkin
+25/10/2026,Tender Coconut,200,Salem,Local,Jalagandapuram(Uzhavar Sandhai),3500,3000,3250,Tamil Nadu,Tender Coconut
+25/10/2026,Bottle gourd,82,Salem,Local,Mecheri(Uzhavar Sandhai),2500,2000,2250,Tamil Nadu,Bottle Gourd
+25/10/2026,Drumstick,168,Salem,Local,Mecheri(Uzhavar Sandhai),7000,6000,6500,Tamil Nadu,Drumstick
+25/10/2026,Pumpkin,84,Salem,Local,Mecheri(Uzhavar Sandhai),2000,1600,1800,Tamil Nadu,Pumpkin
+25/10/2026,Tomato,78,Salem,Local,Mecheri(Uzhavar Sandhai),3400,3000,3200,Tamil Nadu,Deshi
+25/10/2026,Cabbage,154,Salem,Local,Mettur(Uzhavar Sandhai),3000,2500,2750,Tamil Nadu,Cabbage
+25/10/2026,Capsicum,164,Salem,Local,Mettur(Uzhavar Sandhai),8000,7500,7750,Tamil Nadu,Capsicum
+25/10/2026,Cauliflower,34,Salem,Local,Mettur(Uzhavar Sandhai),4000,3500,3750,Tamil Nadu,Ranchi
+25/10/2026,Drumstick,168,Salem,Local,Mettur(Uzhavar Sandhai),7000,6500,6750,Tamil Nadu,Drumstick
+25/10/2026,Ginger(Green),103,Salem,Local,Mettur(Uzhavar Sandhai),20000,19000,19500,Tamil Nadu,Green Ginger
+25/10/2026,Groundnut,10,Salem,Local,Mettur(Uzhavar Sandhai),6500,6000,6250,Tamil Nadu,Big (With Shell)
+25/10/2026,Knool Khol,177,Salem,Local,Mettur(Uzhavar Sandhai),7000,6500,6750,Tamil Nadu,Knool Khol
+25/10/2026,Lemon,310,Salem,Local,Mettur(Uzhavar Sandhai),12000,11000,11500,Tamil Nadu,Lemon
+25/10/2026,Marigold(Calcutta),235,Salem,Local,Mettur(Uzhavar Sandhai),18000,17000,17500,Tamil Nadu,Marigold(Calcutta)
+25/10/2026,Pumpkin,84,Salem,Local,Mettur(Uzhavar Sandhai),2000,1500,1750,Tamil Nadu,Pumpkin
+25/10/2026,Water Melon,73,Salem,Local,Mettur(Uzhavar Sandhai),3000,1500,2250,Tamil Nadu,Water Melon
+25/10/2026,Beetroot,157,Salem,Local,Sooramangalam(Uzhavar Sandhai),6400,6000,6200,Tamil Nadu,Beetroot
+25/10/2026,Capsicum,164,Salem,Local,Sooramangalam(Uzhavar Sandhai),8000,7500,7750,Tamil Nadu,Capsicum
+25/10/2026,Colacasia,318,Salem,Local,Sooramangalam(Uzhavar Sandhai),7000,6500,6750,Tamil Nadu,Colacasia
+25/10/2026,Custard Apple(Sharifa),352,Salem,Local,Sooramangalam(Uzhavar Sandhai),4500,4000,4250,Tamil Nadu,Custard Apple(Sharifa)
+25/10/2026,Ginger(Green),103,Salem,Local,Sooramangalam(Uzhavar Sandhai),18000,17000,17500,Tamil Nadu,Green Ginger
+25/10/2026,Indian Beans(Seam),299,Salem,Local,Sooramangalam(Uzhavar Sandhai),7000,6500,6750,Tamil Nadu,Indian Beans (Seam)
+25/10/2026,Knool Khol,177,Salem,Local,Sooramangalam(Uzhavar Sandhai),6500,6000,6250,Tamil Nadu,Knool Khol
+25/10/2026,Mango,20,Salem,Local,Sooramangalam(Uzhavar Sandhai),18000,17000,17500,Tamil Nadu,Other
+25/10/2026,Mango(Raw-Ripe),172,Salem,Local,Sooramangalam(Uzhavar Sandhai),8000,7000,7500,Tamil Nadu,Mango - Raw-Ripe
+25/10/2026,Marigold(Calcutta),235,Salem,Local,Sooramangalam(Uzhavar Sandhai),8000,7000,7500,Tamil Nadu,Marigold(Calcutta)
+25/10/2026,Mousambi(Sweet Lime),77,Salem,Local,Sooramangalam(Uzhavar Sandhai),3500,3000,3250,Tamil Nadu,Mousambi
+25/10/2026,Sweet Potato,152,Salem,Local,Sooramangalam(Uzhavar Sandhai),5000,4000,4500,Tamil Nadu,Hosur Red
+25/10/2026,Beetroot,157,Salem,Local,Thammampatti (Uzhavar Sandhai),6000,6000,6000,Tamil Nadu,Beetroot
+25/10/2026,Cabbage,154,Salem,Local,Thammampatti (Uzhavar Sandhai),4000,3500,3750,Tamil Nadu,Cabbage
+25/10/2026,Capsicum,164,Salem,Local,Thammampatti (Uzhavar Sandhai),7000,6500,6750,Tamil Nadu,Capsicum
+25/10/2026,Chow Chow,167,Salem,Local,Thammampatti (Uzhavar Sandhai),4000,4000,4000,Tamil Nadu,Chow Chow
+25/10/2026,Drumstick,168,Salem,Local,Thammampatti (Uzhavar Sandhai),8000,7000,7500,Tamil Nadu,Drumstick
+25/10/2026,Ginger(Green),103,Salem,Local,Thammampatti (Uzhavar Sandhai),20000,9000,14500,Tamil Nadu,Green Ginger
+25/10/2026,Knool Khol,177,Salem,Local,Thammampatti (Uzhavar Sandhai),7000,6500,6750,Tamil Nadu,Knool Khol
+25/10/2026,Lemon,310,Salem,Local,Thammampatti (Uzhavar Sandhai),9000,7000,8000,Tamil Nadu,Lemon
+25/10/2026,Tender Coconut,200,Salem,Local,Thammampatti (Uzhavar Sandhai),4000,3000,3500,Tamil Nadu,Tender Coconut
+25/10/2026,Tomato,78,Salem,Local,Thammampatti (Uzhavar Sandhai),3500,2500,3000,Tamil Nadu,Deshi
+25/10/2026,Bottle gourd,82,Salem,Local,Thathakapatti(Uzhavar Sandhai),3400,3000,3200,Tamil Nadu,Bottle Gourd
+25/10/2026,Cabbage,154,Salem,Local,Thathakapatti(Uzhavar Sandhai),3000,2500,2750,Tamil Nadu,Cabbage
+25/10/2026,Cauliflower,34,Salem,Local,Thathakapatti(Uzhavar Sandhai),2500,2000,2250,Tamil Nadu,Ranchi
+25/10/2026,Colacasia,318,Salem,Local,Thathakapatti(Uzhavar Sandhai),6000,5000,5500,Tamil Nadu,Colacasia
+25/10/2026,Drumstick,168,Salem,Local,Thathakapatti(Uzhavar Sandhai),8000,7000,7500,Tamil Nadu,Drumstick
+25/10/2026,Garlic,25,Salem,Local,Thathakapatti(Uzhavar Sandhai),28000,25000,26500,Tamil Nadu,Garlic
+25/10/2026,Ginger(Green),103,Salem,Local,Thathakapatti(Uzhavar Sandhai),18000,17000,17500,Tamil Nadu,Green Ginger
+25/10/2026,Green Peas,50,Salem,Local,Thathakapatti(Uzhavar Sandhai),22400,20000,21200,Tamil Nadu,Green Peas
+25/10/2026,Indian Beans(Seam),299,Salem,Local,Thathakapatti(Uzhavar Sandhai),8000,7000,7500,Tamil Nadu,Indian Beans (Seam)
+25/10/2026,Jasmine,229,Salem,Local,Thathakapatti(Uzhavar Sandhai),100000,95000,97500,Tamil Nadu,Jasmine
+25/10/2026,Lemon,310,Salem,Local,Thathakapatti(Uzhavar Sandhai),20000,18000,19000,Tamil Nadu,Lemon
+25/10/2026,Lime,180,Salem,Local,Thathakapatti(Uzhavar Sandhai),4000,3500,3750,Tamil Nadu,Lime
+25/10/2026,Mousambi(Sweet Lime),77,Salem,Local,Thathakapatti(Uzhavar Sandhai),4000,3000,3500,Tamil Nadu,Mousambi
+25/10/2026,Sweet Potato,152,Salem,Local,Thathakapatti(Uzhavar Sandhai),5000,4000,4500,Tamil Nadu,Hosur Red
+25/10/2026,Yam(Ratalu),297,Salem,Local,Thathakapatti(Uzhavar Sandhai),8000,7000,7500,Tamil Nadu,Yam (Ratalu)
+25/10/2026,Beetroot,157,Salem,Local,Vazhapadi(Uzhavar Sandhai),5000,5000,5000,Tamil Nadu,Beetroot
+25/10/2026,Bottle gourd,82,Salem,Local,Vazhapadi(Uzhavar Sandhai),3000,2500,2750,Tamil Nadu,Bottle Gourd
+25/10/2026,Cabbage,154,Salem,Local,Vazhapadi(Uzhavar Sandhai),3000,3000,3000,Tamil Nadu,Cabbage
+25/10/2026,Garlic,25,Salem,Local,Vazhapadi(Uzhavar Sandhai),25000,25000,25000,Tamil Nadu,Garlic
+25/10/2026,Ginger(Green),103,Salem,Local,Vazhapadi(Uzhavar Sandhai),20000,20000,20000,Tamil Nadu,Green Ginger
+25/10/2026,Pumpkin,84,Salem,Local,Vazhapadi(Uzhavar Sandhai),2000,2000,2000,Tamil Nadu,Pumpkin
+25/10/2026,Bottle gourd,82,Sivagangai,Local,Devakottai (Uzhavar Sandhai),2200,1800,2000,Tamil Nadu,Bottle Gourd
+25/10/2026,Cabbage,154,Sivagangai,Local,Devakottai (Uzhavar Sandhai),3000,2600,2800,Tamil Nadu,Cabbage
+25/10/2026,Cauliflower,34,Sivagangai,Local,Devakottai (Uzhavar Sandhai),3400,2800,3100,Tamil Nadu,Ranchi
+25/10/2026,Chow Chow,167,Sivagangai,Local,Devakottai (Uzhavar Sandhai),3400,3200,3300,Tamil Nadu,Chow Chow
+25/10/2026,Drumstick,168,Sivagangai,Local,Devakottai (Uzhavar Sandhai),9000,8500,8750,Tamil Nadu,Drumstick
+25/10/2026,Ginger(Green),103,Sivagangai,Local,Devakottai (Uzhavar Sandhai),20000,11000,15500,Tamil Nadu,Green Ginger
+25/10/2026,Lemon,310,Sivagangai,Local,Devakottai (Uzhavar Sandhai),18400,16000,17200,Tamil Nadu,Lemon
+25/10/2026,Mango(Raw-Ripe),172,Sivagangai,Local,Devakottai (Uzhavar Sandhai),11200,8200,9700,Tamil Nadu,Mango - Raw-Ripe
+25/10/2026,Pumpkin,84,Sivagangai,Local,Devakottai (Uzhavar Sandhai),2200,2000,2100,Tamil Nadu,Pumpkin
+25/10/2026,Yam(Ratalu),297,Sivagangai,Local,Devakottai (Uzhavar Sandhai),6400,5800,6100,Tamil Nadu,Yam (Ratalu)
+25/10/2026,Beetroot,157,Sivagangai,Local,Karaikudi(Uzhavar Sandhai),6000,4400,5200,Tamil Nadu,Beetroot
+25/10/2026,Bottle gourd,82,Sivagangai,Local,Karaikudi(Uzhavar Sandhai),2400,2200,2300,Tamil Nadu,Bottle Gourd
+25/10/2026,Cabbage,154,Sivagangai,Local,Karaikudi(Uzhavar Sandhai),3200,2800,3000,Tamil Nadu,Cabbage
+25/10/2026,Cauliflower,34,Sivagangai,Local,Karaikudi(Uzhavar Sandhai),3500,3000,3250,Tamil Nadu,Ranchi
+25/10/2026,Chow Chow,167,Sivagangai,Local,Karaikudi(Uzhavar Sandhai),3600,3400,3500,Tamil Nadu,Chow Chow
+25/10/2026,Ginger(Green),103,Sivagangai,Local,Karaikudi(Uzhavar Sandhai),20500,10500,15500,Tamil Nadu,Green Ginger
+25/10/2026,Knool Khol,177,Sivagangai,Local,Karaikudi(Uzhavar Sandhai),7400,6400,6900,Tamil Nadu,Knool Khol
+25/10/2026,Lemon,310,Sivagangai,Local,Karaikudi(Uzhavar Sandhai),18500,16500,17500,Tamil Nadu,Lemon
+25/10/2026,Potato,24,Sivagangai,Local,Karaikudi(Uzhavar Sandhai),7400,6800,7100,Tamil Nadu,Red Nanital
+25/10/2026,Pumpkin,84,Sivagangai,Local,Karaikudi(Uzhavar Sandhai),2400,2000,2200,Tamil Nadu,Pumpkin
+25/10/2026,Tomato,78,Sivagangai,Local,Karaikudi(Uzhavar Sandhai),4800,4500,4650,Tamil Nadu,Deshi
+25/10/2026,Yam(Ratalu),297,Sivagangai,Local,Karaikudi(Uzhavar Sandhai),6500,5800,6150,Tamil Nadu,Yam (Ratalu)
+25/10/2026,Beetroot,157,Sivagangai,Local,Singampunari(Uzhavar Sandhai),5600,4200,4900,Tamil Nadu,Beetroot
+25/10/2026,Cabbage,154,Sivagangai,Local,Singampunari(Uzhavar Sandhai),3000,2600,2800,Tamil Nadu,Cabbage
+25/10/2026,Drumstick,168,Sivagangai,Local,Singampunari(Uzhavar Sandhai),10200,8400,9300,Tamil Nadu,Drumstick
+25/10/2026,Knool Khol,177,Sivagangai,Local,Singampunari(Uzhavar Sandhai),6200,5600,5900,Tamil Nadu,Knool Khol
+25/10/2026,Yam(Ratalu),297,Sivagangai,Local,Singampunari(Uzhavar Sandhai),6200,5600,5900,Tamil Nadu,Yam (Ratalu)
+25/10/2026,Beetroot,157,Sivagangai,Local,Sivagangai (Uzhavar Sandhai),5600,4200,4900,Tamil Nadu,Beetroot
+25/10/2026,Bottle gourd,82,Sivagangai,Local,Sivagangai (Uzhavar Sandhai),2200,1600,1900,Tamil Nadu,Bottle Gourd
+25/10/2026,Cabbage,154,Sivagangai,Local,Sivagangai (Uzhavar Sandhai),3200,2600,2900,Tamil Nadu,Cabbage
+25/10/2026,Cauliflower,34,Sivagangai,Local,Sivagangai (Uzhavar Sandhai),3200,2600,2900,Tamil Nadu,Ranchi
+25/10/2026,Chikoos(Sapota),71,Sivagangai,Local,Sivagangai (Uzhavar Sandhai),6200,4200,5200,Tamil Nadu,Sapota
+25/10/2026,Colacasia,318,Sivagangai,Local,Sivagangai (Uzhavar Sandhai),6200,5200,5700,Tamil Nadu,Colacasia
+25/10/2026,Ginger(Green),103,Sivagangai,Local,Sivagangai (Uzhavar Sandhai),20000,12000,16000,Tamil Nadu,Green Ginger
+25/10/2026,Lime,180,Sivagangai,Local,Sivagangai (Uzhavar Sandhai),16000,13000,14500,Tamil Nadu,Lime
+25/10/2026,Potato,24,Sivagangai,Local,Sivagangai (Uzhavar Sandhai),7200,6600,6900,Tamil Nadu,Red Nanital
+25/10/2026,Pumpkin,84,Sivagangai,Local,Sivagangai (Uzhavar Sandhai),2200,1800,2000,Tamil Nadu,Pumpkin
+25/10/2026,Tomato,78,Sivagangai,Local,Sivagangai (Uzhavar Sandhai),3600,3400,3500,Tamil Nadu,Deshi
+25/10/2026,Yam(Ratalu),297,Sivagangai,Local,Sivagangai (Uzhavar Sandhai),6200,5600,5900,Tamil Nadu,Yam (Ratalu)
+25/10/2026,Bottle gourd,82,Sivagangai,Local,Tirupatthur(Uzhavar Sandhai),2500,2200,2350,Tamil Nadu,Bottle Gourd
+25/10/2026,Cabbage,154,Sivagangai,Local,Tirupatthur(Uzhavar Sandhai),3000,2800,2900,Tamil Nadu,Cabbage
+25/10/2026,Cauliflower,34,Sivagangai,Local,Tirupatthur(Uzhavar Sandhai),3500,3000,3250,Tamil Nadu,Ranchi
+25/10/2026,Chikoos(Sapota),71,Sivagangai,Local,Tirupatthur(Uzhavar Sandhai),6500,4400,5450,Tamil Nadu,Sapota
+25/10/2026,Chow Chow,167,Sivagangai,Local,Tirupatthur(Uzhavar Sandhai),3500,3200,3350,Tamil Nadu,Chow Chow
+25/10/2026,Ginger(Green),103,Sivagangai,Local,Tirupatthur(Uzhavar Sandhai),20500,10500,15500,Tamil Nadu,Green Ginger
+25/10/2026,Knool Khol,177,Sivagangai,Local,Tirupatthur(Uzhavar Sandhai),7500,6400,6950,Tamil Nadu,Knool Khol
+25/10/2026,Lemon,310,Sivagangai,Local,Tirupatthur(Uzhavar Sandhai),18500,16400,17450,Tamil Nadu,Lemon
+25/10/2026,Mango(Raw-Ripe),172,Sivagangai,Local,Tirupatthur(Uzhavar Sandhai),11500,8400,9950,Tamil Nadu,Mango - Raw-Ripe
+25/10/2026,Potato,24,Sivagangai,Local,Tirupatthur(Uzhavar Sandhai),6000,3500,4750,Tamil Nadu,Red Nanital
+25/10/2026,Pumpkin,84,Sivagangai,Local,Tirupatthur(Uzhavar Sandhai),2500,2000,2250,Tamil Nadu,Pumpkin
+25/10/2026,Beetroot,157,Thanjavur,Local,Kumbakonam (Uzhavar Sandhai),4800,4800,4800,Tamil Nadu,Beetroot
+25/10/2026,Bottle gourd,82,Thanjavur,Local,Kumbakonam (Uzhavar Sandhai),2400,2400,2400,Tamil Nadu,Bottle Gourd
+25/10/2026,Cabbage,154,Thanjavur,Local,Kumbakonam (Uzhavar Sandhai),3600,3600,3600,Tamil Nadu,Cabbage
+25/10/2026,Capsicum,164,Thanjavur,Local,Kumbakonam (Uzhavar Sandhai),8500,8500,8500,Tamil Nadu,Capsicum
+25/10/2026,Cauliflower,34,Thanjavur,Local,Kumbakonam (Uzhavar Sandhai),7200,7200,7200,Tamil Nadu,Ranchi
+25/10/2026,Colacasia,318,Thanjavur,Local,Kumbakonam (Uzhavar Sandhai),6000,6000,6000,Tamil Nadu,Colacasia
+25/10/2026,Drumstick,168,Thanjavur,Local,Kumbakonam (Uzhavar Sandhai),10800,10800,10800,Tamil Nadu,Drumstick
+25/10/2026,Ginger(Green),103,Thanjavur,Local,Kumbakonam (Uzhavar Sandhai),21600,9600,15600,Tamil Nadu,Green Ginger
+25/10/2026,Lemon,310,Thanjavur,Local,Kumbakonam (Uzhavar Sandhai),25000,25000,25000,Tamil Nadu,Lemon
+25/10/2026,Potato,24,Thanjavur,Local,Kumbakonam (Uzhavar Sandhai),3600,3000,3300,Tamil Nadu,Red Nanital
+25/10/2026,Tomato,78,Thanjavur,Local,Kumbakonam (Uzhavar Sandhai),4800,4200,4500,Tamil Nadu,Deshi
+25/10/2026,Bottle gourd,82,Thanjavur,Local,Papanasam(Uzhavar Sandhai),2400,2400,2400,Tamil Nadu,Bottle Gourd
+25/10/2026,Ginger(Green),103,Thanjavur,Local,Papanasam(Uzhavar Sandhai),21600,9600,15600,Tamil Nadu,Green Ginger
+25/10/2026,Pumpkin,84,Thanjavur,Local,Papanasam(Uzhavar Sandhai),2400,2400,2400,Tamil Nadu,Pumpkin
+25/10/2026,Bottle gourd,82,Thanjavur,Local,Pattukottai(Uzhavar Sandhai),2600,2600,2600,Tamil Nadu,Bottle Gourd
+25/10/2026,Cabbage,154,Thanjavur,Local,Pattukottai(Uzhavar Sandhai),3000,3000,3000,Tamil Nadu,Cabbage
+25/10/2026,Capsicum,164,Thanjavur,Local,Pattukottai(Uzhavar Sandhai),6000,6000,6000,Tamil Nadu,Capsicum
+25/10/2026,Cauliflower,34,Thanjavur,Local,Pattukottai(Uzhavar Sandhai),4800,4800,4800,Tamil Nadu,Ranchi
+25/10/2026,Chow Chow,167,Thanjavur,Local,Pattukottai(Uzhavar Sandhai),3400,3400,3400,Tamil Nadu,Chow Chow
+25/10/2026,Ginger(Green),103,Thanjavur,Local,Pattukottai(Uzhavar Sandhai),18000,12000,15000,Tamil Nadu,Green Ginger
+25/10/2026,Lemon,310,Thanjavur,Local,Pattukottai(Uzhavar Sandhai),14600,14600,14600,Tamil Nadu,Lemon
+25/10/2026,Potato,24,Thanjavur,Local,Pattukottai(Uzhavar Sandhai),3000,3000,3000,Tamil Nadu,Red Nanital
+25/10/2026,Pumpkin,84,Thanjavur,Local,Pattukottai(Uzhavar Sandhai),2600,2600,2600,Tamil Nadu,Pumpkin
+25/10/2026,Tomato,78,Thanjavur,Local,Pattukottai(Uzhavar Sandhai),4400,4400,4400,Tamil Nadu,Deshi
+25/10/2026,Yam(Ratalu),297,Thanjavur,Local,Pattukottai(Uzhavar Sandhai),7000,7000,7000,Tamil Nadu,Yam (Ratalu)
+25/10/2026,Bottle gourd,82,Thanjavur,Local,Peravurani(Uzhavar Sandhai),2500,2500,2500,Tamil Nadu,Bottle Gourd
+25/10/2026,Mango(Raw-Ripe),172,Thanjavur,Local,Peravurani(Uzhavar Sandhai),12000,12000,12000,Tamil Nadu,Mango - Raw-Ripe
+25/10/2026,Potato,24,Thanjavur,Local,Peravurani(Uzhavar Sandhai),3200,3200,3200,Tamil Nadu,Red Nanital
+25/10/2026,Pumpkin,84,Thanjavur,Local,Peravurani(Uzhavar Sandhai),2600,2600,2600,Tamil Nadu,Pumpkin
+25/10/2026,Tomato,78,Thanjavur,Local,Peravurani(Uzhavar Sandhai),4400,4400,4400,Tamil Nadu,Deshi
+25/10/2026,Potato,24,Thanjavur,Local,Tirukattupalli(Uzhavar Sandhai),3000,3000,3000,Tamil Nadu,Red Nanital
+25/10/2026,Tomato,78,Thanjavur,Local,Tirukattupalli(Uzhavar Sandhai),4400,4400,4400,Tamil Nadu,Deshi
+25/10/2026,Beetroot,157,The Nilgiris,Local,Coonoor(Uzhavar Sandhai),5000,4500,4750,Tamil Nadu,Beetroot
+25/10/2026,Bottle gourd,82,The Nilgiris,Local,Coonoor(Uzhavar Sandhai),3000,2600,2800,Tamil Nadu,Bottle Gourd
+25/10/2026,Cabbage,154,The Nilgiris,Local,Coonoor(Uzhavar Sandhai),2200,1800,2000,Tamil Nadu,Cabbage
+25/10/2026,Cauliflower,34,The Nilgiris,Local,Coonoor(Uzhavar Sandhai),6000,5500,5750,Tamil Nadu,Ranchi
+25/10/2026,Chow Chow,167,The Nilgiris,Local,Coonoor(Uzhavar Sandhai),2200,2000,2100,Tamil Nadu,Chow Chow
+25/10/2026,Garlic,25,The Nilgiris,Local,Coonoor(Uzhavar Sandhai),22000,21000,21500,Tamil Nadu,Garlic
+25/10/2026,Knool Khol,177,The Nilgiris,Local,Coonoor(Uzhavar Sandhai),4000,3500,3750,Tamil Nadu,Knool Khol
+25/10/2026,Lime,180,The Nilgiris,Local,Coonoor(Uzhavar Sandhai),14000,13000,13500,Tamil Nadu,Lime
+25/10/2026,Beetroot,157,The Nilgiris,Local,Gudalur(Uzhavar Sandhai),5000,4500,4750,Tamil Nadu,Beetroot
+25/10/2026,Bottle gourd,82,The Nilgiris,Local,Gudalur(Uzhavar Sandhai),3000,2500,2750,Tamil Nadu,Bottle Gourd
+25/10/2026,Cabbage,154,The Nilgiris,Local,Gudalur(Uzhavar Sandhai),2000,1500,1750,Tamil Nadu,Cabbage
+25/10/2026,Capsicum,164,The Nilgiris,Local,Gudalur(Uzhavar Sandhai),8000,7000,7500,Tamil Nadu,Capsicum
+25/10/2026,Cauliflower,34,The Nilgiris,Local,Gudalur(Uzhavar Sandhai),6000,5500,5750,Tamil Nadu,Ranchi
+25/10/2026,Tomato,78,The Nilgiris,Local,Gudalur(Uzhavar Sandhai),4500,4000,4250,Tamil Nadu,Deshi
+25/10/2026,Turnip,341,The Nilgiris,Local,Gudalur(Uzhavar Sandhai),4000,3500,3750,Tamil Nadu,Turnip
+25/10/2026,Beetroot,157,The Nilgiris,Local,Udhagamandalam(Uzhavar Sandhai),5000,4600,4800,Tamil Nadu,Beetroot
+25/10/2026,Bottle gourd,82,The Nilgiris,Local,Udhagamandalam(Uzhavar Sandhai),2800,2500,2650,Tamil Nadu,Bottle Gourd
+25/10/2026,Cauliflower,34,The Nilgiris,Local,Udhagamandalam(Uzhavar Sandhai),6000,5500,5750,Tamil Nadu,Ranchi
+25/10/2026,Garlic,25,The Nilgiris,Local,Udhagamandalam(Uzhavar Sandhai),23000,20000,21500,Tamil Nadu,Garlic
+25/10/2026,Ginger(Green),103,The Nilgiris,Local,Udhagamandalam(Uzhavar Sandhai),16000,15000,15500,Tamil Nadu,Green Ginger
+25/10/2026,Grapes,22,The Nilgiris,Local,Udhagamandalam(Uzhavar Sandhai),15000,10000,12500,Tamil Nadu,Annabesahai
+25/10/2026,Knool Khol,177,The Nilgiris,Local,Udhagamandalam(Uzhavar Sandhai),4000,3500,3750,Tamil Nadu,Knool Khol
+25/10/2026,Lime,180,The Nilgiris,Local,Udhagamandalam(Uzhavar Sandhai),15000,10000,12500,Tamil Nadu,Lime
+25/10/2026,Orange,18,The Nilgiris,Local,Udhagamandalam(Uzhavar Sandhai),9000,8000,8500,Tamil Nadu,Darjeeling
+25/10/2026,Sweet Potato,152,The Nilgiris,Local,Udhagamandalam(Uzhavar Sandhai),4500,4000,4250,Tamil Nadu,Hosur Red
+25/10/2026,Tomato,78,The Nilgiris,Local,Udhagamandalam(Uzhavar Sandhai),3500,3000,3250,Tamil Nadu,Deshi
+25/10/2026,Bottle gourd,82,Theni,Local,Andipatti(Uzhavar Sandhai),1400,1200,1300,Tamil Nadu,Bottle Gourd
+25/10/2026,Chow Chow,167,Theni,Local,Andipatti(Uzhavar Sandhai),2400,2200,2300,Tamil Nadu,Chow Chow
+25/10/2026,Garlic,25,Theni,Local,Andipatti(Uzhavar Sandhai),24000,23500,23750,Tamil Nadu,Garlic
+25/10/2026,Ginger(Green),103,Theni,Local,Andipatti(Uzhavar Sandhai),14500,9000,11750,Tamil Nadu,Green Ginger
+25/10/2026,Lime,180,Theni,Local,Andipatti(Uzhavar Sandhai),17000,16500,16750,Tamil Nadu,Lime
+25/10/2026,Pumpkin,84,Theni,Local,Andipatti(Uzhavar Sandhai),1800,1600,1700,Tamil Nadu,Pumpkin
+25/10/2026,Yam(Ratalu),297,Theni,Local,Andipatti(Uzhavar Sandhai),6000,5800,5900,Tamil Nadu,Yam (Ratalu)
+25/10/2026,Beetroot,157,Theni,Local,Bodinayakanur(Uzhavar Sandhai),2500,2500,2500,Tamil Nadu,Beetroot
+25/10/2026,Bottle gourd,82,Theni,Local,Bodinayakanur(Uzhavar Sandhai),1400,1400,1400,Tamil Nadu,Bottle Gourd
+25/10/2026,Cauliflower,34,Theni,Local,Bodinayakanur(Uzhavar Sandhai),3500,3500,3500,Tamil Nadu,Ranchi
+25/10/2026,Chow Chow,167,Theni,Local,Bodinayakanur(Uzhavar Sandhai),2500,2500,2500,Tamil Nadu,Chow Chow
+25/10/2026,Potato,24,Theni,Local,Bodinayakanur(Uzhavar Sandhai),2800,2800,2800,Tamil Nadu,Red Nanital
+25/10/2026,Pumpkin,84,Theni,Local,Bodinayakanur(Uzhavar Sandhai),1800,1800,1800,Tamil Nadu,Pumpkin
+25/10/2026,Beetroot,157,Theni,Local,Chinnamanur(Uzhavar Sandhai),2500,2500,2500,Tamil Nadu,Beetroot
+25/10/2026,Bottle gourd,82,Theni,Local,Chinnamanur(Uzhavar Sandhai),1400,1400,1400,Tamil Nadu,Bottle Gourd
+25/10/2026,Cabbage,154,Theni,Local,Chinnamanur(Uzhavar Sandhai),2500,2500,2500,Tamil Nadu,Cabbage
+25/10/2026,Capsicum,164,Theni,Local,Chinnamanur(Uzhavar Sandhai),7500,7500,7500,Tamil Nadu,Capsicum
+25/10/2026,Chow Chow,167,Theni,Local,Chinnamanur(Uzhavar Sandhai),2400,2400,2400,Tamil Nadu,Chow Chow
+25/10/2026,Colacasia,318,Theni,Local,Chinnamanur(Uzhavar Sandhai),5000,5000,5000,Tamil Nadu,Colacasia
+25/10/2026,Drumstick,168,Theni,Local,Chinnamanur(Uzhavar Sandhai),7000,7000,7000,Tamil Nadu,Drumstick
+25/10/2026,Garlic,25,Theni,Local,Chinnamanur(Uzhavar Sandhai),24000,14000,19000,Tamil Nadu,Garlic
+25/10/2026,Ginger(Green),103,Theni,Local,Chinnamanur(Uzhavar Sandhai),7000,7000,7000,Tamil Nadu,Green Ginger
+25/10/2026,Knool Khol,177,Theni,Local,Chinnamanur(Uzhavar Sandhai),5500,5500,5500,Tamil Nadu,Knool Khol
+25/10/2026,Lemon,310,Theni,Local,Chinnamanur(Uzhavar Sandhai),23000,15000,19000,Tamil Nadu,Lemon
+25/10/2026,Pumpkin,84,Theni,Local,Chinnamanur(Uzhavar Sandhai),1600,1600,1600,Tamil Nadu,Pumpkin
+25/10/2026,Beetroot,157,Theni,Local,Devaram(Uzhavar Sandhai),2500,2500,2500,Tamil Nadu,Beetroot
+25/10/2026,Cabbage,154,Theni,Local,Devaram(Uzhavar Sandhai),2500,2500,2500,Tamil Nadu,Cabbage
+25/10/2026,Chow Chow,167,Theni,Local,Devaram(Uzhavar Sandhai),2400,2400,2400,Tamil Nadu,Chow Chow
+25/10/2026,Drumstick,168,Theni,Local,Devaram(Uzhavar Sandhai),7000,7000,7000,Tamil Nadu,Drumstick
+25/10/2026,Indian Beans(Seam),299,Theni,Local,Devaram(Uzhavar Sandhai),6000,6000,6000,Tamil Nadu,Indian Beans (Seam)
+25/10/2026,Knool Khol,177,Theni,Local,Devaram(Uzhavar Sandhai),5500,5500,5500,Tamil Nadu,Knool Khol
+25/10/2026,Potato,24,Theni,Local,Devaram(Uzhavar Sandhai),2600,2600,2600,Tamil Nadu,Red Nanital
+25/10/2026,Pumpkin,84,Theni,Local,Devaram(Uzhavar Sandhai),1800,1800,1800,Tamil Nadu,Pumpkin
+25/10/2026,Sweet Potato,152,Theni,Local,Devaram(Uzhavar Sandhai),5000,5000,5000,Tamil Nadu,Hosur Red
+25/10/2026,Tomato,78,Theni,Local,Devaram(Uzhavar Sandhai),4000,4000,4000,Tamil Nadu,Deshi
+25/10/2026,Betal Leaves,143,Theni,Local,Kambam(Uzhavar Sandhai),22000,22000,22000,Tamil Nadu,Mysore
+25/10/2026,Bottle gourd,82,Theni,Local,Kambam(Uzhavar Sandhai),1200,1000,1100,Tamil Nadu,Bottle Gourd
+25/10/2026,Cabbage,154,Theni,Local,Kambam(Uzhavar Sandhai),2500,2500,2500,Tamil Nadu,Cabbage
+25/10/2026,Cauliflower,34,Theni,Local,Kambam(Uzhavar Sandhai),3000,2000,2500,Tamil Nadu,Ranchi
+25/10/2026,Chow Chow,167,Theni,Local,Kambam(Uzhavar Sandhai),2400,2400,2400,Tamil Nadu,Chow Chow
+25/10/2026,Drumstick,168,Theni,Local,Kambam(Uzhavar Sandhai),5000,2500,3750,Tamil Nadu,Drumstick
+25/10/2026,Ginger(Green),103,Theni,Local,Kambam(Uzhavar Sandhai),14500,6500,10500,Tamil Nadu,Green Ginger
+25/10/2026,Lemon,310,Theni,Local,Kambam(Uzhavar Sandhai),21000,20000,20500,Tamil Nadu,Lemon
+25/10/2026,Mango(Raw-Ripe),172,Theni,Local,Kambam(Uzhavar Sandhai),8500,7000,7750,Tamil Nadu,Mango - Raw-Ripe
+25/10/2026,Potato,24,Theni,Local,Kambam(Uzhavar Sandhai),3000,3000,3000,Tamil Nadu,Red Nanital
+25/10/2026,Pumpkin,84,Theni,Local,Kambam(Uzhavar Sandhai),1800,1800,1800,Tamil Nadu,Pumpkin
+25/10/2026,Sweet Potato,152,Theni,Local,Kambam(Uzhavar Sandhai),5500,5000,5250,Tamil Nadu,Hosur Red
+25/10/2026,Tomato,78,Theni,Local,Kambam(Uzhavar Sandhai),4000,4000,4000,Tamil Nadu,Deshi
+25/10/2026,Cabbage,154,Theni,Local,Periyakulam(Uzhavar Sandhai),2500,2300,2400,Tamil Nadu,Cabbage
+25/10/2026,Cauliflower,34,Theni,Local,Periyakulam(Uzhavar Sandhai),2500,2000,2250,Tamil Nadu,Ranchi
+25/10/2026,Drumstick,168,Theni,Local,Periyakulam(Uzhavar Sandhai),7000,6500,6750,Tamil Nadu,Drumstick
+25/10/2026,Lemon,310,Theni,Local,Periyakulam(Uzhavar Sandhai),18000,17500,17750,Tamil Nadu,Lemon
+25/10/2026,Pumpkin,84,Theni,Local,Periyakulam(Uzhavar Sandhai),1800,1600,1700,Tamil Nadu,Pumpkin
+25/10/2026,Yam(Ratalu),297,Theni,Local,Periyakulam(Uzhavar Sandhai),6000,5800,5900,Tamil Nadu,Yam (Ratalu)
+25/10/2026,Beetroot,157,Theni,Local,Theni(Uzhavar Sandhai),2500,2500,2500,Tamil Nadu,Beetroot
+25/10/2026,Betal Leaves,143,Theni,Local,Theni(Uzhavar Sandhai),22000,22000,22000,Tamil Nadu,Mysore
+25/10/2026,Bottle gourd,82,Theni,Local,Theni(Uzhavar Sandhai),1400,1000,1200,Tamil Nadu,Bottle Gourd
+25/10/2026,Cabbage,154,Theni,Local,Theni(Uzhavar Sandhai),2500,2500,2500,Tamil Nadu,Cabbage
+25/10/2026,Capsicum,164,Theni,Local,Theni(Uzhavar Sandhai),7500,7500,7500,Tamil Nadu,Capsicum
+25/10/2026,Cauliflower,34,Theni,Local,Theni(Uzhavar Sandhai),2500,2000,2250,Tamil Nadu,Ranchi
+25/10/2026,Chili Red,26,Theni,Local,Theni(Uzhavar Sandhai),10000,10000,10000,Tamil Nadu,Bold
+25/10/2026,Chow Chow,167,Theni,Local,Theni(Uzhavar Sandhai),2400,2400,2400,Tamil Nadu,Chow Chow
+25/10/2026,Colacasia,318,Theni,Local,Theni(Uzhavar Sandhai),5000,5000,5000,Tamil Nadu,Colacasia
+25/10/2026,Custard Apple(Sharifa),352,Theni,Local,Theni(Uzhavar Sandhai),8000,8000,8000,Tamil Nadu,Custard Apple(Sharifa)
+25/10/2026,Drumstick,168,Theni,Local,Theni(Uzhavar Sandhai),7000,3000,5000,Tamil Nadu,Drumstick
+25/10/2026,Ginger(Green),103,Theni,Local,Theni(Uzhavar Sandhai),14500,6500,10500,Tamil Nadu,Green Ginger
+25/10/2026,Grapes,22,Theni,Local,Theni(Uzhavar Sandhai),13000,13000,13000,Tamil Nadu,Annabesahai
+25/10/2026,Indian Beans(Seam),299,Theni,Local,Theni(Uzhavar Sandhai),5800,5400,5600,Tamil Nadu,Indian Beans (Seam)
+25/10/2026,Knool Khol,177,Theni,Local,Theni(Uzhavar Sandhai),5500,5500,5500,Tamil Nadu,Knool Khol
+25/10/2026,Lemon,310,Theni,Local,Theni(Uzhavar Sandhai),18000,15000,16500,Tamil Nadu,Lemon
+25/10/2026,Lime,180,Theni,Local,Theni(Uzhavar Sandhai),17000,13500,15250,Tamil Nadu,Lime
+25/10/2026,Mousambi(Sweet Lime),77,Theni,Local,Theni(Uzhavar Sandhai),6000,6000,6000,Tamil Nadu,Mousambi
+25/10/2026,Soyabean,13,Theni,Local,Theni(Uzhavar Sandhai),11500,11000,11250,Tamil Nadu,Local
+25/10/2026,Sweet Potato,152,Theni,Local,Theni(Uzhavar Sandhai),5000,5000,5000,Tamil Nadu,Hosur Red
+25/10/2026,Turnip,341,Theni,Local,Theni(Uzhavar Sandhai),3500,3500,3500,Tamil Nadu,Turnip
+25/10/2026,Water Melon,73,Theni,Local,Theni(Uzhavar Sandhai),2500,2500,2500,Tamil Nadu,Water Melon
+25/10/2026,Yam(Ratalu),297,Theni,Local,Theni(Uzhavar Sandhai),6000,6000,6000,Tamil Nadu,Yam (Ratalu)
+25/10/2026,Colacasia,318,Thenkasi,Local,Sankarankoil(Uzhavar Sandhai),7000,7000,7000,Tamil Nadu,Colacasia
+25/10/2026,Mango(Raw-Ripe),172,Thenkasi,Local,Sankarankoil(Uzhavar Sandhai),10000,10000,10000,Tamil Nadu,Mango - Raw-Ripe
+25/10/2026,Pumpkin,84,Thenkasi,Local,Sankarankoil(Uzhavar Sandhai),2000,2000,2000,Tamil Nadu,Pumpkin
+25/10/2026,Tender Coconut,200,Thenkasi,Local,Sankarankoil(Uzhavar Sandhai),4000,3000,3500,Tamil Nadu,Tender Coconut
+25/10/2026,Tomato,78,Thenkasi,Local,Sankarankoil(Uzhavar Sandhai),4500,2500,3500,Tamil Nadu,Deshi
+25/10/2026,Yam(Ratalu),297,Thenkasi,Local,Sankarankoil(Uzhavar Sandhai),7500,7500,7500,Tamil Nadu,Yam (Ratalu)
+25/10/2026,Beetroot,157,Thenkasi,Local,Tenkasi(Uzhavar Sandhai),4000,4000,4000,Tamil Nadu,Beetroot
+25/10/2026,Bottle gourd,82,Thenkasi,Local,Tenkasi(Uzhavar Sandhai),1000,1000,1000,Tamil Nadu,Bottle Gourd
+25/10/2026,Cabbage,154,Thenkasi,Local,Tenkasi(Uzhavar Sandhai),3000,3000,3000,Tamil Nadu,Cabbage
+25/10/2026,Capsicum,164,Thenkasi,Local,Tenkasi(Uzhavar Sandhai),7000,7000,7000,Tamil Nadu,Capsicum
+25/10/2026,Cauliflower,34,Thenkasi,Local,Tenkasi(Uzhavar Sandhai),5000,5000,5000,Tamil Nadu,Ranchi
+25/10/2026,Chikoos(Sapota),71,Thenkasi,Local,Tenkasi(Uzhavar Sandhai),5000,5000,5000,Tamil Nadu,Sapota
+25/10/2026,Colacasia,318,Thenkasi,Local,Tenkasi(Uzhavar Sandhai),5000,5000,5000,Tamil Nadu,Colacasia
+25/10/2026,Ginger(Green),103,Thenkasi,Local,Tenkasi(Uzhavar Sandhai),17000,10000,13500,Tamil Nadu,Green Ginger
+25/10/2026,Lime,180,Thenkasi,Local,Tenkasi(Uzhavar Sandhai),4000,4000,4000,Tamil Nadu,Lime
+25/10/2026,Mango(Raw-Ripe),172,Thenkasi,Local,Tenkasi(Uzhavar Sandhai),5000,5000,5000,Tamil Nadu,Mango - Raw-Ripe
+25/10/2026,Sweet Potato,152,Thenkasi,Local,Tenkasi(Uzhavar Sandhai),5000,5000,5000,Tamil Nadu,Hosur Red
+25/10/2026,Tender Coconut,200,Thenkasi,Local,Tenkasi(Uzhavar Sandhai),4000,4000,4000,Tamil Nadu,Tender Coconut
+25/10/2026,Apple,17,Thiruchirappalli,Local,KKNagar(Uzhavar Sandhai),16000,16000,16000,Tamil Nadu,American
+25/10/2026,Betal Leaves,143,Thiruchirappalli,Local,KKNagar(Uzhavar Sandhai),10000,10000,10000,Tamil Nadu,Mysore
+25/10/2026,Bottle gourd,82,Thiruchirappalli,Local,KKNagar(Uzhavar Sandhai),1800,1800,1800,Tamil Nadu,Bottle Gourd
+25/10/2026,Colacasia,318,Thiruchirappalli,Local,KKNagar(Uzhavar Sandhai),6600,6600,6600,Tamil Nadu,Colacasia
+25/10/2026,Green Peas,50,Thiruchirappalli,Local,KKNagar(Uzhavar Sandhai),24000,24000,24000,Tamil Nadu,Green Peas
+25/10/2026,Groundnut,10,Thiruchirappalli,Local,KKNagar(Uzhavar Sandhai),8000,8000,8000,Tamil Nadu,Big (With Shell)
+25/10/2026,Mousambi(Sweet Lime),77,Thiruchirappalli,Local,KKNagar(Uzhavar Sandhai),6000,6000,6000,Tamil Nadu,Mousambi
+25/10/2026,Orange,18,Thiruchirappalli,Local,KKNagar(Uzhavar Sandhai),7000,7000,7000,Tamil Nadu,Darjeeling
+25/10/2026,Potato,24,Thiruchirappalli,Local,KKNagar(Uzhavar Sandhai),3000,3000,3000,Tamil Nadu,Red Nanital
+25/10/2026,Sweet Potato,152,Thiruchirappalli,Local,KKNagar(Uzhavar Sandhai),7000,7000,7000,Tamil Nadu,Hosur Red
+25/10/2026,Tender Coconut,200,Thiruchirappalli,Local,KKNagar(Uzhavar Sandhai),4500,4000,4250,Tamil Nadu,Tender Coconut
+25/10/2026,Tomato,78,Thiruchirappalli,Local,KKNagar(Uzhavar Sandhai),3200,3000,3100,Tamil Nadu,Deshi
+25/10/2026,Beetroot,157,Thiruchirappalli,Local,Lalgudi(Uzhavar Sandhai),4600,4600,4600,Tamil Nadu,Beetroot
+25/10/2026,Chow Chow,167,Thiruchirappalli,Local,Lalgudi(Uzhavar Sandhai),4000,4000,4000,Tamil Nadu,Chow Chow
+25/10/2026,Colacasia,318,Thiruchirappalli,Local,Lalgudi(Uzhavar Sandhai),5600,5600,5600,Tamil Nadu,Colacasia
+25/10/2026,Drumstick,168,Thiruchirappalli,Local,Lalgudi(Uzhavar Sandhai),9000,9000,9000,Tamil Nadu,Drumstick
+25/10/2026,Indian Beans(Seam),299,Thiruchirappalli,Local,Lalgudi(Uzhavar Sandhai),8000,8000,8000,Tamil Nadu,Indian Beans (Seam)
+25/10/2026,Knool Khol,177,Thiruchirappalli,Local,Lalgudi(Uzhavar Sandhai),3000,3000,3000,Tamil Nadu,Knool Khol
+25/10/2026,Lemon,310,Thiruchirappalli,Local,Lalgudi(Uzhavar Sandhai),22000,22000,22000,Tamil Nadu,Lemon
+25/10/2026,Mango(Raw-Ripe),172,Thiruchirappalli,Local,Lalgudi(Uzhavar Sandhai),10000,10000,10000,Tamil Nadu,Mango - Raw-Ripe
+25/10/2026,Pumpkin,84,Thiruchirappalli,Local,Lalgudi(Uzhavar Sandhai),2000,2000,2000,Tamil Nadu,Pumpkin
+25/10/2026,Sweet Potato,152,Thiruchirappalli,Local,Lalgudi(Uzhavar Sandhai),6000,6000,6000,Tamil Nadu,Hosur Red
+25/10/2026,Yam(Ratalu),297,Thiruchirappalli,Local,Lalgudi(Uzhavar Sandhai),5600,5600,5600,Tamil Nadu,Yam (Ratalu)
+25/10/2026,Beetroot,157,Thiruchirappalli,Local,Manachanallur(Uzhavar Sandhai),4500,4500,4500,Tamil Nadu,Beetroot
+25/10/2026,Bottle gourd,82,Thiruchirappalli,Local,Manachanallur(Uzhavar Sandhai),1800,1500,1650,Tamil Nadu,Bottle Gourd
+25/10/2026,Cabbage,154,Thiruchirappalli,Local,Manachanallur(Uzhavar Sandhai),3000,2500,2750,Tamil Nadu,Cabbage
+25/10/2026,Cauliflower,34,Thiruchirappalli,Local,Manachanallur(Uzhavar Sandhai),5000,4000,4500,Tamil Nadu,Ranchi
+25/10/2026,Chow Chow,167,Thiruchirappalli,Local,Manachanallur(Uzhavar Sandhai),3600,3000,3300,Tamil Nadu,Chow Chow
+25/10/2026,Drumstick,168,Thiruchirappalli,Local,Manachanallur(Uzhavar Sandhai),8000,7000,7500,Tamil Nadu,Drumstick
+25/10/2026,Knool Khol,177,Thiruchirappalli,Local,Manachanallur(Uzhavar Sandhai),3000,3000,3000,Tamil Nadu,Knool Khol
+25/10/2026,Mango(Raw-Ripe),172,Thiruchirappalli,Local,Manachanallur(Uzhavar Sandhai),9000,8000,8500,Tamil Nadu,Mango - Raw-Ripe
+25/10/2026,Tender Coconut,200,Thiruchirappalli,Local,Manachanallur(Uzhavar Sandhai),5000,4000,4500,Tamil Nadu,Tender Coconut
+25/10/2026,Beetroot,157,Thiruchirappalli,Local,Manapparai(Uzhavar Sandhai),4600,4600,4600,Tamil Nadu,Beetroot
+25/10/2026,Bottle gourd,82,Thiruchirappalli,Local,Manapparai(Uzhavar Sandhai),2000,2000,2000,Tamil Nadu,Bottle Gourd
+25/10/2026,Chikoos(Sapota),71,Thiruchirappalli,Local,Manapparai(Uzhavar Sandhai),4000,4000,4000,Tamil Nadu,Sapota
+25/10/2026,Grapes,22,Thiruchirappalli,Local,Manapparai(Uzhavar Sandhai),9000,9000,9000,Tamil Nadu,Annabesahai
+25/10/2026,Knool Khol,177,Thiruchirappalli,Local,Manapparai(Uzhavar Sandhai),3000,3000,3000,Tamil Nadu,Knool Khol
+25/10/2026,Lemon,310,Thiruchirappalli,Local,Manapparai(Uzhavar Sandhai),20000,20000,20000,Tamil Nadu,Lemon
+25/10/2026,Potato,24,Thiruchirappalli,Local,Manapparai(Uzhavar Sandhai),3000,3000,3000,Tamil Nadu,Red Nanital
+25/10/2026,Pumpkin,84,Thiruchirappalli,Local,Manapparai(Uzhavar Sandhai),2000,2000,2000,Tamil Nadu,Pumpkin
+25/10/2026,Beetroot,157,Thiruchirappalli,Local,Musiri(Uzhavar Sandhai),4600,4000,4300,Tamil Nadu,Beetroot
+25/10/2026,Betal Leaves,143,Thiruchirappalli,Local,Musiri(Uzhavar Sandhai),8000,7000,7500,Tamil Nadu,Mysore
+25/10/2026,Bottle gourd,82,Thiruchirappalli,Local,Musiri(Uzhavar Sandhai),2000,1500,1750,Tamil Nadu,Bottle Gourd
+25/10/2026,Cabbage,154,Thiruchirappalli,Local,Musiri(Uzhavar Sandhai),3000,2600,2800,Tamil Nadu,Cabbage
+25/10/2026,Drumstick,168,Thiruchirappalli,Local,Musiri(Uzhavar Sandhai),7000,6000,6500,Tamil Nadu,Drumstick
+25/10/2026,Ginger(Green),103,Thiruchirappalli,Local,Musiri(Uzhavar Sandhai),18000,17000,17500,Tamil Nadu,Green Ginger
+25/10/2026,Indian Beans(Seam),299,Thiruchirappalli,Local,Musiri(Uzhavar Sandhai),7000,6000,6500,Tamil Nadu,Indian Beans (Seam)
+25/10/2026,Knool Khol,177,Thiruchirappalli,Local,Musiri(Uzhavar Sandhai),3000,2500,2750,Tamil Nadu,Knool Khol
+25/10/2026,Mango(Raw-Ripe),172,Thiruchirappalli,Local,Musiri(Uzhavar Sandhai),11000,9000,10000,Tamil Nadu,Mango - Raw-Ripe
+25/10/2026,Pumpkin,84,Thiruchirappalli,Local,Musiri(Uzhavar Sandhai),2000,1500,1750,Tamil Nadu,Pumpkin
+25/10/2026,Turnip,341,Thiruchirappalli,Local,Musiri(Uzhavar Sandhai),3600,3000,3300,Tamil Nadu,Turnip
+25/10/2026,Beetroot,157,Thiruchirappalli,Local,Thiruverumbur(Uzhavar Sandhai),4600,4600,4600,Tamil Nadu,Beetroot
+25/10/2026,Cabbage,154,Thiruchirappalli,Local,Thiruverumbur(Uzhavar Sandhai),3000,3000,3000,Tamil Nadu,Cabbage
+25/10/2026,Capsicum,164,Thiruchirappalli,Local,Thiruverumbur(Uzhavar Sandhai),7000,7000,7000,Tamil Nadu,Capsicum
+25/10/2026,Cauliflower,34,Thiruchirappalli,Local,Thiruverumbur(Uzhavar Sandhai),5000,5000,5000,Tamil Nadu,Ranchi
+25/10/2026,Chow Chow,167,Thiruchirappalli,Local,Thiruverumbur(Uzhavar Sandhai),4000,4000,4000,Tamil Nadu,Chow Chow
+25/10/2026,Garlic,25,Thiruchirappalli,Local,Thiruverumbur(Uzhavar Sandhai),20000,20000,20000,Tamil Nadu,Garlic
+25/10/2026,Ginger(Green),103,Thiruchirappalli,Local,Thiruverumbur(Uzhavar Sandhai),9000,9000,9000,Tamil Nadu,Green Ginger
+25/10/2026,Indian Beans(Seam),299,Thiruchirappalli,Local,Thiruverumbur(Uzhavar Sandhai),8000,8000,8000,Tamil Nadu,Indian Beans (Seam)
+25/10/2026,Lemon,310,Thiruchirappalli,Local,Thiruverumbur(Uzhavar Sandhai),24000,24000,24000,Tamil Nadu,Lemon
+25/10/2026,Pumpkin,84,Thiruchirappalli,Local,Thiruverumbur(Uzhavar Sandhai),1800,1800,1800,Tamil Nadu,Pumpkin
+25/10/2026,Sweet Potato,152,Thiruchirappalli,Local,Thiruverumbur(Uzhavar Sandhai),6000,6000,6000,Tamil Nadu,Hosur Red
+25/10/2026,Beetroot,157,Thiruchirappalli,Local,Thuraiyur RM,4500,4000,4250,Tamil Nadu,Beetroot
+25/10/2026,Bottle gourd,82,Thiruchirappalli,Local,Thuraiyur RM,1800,1200,1500,Tamil Nadu,Bottle Gourd
+25/10/2026,Cabbage,154,Thiruchirappalli,Local,Thuraiyur RM,3000,2500,2750,Tamil Nadu,Cabbage
+25/10/2026,Capsicum,164,Thiruchirappalli,Local,Thuraiyur RM,7000,6000,6500,Tamil Nadu,Capsicum
+25/10/2026,Chow Chow,167,Thiruchirappalli,Local,Thuraiyur RM,3500,3000,3250,Tamil Nadu,Chow Chow
+25/10/2026,Drumstick,168,Thiruchirappalli,Local,Thuraiyur RM,8000,7000,7500,Tamil Nadu,Drumstick
+25/10/2026,Ginger(Green),103,Thiruchirappalli,Local,Thuraiyur RM,18500,17000,17750,Tamil Nadu,Green Ginger
+25/10/2026,Indian Beans(Seam),299,Thiruchirappalli,Local,Thuraiyur RM,8000,7000,7500,Tamil Nadu,Indian Beans (Seam)
+25/10/2026,Knool Khol,177,Thiruchirappalli,Local,Thuraiyur RM,3000,2500,2750,Tamil Nadu,Knool Khol
+25/10/2026,Pumpkin,84,Thiruchirappalli,Local,Thuraiyur RM,1800,1200,1500,Tamil Nadu,Pumpkin
+25/10/2026,Tender Coconut,200,Thiruchirappalli,Local,Thuraiyur RM,5000,4000,4500,Tamil Nadu,Tender Coconut
+25/10/2026,Yam(Ratalu),297,Thiruchirappalli,Local,Thuraiyur RM,5500,5000,5250,Tamil Nadu,Yam (Ratalu)
+25/10/2026,Beetroot,157,Thirupathur,Local,Natrampalli(Uzhavar Sandhai),6000,5000,5500,Tamil Nadu,Beetroot
+25/10/2026,Cauliflower,34,Thirupathur,Local,Natrampalli(Uzhavar Sandhai),3000,2500,2750,Tamil Nadu,Ranchi
+25/10/2026,Drumstick,168,Thirupathur,Local,Natrampalli(Uzhavar Sandhai),8000,7000,7500,Tamil Nadu,Drumstick
+25/10/2026,Garlic,25,Thirupathur,Local,Natrampalli(Uzhavar Sandhai),28000,24000,26000,Tamil Nadu,Garlic
+25/10/2026,Ginger(Green),103,Thirupathur,Local,Natrampalli(Uzhavar Sandhai),10000,10000,10000,Tamil Nadu,Green Ginger
+25/10/2026,Lemon,310,Thirupathur,Local,Natrampalli(Uzhavar Sandhai),10000,8000,9000,Tamil Nadu,Lemon
+25/10/2026,Potato,24,Thirupathur,Local,Natrampalli(Uzhavar Sandhai),3500,3000,3250,Tamil Nadu,Red Nanital
+25/10/2026,Tomato,78,Thirupathur,Local,Natrampalli(Uzhavar Sandhai),5000,4000,4500,Tamil Nadu,Deshi
+25/10/2026,Yam(Ratalu),297,Thirupathur,Local,Natrampalli(Uzhavar Sandhai),3000,2500,2750,Tamil Nadu,Yam (Ratalu)
+25/10/2026,Beetroot,157,Thirupathur,Local,Thirupathur RM,5000,5000,5000,Tamil Nadu,Beetroot
+25/10/2026,Cabbage,154,Thirupathur,Local,Thirupathur RM,3400,3400,3400,Tamil Nadu,Cabbage
+25/10/2026,Capsicum,164,Thirupathur,Local,Thirupathur RM,5000,5000,5000,Tamil Nadu,Capsicum
+25/10/2026,Cauliflower,34,Thirupathur,Local,Thirupathur RM,3000,3000,3000,Tamil Nadu,Ranchi
+25/10/2026,Chikoos(Sapota),71,Thirupathur,Local,Thirupathur RM,4000,4000,4000,Tamil Nadu,Sapota
+25/10/2026,Chow Chow,167,Thirupathur,Local,Thirupathur RM,3000,3000,3000,Tamil Nadu,Chow Chow
+25/10/2026,Garlic,25,Thirupathur,Local,Thirupathur RM,26000,26000,26000,Tamil Nadu,Garlic
+25/10/2026,Ginger(Green),103,Thirupathur,Local,Thirupathur RM,12000,12000,12000,Tamil Nadu,Green Ginger
+25/10/2026,Green Peas,50,Thirupathur,Local,Thirupathur RM,10000,10000,10000,Tamil Nadu,Green Peas
+25/10/2026,Groundnut,10,Thirupathur,Local,Thirupathur RM,6000,6000,6000,Tamil Nadu,Big (With Shell)
+25/10/2026,Knool Khol,177,Thirupathur,Local,Thirupathur RM,5000,5000,5000,Tamil Nadu,Knool Khol
+25/10/2026,Mango(Raw-Ripe),172,Thirupathur,Local,Thirupathur RM,8000,8000,8000,Tamil Nadu,Mango - Raw-Ripe
+25/10/2026,Pumpkin,84,Thirupathur,Local,Thirupathur RM,2000,2000,2000,Tamil Nadu,Pumpkin
+25/10/2026,Sweet Potato,152,Thirupathur,Local,Thirupathur RM,4000,4000,4000,Tamil Nadu,Hosur Red
+25/10/2026,Tender Coconut,200,Thirupathur,Local,Thirupathur RM,3000,3000,3000,Tamil Nadu,Tender Coconut
+25/10/2026,Tomato,78,Thirupathur,Local,Thirupathur RM,4000,4000,4000,Tamil Nadu,Deshi
+25/10/2026,Beetroot,157,Thiruppur,Local,Dharapuram(Uzhavar Sandhai),7500,3500,5500,Tamil Nadu,Beetroot
+25/10/2026,Bottle gourd,82,Thiruppur,Local,Dharapuram(Uzhavar Sandhai),2000,1500,1750,Tamil Nadu,Bottle Gourd
+25/10/2026,Chow Chow,167,Thiruppur,Local,Dharapuram(Uzhavar Sandhai),4000,3500,3750,Tamil Nadu,Chow Chow
+25/10/2026,Ginger(Green),103,Thiruppur,Local,Dharapuram(Uzhavar Sandhai),20000,9000,14500,Tamil Nadu,Green Ginger
+25/10/2026,Lemon,310,Thiruppur,Local,Dharapuram(Uzhavar Sandhai),26000,20000,23000,Tamil Nadu,Lemon
+25/10/2026,Potato,24,Thiruppur,Local,Dharapuram(Uzhavar Sandhai),7500,6500,7000,Tamil Nadu,Red Nanital
+25/10/2026,Tomato,78,Thiruppur,Local,Dharapuram(Uzhavar Sandhai),3500,3000,3250,Tamil Nadu,Deshi
+25/10/2026,Beetroot,157,Thiruppur,Local,Kangayam(Uzhavar Sandhai),2500,2000,2250,Tamil Nadu,Beetroot
+25/10/2026,Drumstick,168,Thiruppur,Local,Kangayam(Uzhavar Sandhai),3500,3000,3250,Tamil Nadu,Drumstick
+25/10/2026,Lemon,310,Thiruppur,Local,Kangayam(Uzhavar Sandhai),23000,20000,21500,Tamil Nadu,Lemon
+25/10/2026,Tender Coconut,200,Thiruppur,Local,Kangayam(Uzhavar Sandhai),3500,3000,3250,Tamil Nadu,Tender Coconut
+25/10/2026,Beetroot,157,Thiruppur,Local,Palladam(Uzhavar Sandhai),3000,2500,2750,Tamil Nadu,Beetroot
+25/10/2026,Bottle gourd,82,Thiruppur,Local,Palladam(Uzhavar Sandhai),2000,1500,1750,Tamil Nadu,Bottle Gourd
+25/10/2026,Chow Chow,167,Thiruppur,Local,Palladam(Uzhavar Sandhai),3000,2500,2750,Tamil Nadu,Chow Chow
+25/10/2026,Ginger(Green),103,Thiruppur,Local,Palladam(Uzhavar Sandhai),9000,8000,8500,Tamil Nadu,Green Ginger
+25/10/2026,Lemon,310,Thiruppur,Local,Palladam(Uzhavar Sandhai),20000,19000,19500,Tamil Nadu,Lemon
+25/10/2026,Beetroot,157,Thiruppur,Local,Tiruppur (North) (Uzhavar Sandhai),6000,5500,5750,Tamil Nadu,Beetroot
+25/10/2026,Bottle gourd,82,Thiruppur,Local,Tiruppur (North) (Uzhavar Sandhai),2000,1500,1750,Tamil Nadu,Bottle Gourd
+25/10/2026,Chow Chow,167,Thiruppur,Local,Tiruppur (North) (Uzhavar Sandhai),3500,3000,3250,Tamil Nadu,Chow Chow
+25/10/2026,Drumstick,168,Thiruppur,Local,Tiruppur (North) (Uzhavar Sandhai),7000,6000,6500,Tamil Nadu,Drumstick
+25/10/2026,Groundnut,10,Thiruppur,Local,Tiruppur (North) (Uzhavar Sandhai),6000,5000,5500,Tamil Nadu,Big (With Shell)
+25/10/2026,Mango(Raw-Ripe),172,Thiruppur,Local,Tiruppur (North) (Uzhavar Sandhai),9000,8000,8500,Tamil Nadu,Mango - Raw-Ripe
+25/10/2026,Sweet Potato,152,Thiruppur,Local,Tiruppur (North) (Uzhavar Sandhai),4000,3500,3750,Tamil Nadu,Hosur Red
+25/10/2026,Tender Coconut,200,Thiruppur,Local,Tiruppur (North) (Uzhavar Sandhai),4000,3500,3750,Tamil Nadu,Tender Coconut
+25/10/2026,Yam(Ratalu),297,Thiruppur,Local,Tiruppur (North) (Uzhavar Sandhai),7000,6000,6500,Tamil Nadu,Yam (Ratalu)
+25/10/2026,Beetroot,157,Thiruppur,Local,Tiruppur (South) (Uzhavar Sandhai),6000,4500,5250,Tamil Nadu,Beetroot
+25/10/2026,Bottle gourd,82,Thiruppur,Local,Tiruppur (South) (Uzhavar Sandhai),2000,1500,1750,Tamil Nadu,Bottle Gourd
+25/10/2026,Cabbage,154,Thiruppur,Local,Tiruppur (South) (Uzhavar Sandhai),2000,1500,1750,Tamil Nadu,Cabbage
+25/10/2026,Cauliflower,34,Thiruppur,Local,Tiruppur (South) (Uzhavar Sandhai),4000,3000,3500,Tamil Nadu,Ranchi
+25/10/2026,Chow Chow,167,Thiruppur,Local,Tiruppur (South) (Uzhavar Sandhai),3000,2500,2750,Tamil Nadu,Chow Chow
+25/10/2026,Drumstick,168,Thiruppur,Local,Tiruppur (South) (Uzhavar Sandhai),8000,7000,7500,Tamil Nadu,Drumstick
+25/10/2026,Pumpkin,84,Thiruppur,Local,Tiruppur (South) (Uzhavar Sandhai),2000,1500,1750,Tamil Nadu,Pumpkin
+25/10/2026,Beetroot,157,Thiruppur,Local,Udumalpettai RM,8000,4000,6000,Tamil Nadu,Beetroot
+25/10/2026,Chow Chow,167,Thiruppur,Local,Udumalpettai RM,4000,3500,3750,Tamil Nadu,Chow Chow
+25/10/2026,Drumstick,168,Thiruppur,Local,Udumalpettai RM,5500,4000,4750,Tamil Nadu,Drumstick
+25/10/2026,Ginger(Green),103,Thiruppur,Local,Udumalpettai RM,18000,17000,17500,Tamil Nadu,Green Ginger
+25/10/2026,Lime,180,Thiruppur,Local,Udumalpettai RM,5000,4000,4500,Tamil Nadu,Lime
+25/10/2026,Potato,24,Thiruppur,Local,Udumalpettai RM,5000,4500,4750,Tamil Nadu,Red Nanital
+25/10/2026,Pumpkin,84,Thiruppur,Local,Udumalpettai RM,2000,1500,1750,Tamil Nadu,Pumpkin
+25/10/2026,Sweet Potato,152,Thiruppur,Local,Udumalpettai RM,7500,6500,7000,Tamil Nadu,Hosur Red
+25/10/2026,Yam(Ratalu),297,Thiruppur,Local,Udumalpettai RM,9000,8000,8500,Tamil Nadu,Yam (Ratalu)
+25/10/2026,Bottle gourd,82,Thiruvallur,Local,Ambattur(Uzhavar Sandhai),3000,3000,3000,Tamil Nadu,Bottle Gourd
+25/10/2026,Tomato,78,Thiruvallur,Local,Ambattur(Uzhavar Sandhai),3000,3000,3000,Tamil Nadu,Deshi
+25/10/2026,Potato,24,Thiruvallur,Local,Naravarikuppam(Uzhavar Sandhai),4000,4000,4000,Tamil Nadu,Red Nanital
+25/10/2026,Rose(Local),374,Thiruvallur,Local,Naravarikuppam(Uzhavar Sandhai),12000,12000,12000,Tamil Nadu,Rose (Local)
+25/10/2026,Bottle gourd,82,Thiruvallur,Local,Paruthipattu(Uzhavar Sandhai),3000,3000,3000,Tamil Nadu,Bottle Gourd
+25/10/2026,Cabbage,154,Thiruvallur,Local,Paruthipattu(Uzhavar Sandhai),4000,4000,4000,Tamil Nadu,Cabbage
+25/10/2026,Capsicum,164,Thiruvallur,Local,Paruthipattu(Uzhavar Sandhai),5000,5000,5000,Tamil Nadu,Capsicum
+25/10/2026,Potato,24,Thiruvallur,Local,Paruthipattu(Uzhavar Sandhai),4000,4000,4000,Tamil Nadu,Red Nanital
+25/10/2026,Tomato,78,Thiruvallur,Local,Paruthipattu(Uzhavar Sandhai),3500,3500,3500,Tamil Nadu,Deshi
+25/10/2026,Jasmine,229,Thiruvallur,Local,Perambakkam(Uzhavar Sandhai),60000,60000,60000,Tamil Nadu,Jasmine
+25/10/2026,Marigold(Calcutta),235,Thiruvallur,Local,Perambakkam(Uzhavar Sandhai),15000,15000,15000,Tamil Nadu,Marigold(Calcutta)
+25/10/2026,Rose(Local),374,Thiruvallur,Local,Perambakkam(Uzhavar Sandhai),8000,8000,8000,Tamil Nadu,Rose (Local)
+25/10/2026,Tomato,78,Thiruvallur,Local,Perambakkam(Uzhavar Sandhai),3000,3000,3000,Tamil Nadu,Deshi
+25/10/2026,Beetroot,157,Thiruvallur,Local,Tiruthani(Uzhavar Sandhai),5000,5000,5000,Tamil Nadu,Beetroot
+25/10/2026,Bottle gourd,82,Thiruvallur,Local,Tiruthani(Uzhavar Sandhai),3000,3000,3000,Tamil Nadu,Bottle Gourd
+25/10/2026,Cabbage,154,Thiruvallur,Local,Tiruthani(Uzhavar Sandhai),3000,3000,3000,Tamil Nadu,Cabbage
+25/10/2026,Turnip,341,Thiruvallur,Local,Tiruthani(Uzhavar Sandhai),6000,6000,6000,Tamil Nadu,Turnip
+25/10/2026,Bottle gourd,82,Thiruvallur,Local,Tiruvallur(Uzhavar Sandhai),3000,3000,3000,Tamil Nadu,Bottle Gourd
+25/10/2026,Drumstick,168,Thiruvallur,Local,Tiruvallur(Uzhavar Sandhai),5000,5000,5000,Tamil Nadu,Drumstick
+25/10/2026,Tomato,78,Thiruvallur,Local,Tiruvallur(Uzhavar Sandhai),3000,3000,3000,Tamil Nadu,Deshi
+25/10/2026,Beetroot,157,Thiruvannamalai,Local,Arani(Uzhavar Sandhai),4800,4000,4400,Tamil Nadu,Beetroot
+25/10/2026,Cabbage,154,Thiruvannamalai,Local,Arani(Uzhavar Sandhai),3000,2500,2750,Tamil Nadu,Cabbage
+25/10/2026,Colacasia,318,Thiruvannamalai,Local,Arani(Uzhavar Sandhai),4200,3500,3850,Tamil Nadu,Colacasia
+25/10/2026,Drumstick,168,Thiruvannamalai,Local,Arani(Uzhavar Sandhai),6000,5000,5500,Tamil Nadu,Drumstick
+25/10/2026,Garlic,25,Thiruvannamalai,Local,Arani(Uzhavar Sandhai),24000,20000,22000,Tamil Nadu,Garlic
+25/10/2026,Pumpkin,84,Thiruvannamalai,Local,Arani(Uzhavar Sandhai),2500,2000,2250,Tamil Nadu,Pumpkin
+25/10/2026,Tender Coconut,200,Thiruvannamalai,Local,Arani(Uzhavar Sandhai),2000,1500,1750,Tamil Nadu,Tender Coconut
+25/10/2026,Yam(Ratalu),297,Thiruvannamalai,Local,Arani(Uzhavar Sandhai),6000,5000,5500,Tamil Nadu,Yam (Ratalu)
+25/10/2026,Beetroot,157,Thiruvannamalai,Local,Chengam(Uzhavar Sandhai),5000,4000,4500,Tamil Nadu,Beetroot
+25/10/2026,Bottle gourd,82,Thiruvannamalai,Local,Chengam(Uzhavar Sandhai),2000,1000,1500,Tamil Nadu,Bottle Gourd
+25/10/2026,Drumstick,168,Thiruvannamalai,Local,Chengam(Uzhavar Sandhai),10000,9000,9500,Tamil Nadu,Drumstick
+25/10/2026,Garlic,25,Thiruvannamalai,Local,Chengam(Uzhavar Sandhai),24000,22000,23000,Tamil Nadu,Garlic
+25/10/2026,Groundnut,10,Thiruvannamalai,Local,Chengam(Uzhavar Sandhai),10000,8000,9000,Tamil Nadu,Big (With Shell)
+25/10/2026,Knool Khol,177,Thiruvannamalai,Local,Chengam(Uzhavar Sandhai),5000,4000,4500,Tamil Nadu,Knool Khol
+25/10/2026,Lemon,310,Thiruvannamalai,Local,Chengam(Uzhavar Sandhai),20000,18000,19000,Tamil Nadu,Lemon
+25/10/2026,Potato,24,Thiruvannamalai,Local,Chengam(Uzhavar Sandhai),3600,2600,3100,Tamil Nadu,Red Nanital
+25/10/2026,Pumpkin,84,Thiruvannamalai,Local,Chengam(Uzhavar Sandhai),3000,2000,2500,Tamil Nadu,Pumpkin
+25/10/2026,Sweet Potato,152,Thiruvannamalai,Local,Chengam(Uzhavar Sandhai),6000,5000,5500,Tamil Nadu,Hosur Red
+25/10/2026,Yam(Ratalu),297,Thiruvannamalai,Local,Chengam(Uzhavar Sandhai),6000,5000,5500,Tamil Nadu,Yam (Ratalu)
+25/10/2026,Beetroot,157,Thiruvannamalai,Local,Cheyyar(Uzhavar Sandhai),4800,4000,4400,Tamil Nadu,Beetroot
+25/10/2026,Cabbage,154,Thiruvannamalai,Local,Cheyyar(Uzhavar Sandhai),3000,2500,2750,Tamil Nadu,Cabbage
+25/10/2026,Drumstick,168,Thiruvannamalai,Local,Cheyyar(Uzhavar Sandhai),6000,4800,5400,Tamil Nadu,Drumstick
+25/10/2026,Knool Khol,177,Thiruvannamalai,Local,Cheyyar(Uzhavar Sandhai),4800,4000,4400,Tamil Nadu,Knool Khol
+25/10/2026,Mango(Raw-Ripe),172,Thiruvannamalai,Local,Cheyyar(Uzhavar Sandhai),8000,6500,7250,Tamil Nadu,Mango - Raw-Ripe
+25/10/2026,Yam(Ratalu),297,Thiruvannamalai,Local,Cheyyar(Uzhavar Sandhai),6000,4800,5400,Tamil Nadu,Yam (Ratalu)
+25/10/2026,Rose(Local),374,Thiruvannamalai,Local,Keelpennathur(Uzhavar Sandhai),24000,23000,23500,Tamil Nadu,Rose (Local)
+25/10/2026,Tender Coconut,200,Thiruvannamalai,Local,Keelpennathur(Uzhavar Sandhai),6000,5000,5500,Tamil Nadu,Tender Coconut
+25/10/2026,Beetroot,157,Thiruvannamalai,Local,Polur(Uzhavar Sandhai),4000,3300,3650,Tamil Nadu,Beetroot
+25/10/2026,Bottle gourd,82,Thiruvannamalai,Local,Polur(Uzhavar Sandhai),2000,1600,1800,Tamil Nadu,Bottle Gourd
+25/10/2026,Cabbage,154,Thiruvannamalai,Local,Polur(Uzhavar Sandhai),3000,2500,2750,Tamil Nadu,Cabbage
+25/10/2026,Cauliflower,34,Thiruvannamalai,Local,Polur(Uzhavar Sandhai),3000,2500,2750,Tamil Nadu,Ranchi
+25/10/2026,Chow Chow,167,Thiruvannamalai,Local,Polur(Uzhavar Sandhai),4000,3300,3650,Tamil Nadu,Chow Chow
+25/10/2026,Colacasia,318,Thiruvannamalai,Local,Polur(Uzhavar Sandhai),4000,3300,3650,Tamil Nadu,Colacasia
+25/10/2026,Custard Apple(Sharifa),352,Thiruvannamalai,Local,Polur(Uzhavar Sandhai),4000,3300,3650,Tamil Nadu,Custard Apple(Sharifa)
+25/10/2026,Drumstick,168,Thiruvannamalai,Local,Polur(Uzhavar Sandhai),6000,5000,5500,Tamil Nadu,Drumstick
+25/10/2026,Ginger(Green),103,Thiruvannamalai,Local,Polur(Uzhavar Sandhai),18000,15000,16500,Tamil Nadu,Green Ginger
+25/10/2026,Groundnut,10,Thiruvannamalai,Local,Polur(Uzhavar Sandhai),6000,5000,5500,Tamil Nadu,Big (With Shell)
+25/10/2026,Knool Khol,177,Thiruvannamalai,Local,Polur(Uzhavar Sandhai),4000,3300,3650,Tamil Nadu,Knool Khol
+25/10/2026,Marigold(Calcutta),235,Thiruvannamalai,Local,Polur(Uzhavar Sandhai),10000,8000,9000,Tamil Nadu,Marigold(Calcutta)
+25/10/2026,Pumpkin,84,Thiruvannamalai,Local,Polur(Uzhavar Sandhai),2000,1600,1800,Tamil Nadu,Pumpkin
+25/10/2026,Rose(Local),374,Thiruvannamalai,Local,Polur(Uzhavar Sandhai),15000,12000,13500,Tamil Nadu,Rose (Local)
+25/10/2026,Tomato,78,Thiruvannamalai,Local,Polur(Uzhavar Sandhai),4000,3300,3650,Tamil Nadu,Deshi
+25/10/2026,Bottle gourd,82,Thiruvannamalai,Local,Tamarainagar(Uzhavar Sandhai),2000,1700,1850,Tamil Nadu,Bottle Gourd
+25/10/2026,Colacasia,318,Thiruvannamalai,Local,Tamarainagar(Uzhavar Sandhai),4000,3500,3750,Tamil Nadu,Colacasia
+25/10/2026,Fig(Anjura/Anjeer),221,Thiruvannamalai,Local,Tamarainagar(Uzhavar Sandhai),6000,5000,5500,Tamil Nadu,Anjura
+25/10/2026,Lemon,310,Thiruvannamalai,Local,Tamarainagar(Uzhavar Sandhai),24000,20000,22000,Tamil Nadu,Lemon
+25/10/2026,Lime,180,Thiruvannamalai,Local,Tamarainagar(Uzhavar Sandhai),6000,5000,5500,Tamil Nadu,Lime
+25/10/2026,Marigold(Calcutta),235,Thiruvannamalai,Local,Tamarainagar(Uzhavar Sandhai),30000,25000,27500,Tamil Nadu,Marigold(Calcutta)
+25/10/2026,Water Melon,73,Thiruvannamalai,Local,Tamarainagar(Uzhavar Sandhai),3600,3000,3300,Tamil Nadu,Water Melon
+25/10/2026,Bottle gourd,82,Thiruvannamalai,Local,Tiruvannamalai(Uzhavar Sandhai),3000,2500,2750,Tamil Nadu,Bottle Gourd
+25/10/2026,Capsicum,164,Thiruvannamalai,Local,Tiruvannamalai(Uzhavar Sandhai),8000,6000,7000,Tamil Nadu,Capsicum
+25/10/2026,Chow Chow,167,Thiruvannamalai,Local,Tiruvannamalai(Uzhavar Sandhai),4000,3600,3800,Tamil Nadu,Chow Chow
+25/10/2026,Colacasia,318,Thiruvannamalai,Local,Tiruvannamalai(Uzhavar Sandhai),4000,3600,3800,Tamil Nadu,Colacasia
+25/10/2026,Custard Apple(Sharifa),352,Thiruvannamalai,Local,Tiruvannamalai(Uzhavar Sandhai),10000,8000,9000,Tamil Nadu,Custard Apple(Sharifa)
+25/10/2026,Garlic,25,Thiruvannamalai,Local,Tiruvannamalai(Uzhavar Sandhai),28000,26000,27000,Tamil Nadu,Garlic
+25/10/2026,Ginger(Green),103,Thiruvannamalai,Local,Tiruvannamalai(Uzhavar Sandhai),18000,16000,17000,Tamil Nadu,Green Ginger
+25/10/2026,Groundnut,10,Thiruvannamalai,Local,Tiruvannamalai(Uzhavar Sandhai),10000,8000,9000,Tamil Nadu,Big (With Shell)
+25/10/2026,Indian Beans(Seam),299,Thiruvannamalai,Local,Tiruvannamalai(Uzhavar Sandhai),6000,5000,5500,Tamil Nadu,Indian Beans (Seam)
+25/10/2026,Karbuja(Musk Melon),187,Thiruvannamalai,Local,Tiruvannamalai(Uzhavar Sandhai),3500,3000,3250,Tamil Nadu,Karbhuja
+25/10/2026,Knool Khol,177,Thiruvannamalai,Local,Tiruvannamalai(Uzhavar Sandhai),6000,5000,5500,Tamil Nadu,Knool Khol
+25/10/2026,Lime,180,Thiruvannamalai,Local,Tiruvannamalai(Uzhavar Sandhai),4000,3500,3750,Tamil Nadu,Lime
+25/10/2026,Mousambi(Sweet Lime),77,Thiruvannamalai,Local,Tiruvannamalai(Uzhavar Sandhai),6000,5000,5500,Tamil Nadu,Mousambi
+25/10/2026,Orange,18,Thiruvannamalai,Local,Tiruvannamalai(Uzhavar Sandhai),16000,14000,15000,Tamil Nadu,Darjeeling
+25/10/2026,Pumpkin,84,Thiruvannamalai,Local,Tiruvannamalai(Uzhavar Sandhai),2000,1500,1750,Tamil Nadu,Pumpkin
+25/10/2026,Sweet Potato,152,Thiruvannamalai,Local,Tiruvannamalai(Uzhavar Sandhai),5000,4200,4600,Tamil Nadu,Hosur Red
+25/10/2026,Tamarind Fruit,261,Thiruvannamalai,Local,Tiruvannamalai(Uzhavar Sandhai),15000,13000,14000,Tamil Nadu,Tamarind Fruit
+25/10/2026,Tender Coconut,200,Thiruvannamalai,Local,Tiruvannamalai(Uzhavar Sandhai),3000,2500,2750,Tamil Nadu,Tender Coconut
+25/10/2026,Water Melon,73,Thiruvannamalai,Local,Tiruvannamalai(Uzhavar Sandhai),2500,2000,2250,Tamil Nadu,Water Melon
+25/10/2026,Bottle gourd,82,Thiruvannamalai,Local,Vandavasi(Uzhavar Sandhai),2000,1600,1800,Tamil Nadu,Bottle Gourd
+25/10/2026,Chow Chow,167,Thiruvannamalai,Local,Vandavasi(Uzhavar Sandhai),4800,4000,4400,Tamil Nadu,Chow Chow
+25/10/2026,Drumstick,168,Thiruvannamalai,Local,Vandavasi(Uzhavar Sandhai),6000,5000,5500,Tamil Nadu,Drumstick
+25/10/2026,Knool Khol,177,Thiruvannamalai,Local,Vandavasi(Uzhavar Sandhai),4800,4000,4400,Tamil Nadu,Knool Khol
+25/10/2026,Lemon,310,Thiruvannamalai,Local,Vandavasi(Uzhavar Sandhai),20000,18000,19000,Tamil Nadu,Lemon
+25/10/2026,Beetroot,157,Thoothukudi,Local,Kovilpatti(Uzhavar Sandhai),5000,4500,4750,Tamil Nadu,Beetroot
+25/10/2026,Cauliflower,34,Thoothukudi,Local,Kovilpatti(Uzhavar Sandhai),4500,4000,4250,Tamil Nadu,Ranchi
+25/10/2026,Chikoos(Sapota),71,Thoothukudi,Local,Kovilpatti(Uzhavar Sandhai),5000,4500,4750,Tamil Nadu,Sapota
+25/10/2026,Chow Chow,167,Thoothukudi,Local,Kovilpatti(Uzhavar Sandhai),3500,3000,3250,Tamil Nadu,Chow Chow
+25/10/2026,Drumstick,168,Thoothukudi,Local,Kovilpatti(Uzhavar Sandhai),11000,10000,10500,Tamil Nadu,Drumstick
+25/10/2026,Lemon,310,Thoothukudi,Local,Kovilpatti(Uzhavar Sandhai),17000,16000,16500,Tamil Nadu,Lemon
+25/10/2026,Pumpkin,84,Thoothukudi,Local,Kovilpatti(Uzhavar Sandhai),3000,2500,2750,Tamil Nadu,Pumpkin
+25/10/2026,Yam(Ratalu),297,Thoothukudi,Local,Kovilpatti(Uzhavar Sandhai),6000,5500,5750,Tamil Nadu,Yam (Ratalu)
+25/10/2026,Beetroot,157,Thoothukudi,Local,Tuticorin(Uzhavar Sandhai),7000,6500,6750,Tamil Nadu,Beetroot
+25/10/2026,Bottle gourd,82,Thoothukudi,Local,Tuticorin(Uzhavar Sandhai),2000,1500,1750,Tamil Nadu,Bottle Gourd
+25/10/2026,Cabbage,154,Thoothukudi,Local,Tuticorin(Uzhavar Sandhai),3000,2500,2750,Tamil Nadu,Cabbage
+25/10/2026,Capsicum,164,Thoothukudi,Local,Tuticorin(Uzhavar Sandhai),8000,7500,7750,Tamil Nadu,Capsicum
+25/10/2026,Cauliflower,34,Thoothukudi,Local,Tuticorin(Uzhavar Sandhai),7000,6500,6750,Tamil Nadu,Ranchi
+25/10/2026,Chow Chow,167,Thoothukudi,Local,Tuticorin(Uzhavar Sandhai),4000,3500,3750,Tamil Nadu,Chow Chow
+25/10/2026,Colacasia,318,Thoothukudi,Local,Tuticorin(Uzhavar Sandhai),6000,5000,5500,Tamil Nadu,Colacasia
+25/10/2026,Drumstick,168,Thoothukudi,Local,Tuticorin(Uzhavar Sandhai),7000,6500,6750,Tamil Nadu,Drumstick
+25/10/2026,Garlic,25,Thoothukudi,Local,Tuticorin(Uzhavar Sandhai),22000,21000,21500,Tamil Nadu,Garlic
+25/10/2026,Ginger(Green),103,Thoothukudi,Local,Tuticorin(Uzhavar Sandhai),20000,19000,19500,Tamil Nadu,Green Ginger
+25/10/2026,Grapes,22,Thoothukudi,Local,Tuticorin(Uzhavar Sandhai),10000,9000,9500,Tamil Nadu,Annabesahai
+25/10/2026,Green Peas,50,Thoothukudi,Local,Tuticorin(Uzhavar Sandhai),24000,23000,23500,Tamil Nadu,Green Peas
+25/10/2026,Pumpkin,84,Thoothukudi,Local,Tuticorin(Uzhavar Sandhai),2000,1500,1750,Tamil Nadu,Pumpkin
+25/10/2026,Sweet Potato,152,Thoothukudi,Local,Tuticorin(Uzhavar Sandhai),6000,5000,5500,Tamil Nadu,Hosur Red
+25/10/2026,Water Melon,73,Thoothukudi,Local,Tuticorin(Uzhavar Sandhai),2000,1500,1750,Tamil Nadu,Water Melon
+25/10/2026,Yam(Ratalu),297,Thoothukudi,Local,Tuticorin(Uzhavar Sandhai),6000,5000,5500,Tamil Nadu,Yam (Ratalu)
+25/10/2026,Bottle gourd,82,Tirunelveli,Local,Kandiyaperi(Uzhavar Sandhai),1000,800,900,Tamil Nadu,Bottle Gourd
+25/10/2026,Pumpkin,84,Tirunelveli,Local,Kandiyaperi(Uzhavar Sandhai),1400,1200,1300,Tamil Nadu,Pumpkin
+25/10/2026,Beetroot,157,Tirunelveli,Local,Melapalayam(Uzhavar Sandhai),3800,3200,3500,Tamil Nadu,Beetroot
+25/10/2026,Capsicum,164,Tirunelveli,Local,Melapalayam(Uzhavar Sandhai),7500,7000,7250,Tamil Nadu,Capsicum
+25/10/2026,Cauliflower,34,Tirunelveli,Local,Melapalayam(Uzhavar Sandhai),5800,5600,5700,Tamil Nadu,Ranchi
+25/10/2026,Chikoos(Sapota),71,Tirunelveli,Local,Melapalayam(Uzhavar Sandhai),8000,7000,7500,Tamil Nadu,Sapota
+25/10/2026,Chow Chow,167,Tirunelveli,Local,Melapalayam(Uzhavar Sandhai),3000,2500,2750,Tamil Nadu,Chow Chow
+25/10/2026,Garlic,25,Tirunelveli,Local,Melapalayam(Uzhavar Sandhai),28000,22000,25000,Tamil Nadu,Garlic
+25/10/2026,Ginger(Green),103,Tirunelveli,Local,Melapalayam(Uzhavar Sandhai),19000,8000,13500,Tamil Nadu,Green Ginger
+25/10/2026,Lemon,310,Tirunelveli,Local,Melapalayam(Uzhavar Sandhai),16000,15000,15500,Tamil Nadu,Lemon
+25/10/2026,Mango(Raw-Ripe),172,Tirunelveli,Local,Melapalayam(Uzhavar Sandhai),6500,6000,6250,Tamil Nadu,Mango - Raw-Ripe
+25/10/2026,Pumpkin,84,Tirunelveli,Local,Melapalayam(Uzhavar Sandhai),1500,1200,1350,Tamil Nadu,Pumpkin
+25/10/2026,Beetroot,157,Tirunelveli,Local,NGO Colony(Uzhavar Sandhai),3800,3000,3400,Tamil Nadu,Beetroot
+25/10/2026,Cabbage,154,Tirunelveli,Local,NGO Colony(Uzhavar Sandhai),2600,2000,2300,Tamil Nadu,Cabbage
+25/10/2026,Capsicum,164,Tirunelveli,Local,NGO Colony(Uzhavar Sandhai),7500,7000,7250,Tamil Nadu,Capsicum
+25/10/2026,Cauliflower,34,Tirunelveli,Local,NGO Colony(Uzhavar Sandhai),5800,5000,5400,Tamil Nadu,Ranchi
+25/10/2026,Chow Chow,167,Tirunelveli,Local,NGO Colony(Uzhavar Sandhai),3000,2000,2500,Tamil Nadu,Chow Chow
+25/10/2026,Drumstick,168,Tirunelveli,Local,NGO Colony(Uzhavar Sandhai),4600,3500,4050,Tamil Nadu,Drumstick
+25/10/2026,Ginger(Green),103,Tirunelveli,Local,NGO Colony(Uzhavar Sandhai),19500,19000,19250,Tamil Nadu,Green Ginger
+25/10/2026,Lemon,310,Tirunelveli,Local,NGO Colony(Uzhavar Sandhai),16000,15000,15500,Tamil Nadu,Lemon
+25/10/2026,Beetroot,157,Tirunelveli,Local,Palayamkottai(Uzhavar Sandhai),5000,3800,4400,Tamil Nadu,Beetroot
+25/10/2026,Bottle gourd,82,Tirunelveli,Local,Palayamkottai(Uzhavar Sandhai),1000,800,900,Tamil Nadu,Bottle Gourd
+25/10/2026,Cabbage,154,Tirunelveli,Local,Palayamkottai(Uzhavar Sandhai),2600,2000,2300,Tamil Nadu,Cabbage
+25/10/2026,Cauliflower,34,Tirunelveli,Local,Palayamkottai(Uzhavar Sandhai),5800,5600,5700,Tamil Nadu,Ranchi
+25/10/2026,Chikoos(Sapota),71,Tirunelveli,Local,Palayamkottai(Uzhavar Sandhai),7000,6000,6500,Tamil Nadu,Sapota
+25/10/2026,Chow Chow,167,Tirunelveli,Local,Palayamkottai(Uzhavar Sandhai),3000,2800,2900,Tamil Nadu,Chow Chow
+25/10/2026,Ginger(Green),103,Tirunelveli,Local,Palayamkottai(Uzhavar Sandhai),19000,18000,18500,Tamil Nadu,Green Ginger
+25/10/2026,Lemon,310,Tirunelveli,Local,Palayamkottai(Uzhavar Sandhai),16000,15000,15500,Tamil Nadu,Lemon
+25/10/2026,Lime,180,Tirunelveli,Local,Palayamkottai(Uzhavar Sandhai),16000,14000,15000,Tamil Nadu,Lime
+25/10/2026,Mango(Raw-Ripe),172,Tirunelveli,Local,Palayamkottai(Uzhavar Sandhai),7500,7000,7250,Tamil Nadu,Mango - Raw-Ripe
+25/10/2026,Mousambi(Sweet Lime),77,Tirunelveli,Local,Palayamkottai(Uzhavar Sandhai),7000,6000,6500,Tamil Nadu,Mousambi
+25/10/2026,Pumpkin,84,Tirunelveli,Local,Palayamkottai(Uzhavar Sandhai),1400,1200,1300,Tamil Nadu,Pumpkin
+25/10/2026,Tomato,78,Tirunelveli,Local,Palayamkottai(Uzhavar Sandhai),4800,4600,4700,Tamil Nadu,Deshi
+25/10/2026,Cabbage,154,Tiruvarur,Local,Mannargudi I(Uzhavar Sandhai),3400,3400,3400,Tamil Nadu,Cabbage
+25/10/2026,Chikoos(Sapota),71,Tiruvarur,Local,Mannargudi I(Uzhavar Sandhai),8000,8000,8000,Tamil Nadu,Sapota
+25/10/2026,Chow Chow,167,Tiruvarur,Local,Mannargudi I(Uzhavar Sandhai),3600,3600,3600,Tamil Nadu,Chow Chow
+25/10/2026,Ginger(Green),103,Tiruvarur,Local,Mannargudi I(Uzhavar Sandhai),18000,18000,18000,Tamil Nadu,Green Ginger
+25/10/2026,Lemon,310,Tiruvarur,Local,Mannargudi I(Uzhavar Sandhai),22000,22000,22000,Tamil Nadu,Lemon
+25/10/2026,Mousambi(Sweet Lime),77,Tiruvarur,Local,Mannargudi I(Uzhavar Sandhai),5000,5000,5000,Tamil Nadu,Mousambi
+25/10/2026,Potato,24,Tiruvarur,Local,Mannargudi I(Uzhavar Sandhai),3400,3400,3400,Tamil Nadu,Red Nanital
+25/10/2026,Tomato,78,Tiruvarur,Local,Mannargudi I(Uzhavar Sandhai),3800,3800,3800,Tamil Nadu,Deshi
+25/10/2026,Cauliflower,34,Tiruvarur,Local,Mannargudi II(Uzhavar Sandhai),7000,7000,7000,Tamil Nadu,Ranchi
+25/10/2026,Drumstick,168,Tiruvarur,Local,Mannargudi II(Uzhavar Sandhai),7600,7600,7600,Tamil Nadu,Drumstick
+25/10/2026,Garlic,25,Tiruvarur,Local,Mannargudi II(Uzhavar Sandhai),20000,20000,20000,Tamil Nadu,Garlic
+25/10/2026,Lemon,310,Tiruvarur,Local,Mannargudi II(Uzhavar Sandhai),22000,22000,22000,Tamil Nadu,Lemon
+25/10/2026,Lime,180,Tiruvarur,Local,Mannargudi II(Uzhavar Sandhai),4000,4000,4000,Tamil Nadu,Lime
+25/10/2026,Potato,24,Tiruvarur,Local,Mannargudi II(Uzhavar Sandhai),3400,3400,3400,Tamil Nadu,Red Nanital
+25/10/2026,Tomato,78,Tiruvarur,Local,Mannargudi II(Uzhavar Sandhai),3800,3800,3800,Tamil Nadu,Deshi
+25/10/2026,Beetroot,157,Tiruvarur,Local,Muthupettai(Uzhavar Sandhai),4400,4400,4400,Tamil Nadu,Beetroot
+25/10/2026,Bottle gourd,82,Tiruvarur,Local,Muthupettai(Uzhavar Sandhai),2800,2800,2800,Tamil Nadu,Bottle Gourd
+25/10/2026,Cabbage,154,Tiruvarur,Local,Muthupettai(Uzhavar Sandhai),3400,3400,3400,Tamil Nadu,Cabbage
+25/10/2026,Mango(Raw-Ripe),172,Tiruvarur,Local,Muthupettai(Uzhavar Sandhai),7000,7000,7000,Tamil Nadu,Mango - Raw-Ripe
+25/10/2026,Potato,24,Tiruvarur,Local,Muthupettai(Uzhavar Sandhai),3400,3400,3400,Tamil Nadu,Red Nanital
+25/10/2026,Pumpkin,84,Tiruvarur,Local,Muthupettai(Uzhavar Sandhai),2600,2600,2600,Tamil Nadu,Pumpkin
+25/10/2026,Tomato,78,Tiruvarur,Local,Muthupettai(Uzhavar Sandhai),3600,3600,3600,Tamil Nadu,Deshi
+25/10/2026,Bottle gourd,82,Tiruvarur,Local,Needamangalam(Uzhavar Sandhai),2800,2800,2800,Tamil Nadu,Bottle Gourd
+25/10/2026,Drumstick,168,Tiruvarur,Local,Needamangalam(Uzhavar Sandhai),7400,7400,7400,Tamil Nadu,Drumstick
+25/10/2026,Mango(Raw-Ripe),172,Tiruvarur,Local,Needamangalam(Uzhavar Sandhai),6400,6400,6400,Tamil Nadu,Mango - Raw-Ripe
+25/10/2026,Pumpkin,84,Tiruvarur,Local,Needamangalam(Uzhavar Sandhai),2800,2800,2800,Tamil Nadu,Pumpkin
+25/10/2026,Tomato,78,Tiruvarur,Local,Needamangalam(Uzhavar Sandhai),3600,3600,3600,Tamil Nadu,Deshi
+25/10/2026,Bottle gourd,82,Tiruvarur,Local,Tiruthuraipoondi(Uzhavar Sandhai),2400,2400,2400,Tamil Nadu,Bottle Gourd
+25/10/2026,Drumstick,168,Tiruvarur,Local,Tiruthuraipoondi(Uzhavar Sandhai),7000,7000,7000,Tamil Nadu,Drumstick
+25/10/2026,Groundnut,10,Tiruvarur,Local,Tiruthuraipoondi(Uzhavar Sandhai),6000,6000,6000,Tamil Nadu,Big (With Shell)
+25/10/2026,Lemon,310,Tiruvarur,Local,Tiruthuraipoondi(Uzhavar Sandhai),22000,22000,22000,Tamil Nadu,Lemon
+25/10/2026,Mango(Raw-Ripe),172,Tiruvarur,Local,Tiruthuraipoondi(Uzhavar Sandhai),7000,5000,6000,Tamil Nadu,Mango - Raw-Ripe
+25/10/2026,Bottle gourd,82,Tiruvarur,Local,Tiruvarur(Uzhavar Sandhai),3000,3000,3000,Tamil Nadu,Bottle Gourd
+25/10/2026,Drumstick,168,Tiruvarur,Local,Tiruvarur(Uzhavar Sandhai),7000,7000,7000,Tamil Nadu,Drumstick
+25/10/2026,Lime,180,Tiruvarur,Local,Tiruvarur(Uzhavar Sandhai),4000,4000,4000,Tamil Nadu,Lime
+25/10/2026,Mango(Raw-Ripe),172,Tiruvarur,Local,Tiruvarur(Uzhavar Sandhai),8000,8000,8000,Tamil Nadu,Mango - Raw-Ripe
+25/10/2026,Pumpkin,84,Tiruvarur,Local,Tiruvarur(Uzhavar Sandhai),3000,3000,3000,Tamil Nadu,Pumpkin
+25/10/2026,Tomato,78,Tiruvarur,Local,Tiruvarur(Uzhavar Sandhai),3800,3800,3800,Tamil Nadu,Deshi
+25/10/2026,Mango(Raw-Ripe),172,Tiruvarur,Local,Valangaiman RM,8000,8000,8000,Tamil Nadu,Mango - Raw-Ripe
+25/10/2026,Drumstick,168,Vellore,Local,Gudiyatham(Uzhavar Sandhai),5000,5000,5000,Tamil Nadu,Drumstick
+25/10/2026,Garlic,25,Vellore,Local,Gudiyatham(Uzhavar Sandhai),20000,20000,20000,Tamil Nadu,Garlic
+25/10/2026,Groundnut,10,Vellore,Local,Gudiyatham(Uzhavar Sandhai),7600,7600,7600,Tamil Nadu,Big (With Shell)
+25/10/2026,Potato,24,Vellore,Local,Gudiyatham(Uzhavar Sandhai),3000,3000,3000,Tamil Nadu,Red Nanital
+25/10/2026,Sweet Potato,152,Vellore,Local,Gudiyatham(Uzhavar Sandhai),4000,4000,4000,Tamil Nadu,Hosur Red
+25/10/2026,Tender Coconut,200,Vellore,Local,Gudiyatham(Uzhavar Sandhai),3500,3500,3500,Tamil Nadu,Tender Coconut
+25/10/2026,Tomato,78,Vellore,Local,Gudiyatham(Uzhavar Sandhai),3000,2500,2750,Tamil Nadu,Deshi
+25/10/2026,Yam(Ratalu),297,Vellore,Local,Gudiyatham(Uzhavar Sandhai),5600,5600,5600,Tamil Nadu,Yam (Ratalu)
+25/10/2026,Apple,17,Vellore,Local,Kahithapattarai(Uzhavar Sandhai),15000,12000,13500,Tamil Nadu,American
+25/10/2026,Bottle gourd,82,Vellore,Local,Kahithapattarai(Uzhavar Sandhai),1500,1500,1500,Tamil Nadu,Bottle Gourd
+25/10/2026,Cauliflower,34,Vellore,Local,Kahithapattarai(Uzhavar Sandhai),2500,2500,2500,Tamil Nadu,Ranchi
+25/10/2026,Colacasia,318,Vellore,Local,Kahithapattarai(Uzhavar Sandhai),4500,4500,4500,Tamil Nadu,Colacasia
+25/10/2026,Garlic,25,Vellore,Local,Kahithapattarai(Uzhavar Sandhai),20000,20000,20000,Tamil Nadu,Garlic
+25/10/2026,Groundnut,10,Vellore,Local,Kahithapattarai(Uzhavar Sandhai),7000,7000,7000,Tamil Nadu,Big (With Shell)
+25/10/2026,Knool Khol,177,Vellore,Local,Kahithapattarai(Uzhavar Sandhai),6600,6600,6600,Tamil Nadu,Knool Khol
+25/10/2026,Mango(Raw-Ripe),172,Vellore,Local,Kahithapattarai(Uzhavar Sandhai),8000,8000,8000,Tamil Nadu,Mango - Raw-Ripe
+25/10/2026,Pumpkin,84,Vellore,Local,Kahithapattarai(Uzhavar Sandhai),1500,1500,1500,Tamil Nadu,Pumpkin
+25/10/2026,Rose(Local),374,Vellore,Local,Kahithapattarai(Uzhavar Sandhai),9000,9000,9000,Tamil Nadu,Rose (Local)
+25/10/2026,Tamarind Fruit,261,Vellore,Local,Kahithapattarai(Uzhavar Sandhai),16000,10000,13000,Tamil Nadu,Tamarind Fruit
+25/10/2026,Yam(Ratalu),297,Vellore,Local,Kahithapattarai(Uzhavar Sandhai),5500,5500,5500,Tamil Nadu,Yam (Ratalu)
+25/10/2026,Beetroot,157,Vellore,Local,Katpadi (Uzhavar Sandhai),4000,4000,4000,Tamil Nadu,Beetroot
+25/10/2026,Bottle gourd,82,Vellore,Local,Katpadi (Uzhavar Sandhai),2500,2000,2250,Tamil Nadu,Bottle Gourd
+25/10/2026,Cabbage,154,Vellore,Local,Katpadi (Uzhavar Sandhai),2500,2500,2500,Tamil Nadu,Cabbage
+25/10/2026,Capsicum,164,Vellore,Local,Katpadi (Uzhavar Sandhai),5000,5000,5000,Tamil Nadu,Capsicum
+25/10/2026,Colacasia,318,Vellore,Local,Katpadi (Uzhavar Sandhai),4000,4000,4000,Tamil Nadu,Colacasia
+25/10/2026,Custard Apple(Sharifa),352,Vellore,Local,Katpadi (Uzhavar Sandhai),4500,4000,4250,Tamil Nadu,Custard Apple(Sharifa)
+25/10/2026,Drumstick,168,Vellore,Local,Katpadi (Uzhavar Sandhai),10000,10000,10000,Tamil Nadu,Drumstick
+25/10/2026,Garlic,25,Vellore,Local,Katpadi (Uzhavar Sandhai),20000,20000,20000,Tamil Nadu,Garlic
+25/10/2026,Grapes,22,Vellore,Local,Katpadi (Uzhavar Sandhai),12000,12000,12000,Tamil Nadu,Annabesahai
+25/10/2026,Groundnut,10,Vellore,Local,Katpadi (Uzhavar Sandhai),7500,7500,7500,Tamil Nadu,Big (With Shell)
+25/10/2026,Indian Beans(Seam),299,Vellore,Local,Katpadi (Uzhavar Sandhai),5500,5500,5500,Tamil Nadu,Indian Beans (Seam)
+25/10/2026,Knool Khol,177,Vellore,Local,Katpadi (Uzhavar Sandhai),4000,4000,4000,Tamil Nadu,Knool Khol
+25/10/2026,Marigold(Calcutta),235,Vellore,Local,Katpadi (Uzhavar Sandhai),15000,15000,15000,Tamil Nadu,Marigold(Calcutta)
+25/10/2026,Mousambi(Sweet Lime),77,Vellore,Local,Katpadi (Uzhavar Sandhai),8000,8000,8000,Tamil Nadu,Mousambi
+25/10/2026,Rose(Local),374,Vellore,Local,Katpadi (Uzhavar Sandhai),13000,13000,13000,Tamil Nadu,Rose (Local)
+25/10/2026,Sweet Potato,152,Vellore,Local,Katpadi (Uzhavar Sandhai),5000,4500,4750,Tamil Nadu,Hosur Red
+25/10/2026,Tender Coconut,200,Vellore,Local,Katpadi (Uzhavar Sandhai),4000,3000,3500,Tamil Nadu,Tender Coconut
+25/10/2026,Beetroot,157,Vellore,Local,Pallikonda(Uzhavar Sandhai),3500,3500,3500,Tamil Nadu,Beetroot
+25/10/2026,Bottle gourd,82,Vellore,Local,Pallikonda(Uzhavar Sandhai),2000,2000,2000,Tamil Nadu,Bottle Gourd
+25/10/2026,Cabbage,154,Vellore,Local,Pallikonda(Uzhavar Sandhai),3000,3000,3000,Tamil Nadu,Cabbage
+25/10/2026,Chow Chow,167,Vellore,Local,Pallikonda(Uzhavar Sandhai),3000,3000,3000,Tamil Nadu,Chow Chow
+25/10/2026,Groundnut,10,Vellore,Local,Pallikonda(Uzhavar Sandhai),8000,7000,7500,Tamil Nadu,Big (With Shell)
+25/10/2026,Lemon,310,Vellore,Local,Pallikonda(Uzhavar Sandhai),8000,8000,8000,Tamil Nadu,Lemon
+25/10/2026,Pumpkin,84,Vellore,Local,Pallikonda(Uzhavar Sandhai),2500,2500,2500,Tamil Nadu,Pumpkin
+25/10/2026,Tomato,78,Vellore,Local,Pallikonda(Uzhavar Sandhai),4000,3500,3750,Tamil Nadu,Deshi
+25/10/2026,Beetroot,157,Vellore,Local,Perampet(Uzhavar Sandhai),4600,4000,4300,Tamil Nadu,Beetroot
+25/10/2026,Bottle gourd,82,Vellore,Local,Perampet(Uzhavar Sandhai),1800,1500,1650,Tamil Nadu,Bottle Gourd
+25/10/2026,Cabbage,154,Vellore,Local,Perampet(Uzhavar Sandhai),3000,2500,2750,Tamil Nadu,Cabbage
+25/10/2026,Chow Chow,167,Vellore,Local,Perampet(Uzhavar Sandhai),4000,3500,3750,Tamil Nadu,Chow Chow
+25/10/2026,Colacasia,318,Vellore,Local,Perampet(Uzhavar Sandhai),5600,5000,5300,Tamil Nadu,Colacasia
+25/10/2026,Drumstick,168,Vellore,Local,Perampet(Uzhavar Sandhai),5000,5000,5000,Tamil Nadu,Drumstick
+25/10/2026,Garlic,25,Vellore,Local,Perampet(Uzhavar Sandhai),20000,19000,19500,Tamil Nadu,Garlic
+25/10/2026,Indian Beans(Seam),299,Vellore,Local,Perampet(Uzhavar Sandhai),6000,5500,5750,Tamil Nadu,Indian Beans (Seam)
+25/10/2026,Lemon,310,Vellore,Local,Perampet(Uzhavar Sandhai),15000,14000,14500,Tamil Nadu,Lemon
+25/10/2026,Potato,24,Vellore,Local,Perampet(Uzhavar Sandhai),3000,2500,2750,Tamil Nadu,Red Nanital
+25/10/2026,Pumpkin,84,Vellore,Local,Perampet(Uzhavar Sandhai),2500,2500,2500,Tamil Nadu,Pumpkin
+25/10/2026,Tender Coconut,200,Vellore,Local,Perampet(Uzhavar Sandhai),3000,2500,2750,Tamil Nadu,Tender Coconut
+25/10/2026,Tomato,78,Vellore,Local,Perampet(Uzhavar Sandhai),3600,3000,3300,Tamil Nadu,Deshi
+25/10/2026,Beetroot,157,Vellore,Local,Vellore RM,3400,3400,3400,Tamil Nadu,Beetroot
+25/10/2026,Chow Chow,167,Vellore,Local,Vellore RM,2500,2500,2500,Tamil Nadu,Chow Chow
+25/10/2026,Colacasia,318,Vellore,Local,Vellore RM,3500,3500,3500,Tamil Nadu,Colacasia
+25/10/2026,Custard Apple(Sharifa),352,Vellore,Local,Vellore RM,6000,6000,6000,Tamil Nadu,Custard Apple(Sharifa)
+25/10/2026,Drumstick,168,Vellore,Local,Vellore RM,10000,10000,10000,Tamil Nadu,Drumstick
+25/10/2026,Groundnut,10,Vellore,Local,Vellore RM,7000,7000,7000,Tamil Nadu,Big (With Shell)
+25/10/2026,Indian Beans(Seam),299,Vellore,Local,Vellore RM,4500,4500,4500,Tamil Nadu,Indian Beans (Seam)
+25/10/2026,Lemon,310,Vellore,Local,Vellore RM,14000,14000,14000,Tamil Nadu,Lemon
+25/10/2026,Mango(Raw-Ripe),172,Vellore,Local,Vellore RM,11000,11000,11000,Tamil Nadu,Mango - Raw-Ripe
+25/10/2026,Potato,24,Vellore,Local,Vellore RM,3400,2800,3100,Tamil Nadu,Red Nanital
+25/10/2026,Tender Coconut,200,Vellore,Local,Vellore RM,3000,3000,3000,Tamil Nadu,Tender Coconut
+25/10/2026,Tomato,78,Vellore,Local,Vellore RM,3800,3600,3700,Tamil Nadu,Deshi
+25/10/2026,Yam(Ratalu),297,Vellore,Local,Vellore RM,4500,4500,4500,Tamil Nadu,Yam (Ratalu)
+25/10/2026,Bottle gourd,82,Villupuram,Local,Gingee(Uzhavar Sandhai),2500,2500,2500,Tamil Nadu,Bottle Gourd
+25/10/2026,Cabbage,154,Villupuram,Local,Gingee(Uzhavar Sandhai),4000,4000,4000,Tamil Nadu,Cabbage
+25/10/2026,Chow Chow,167,Villupuram,Local,Gingee(Uzhavar Sandhai),4500,4500,4500,Tamil Nadu,Chow Chow
+25/10/2026,Colacasia,318,Villupuram,Local,Gingee(Uzhavar Sandhai),6000,6000,6000,Tamil Nadu,Colacasia
+25/10/2026,Drumstick,168,Villupuram,Local,Gingee(Uzhavar Sandhai),10000,10000,10000,Tamil Nadu,Drumstick
+25/10/2026,Ginger(Green),103,Villupuram,Local,Gingee(Uzhavar Sandhai),9000,9000,9000,Tamil Nadu,Green Ginger
+25/10/2026,Mango(Raw-Ripe),172,Villupuram,Local,Gingee(Uzhavar Sandhai),10000,10000,10000,Tamil Nadu,Mango - Raw-Ripe
+25/10/2026,Potato,24,Villupuram,Local,Gingee(Uzhavar Sandhai),4500,4500,4500,Tamil Nadu,Red Nanital
+25/10/2026,Pumpkin,84,Villupuram,Local,Gingee(Uzhavar Sandhai),2000,2000,2000,Tamil Nadu,Pumpkin
+25/10/2026,Tender Coconut,200,Villupuram,Local,Gingee(Uzhavar Sandhai),4000,3500,3750,Tamil Nadu,Tender Coconut
+25/10/2026,Yam(Ratalu),297,Villupuram,Local,Gingee(Uzhavar Sandhai),6000,6000,6000,Tamil Nadu,Yam (Ratalu)
+25/10/2026,Beetroot,157,Villupuram,Local,Tindivanam RM,4500,4500,4500,Tamil Nadu,Beetroot
+25/10/2026,Capsicum,164,Villupuram,Local,Tindivanam RM,7000,7000,7000,Tamil Nadu,Capsicum
+25/10/2026,Chow Chow,167,Villupuram,Local,Tindivanam RM,4500,4500,4500,Tamil Nadu,Chow Chow
+25/10/2026,Colacasia,318,Villupuram,Local,Tindivanam RM,5800,5800,5800,Tamil Nadu,Colacasia
+25/10/2026,Drumstick,168,Villupuram,Local,Tindivanam RM,6000,6000,6000,Tamil Nadu,Drumstick
+25/10/2026,Groundnut,10,Villupuram,Local,Tindivanam RM,6000,6000,6000,Tamil Nadu,Big (With Shell)
+25/10/2026,Knool Khol,177,Villupuram,Local,Tindivanam RM,5500,5500,5500,Tamil Nadu,Knool Khol
+25/10/2026,Mango(Raw-Ripe),172,Villupuram,Local,Tindivanam RM,5000,5000,5000,Tamil Nadu,Mango - Raw-Ripe
+25/10/2026,Marigold(Calcutta),235,Villupuram,Local,Tindivanam RM,30000,30000,30000,Tamil Nadu,Marigold(Calcutta)
+25/10/2026,Potato,24,Villupuram,Local,Tindivanam RM,4600,4600,4600,Tamil Nadu,Red Nanital
+25/10/2026,Pumpkin,84,Villupuram,Local,Tindivanam RM,2000,2000,2000,Tamil Nadu,Pumpkin
+25/10/2026,Rose(Local),374,Villupuram,Local,Tindivanam RM,30000,30000,30000,Tamil Nadu,Rose (Local)
+25/10/2026,Sweet Potato,152,Villupuram,Local,Tindivanam RM,4500,4500,4500,Tamil Nadu,Hosur Red
+25/10/2026,Tender Coconut,200,Villupuram,Local,Tindivanam RM,4000,3500,3750,Tamil Nadu,Tender Coconut
+25/10/2026,Yam(Ratalu),297,Villupuram,Local,Tindivanam RM,6000,6000,6000,Tamil Nadu,Yam (Ratalu)
+25/10/2026,Bottle gourd,82,Villupuram,Local,Villupuram(Uzhavar Sandhai),3000,3000,3000,Tamil Nadu,Bottle Gourd
+25/10/2026,Chow Chow,167,Villupuram,Local,Villupuram(Uzhavar Sandhai),5000,5000,5000,Tamil Nadu,Chow Chow
+25/10/2026,Drumstick,168,Villupuram,Local,Villupuram(Uzhavar Sandhai),8000,8000,8000,Tamil Nadu,Drumstick
+25/10/2026,Knool Khol,177,Villupuram,Local,Villupuram(Uzhavar Sandhai),5000,5000,5000,Tamil Nadu,Knool Khol
+25/10/2026,Lemon,310,Villupuram,Local,Villupuram(Uzhavar Sandhai),16000,16000,16000,Tamil Nadu,Lemon
+25/10/2026,Mango(Raw-Ripe),172,Villupuram,Local,Villupuram(Uzhavar Sandhai),14000,14000,14000,Tamil Nadu,Mango - Raw-Ripe
+25/10/2026,Marigold(Calcutta),235,Villupuram,Local,Villupuram(Uzhavar Sandhai),30000,30000,30000,Tamil Nadu,Marigold(Calcutta)
+25/10/2026,Pumpkin,84,Villupuram,Local,Villupuram(Uzhavar Sandhai),2000,2000,2000,Tamil Nadu,Pumpkin
+25/10/2026,Rose(Local),374,Villupuram,Local,Villupuram(Uzhavar Sandhai),30000,30000,30000,Tamil Nadu,Rose (Local)
+25/10/2026,Tender Coconut,200,Villupuram,Local,Villupuram(Uzhavar Sandhai),4000,4000,4000,Tamil Nadu,Tender Coconut
+25/10/2026,Tomato,78,Villupuram,Local,Villupuram(Uzhavar Sandhai),3500,3500,3500,Tamil Nadu,Deshi
+25/10/2026,Bottle gourd,82,Virudhunagar,Local,Aruppukottai(Uzhavar Sandhai),2000,1800,1900,Tamil Nadu,Bottle Gourd
+25/10/2026,Cabbage,154,Virudhunagar,Local,Aruppukottai(Uzhavar Sandhai),3500,3000,3250,Tamil Nadu,Cabbage
+25/10/2026,Cauliflower,34,Virudhunagar,Local,Aruppukottai(Uzhavar Sandhai),4000,3500,3750,Tamil Nadu,Ranchi
+25/10/2026,Ginger(Green),103,Virudhunagar,Local,Aruppukottai(Uzhavar Sandhai),20000,19000,19500,Tamil Nadu,Green Ginger
+25/10/2026,Lemon,310,Virudhunagar,Local,Aruppukottai(Uzhavar Sandhai),20000,19000,19500,Tamil Nadu,Lemon
+25/10/2026,Potato,24,Virudhunagar,Local,Aruppukottai(Uzhavar Sandhai),5000,4500,4750,Tamil Nadu,Red Nanital
+25/10/2026,Pumpkin,84,Virudhunagar,Local,Aruppukottai(Uzhavar Sandhai),2000,1500,1750,Tamil Nadu,Pumpkin
+25/10/2026,Tender Coconut,200,Virudhunagar,Local,Aruppukottai(Uzhavar Sandhai),5000,4500,4750,Tamil Nadu,Tender Coconut
+25/10/2026,Yam(Ratalu),297,Virudhunagar,Local,Aruppukottai(Uzhavar Sandhai),7000,6500,6750,Tamil Nadu,Yam (Ratalu)
+25/10/2026,Cauliflower,34,Virudhunagar,Local,Kariyapatti(Uzhavar Sandhai),4000,3500,3750,Tamil Nadu,Ranchi
+25/10/2026,Drumstick,168,Virudhunagar,Local,Kariyapatti(Uzhavar Sandhai),10000,9000,9500,Tamil Nadu,Drumstick
+25/10/2026,Ginger(Green),103,Virudhunagar,Local,Kariyapatti(Uzhavar Sandhai),20000,19000,19500,Tamil Nadu,Green Ginger
+25/10/2026,Potato,24,Virudhunagar,Local,Kariyapatti(Uzhavar Sandhai),5000,4500,4750,Tamil Nadu,Red Nanital
+25/10/2026,Pumpkin,84,Virudhunagar,Local,Kariyapatti(Uzhavar Sandhai),2000,1800,1900,Tamil Nadu,Pumpkin
+25/10/2026,Yam(Ratalu),297,Virudhunagar,Local,Kariyapatti(Uzhavar Sandhai),7000,6500,6750,Tamil Nadu,Yam (Ratalu)
+25/10/2026,Beetroot,157,Virudhunagar,Local,Rajapalayam(Uzhavar Sandhai),5000,4500,4750,Tamil Nadu,Beetroot
+25/10/2026,Bottle gourd,82,Virudhunagar,Local,Rajapalayam(Uzhavar Sandhai),2000,1500,1750,Tamil Nadu,Bottle Gourd
+25/10/2026,Chikoos(Sapota),71,Virudhunagar,Local,Rajapalayam(Uzhavar Sandhai),3500,3000,3250,Tamil Nadu,Sapota
+25/10/2026,Colacasia,318,Virudhunagar,Local,Rajapalayam(Uzhavar Sandhai),7000,6000,6500,Tamil Nadu,Colacasia
+25/10/2026,Drumstick,168,Virudhunagar,Local,Rajapalayam(Uzhavar Sandhai),11000,9000,10000,Tamil Nadu,Drumstick
+25/10/2026,Ginger(Green),103,Virudhunagar,Local,Rajapalayam(Uzhavar Sandhai),9000,8000,8500,Tamil Nadu,Green Ginger
+25/10/2026,Lime,180,Virudhunagar,Local,Rajapalayam(Uzhavar Sandhai),22000,20000,21000,Tamil Nadu,Lime
+25/10/2026,Tomato,78,Virudhunagar,Local,Rajapalayam(Uzhavar Sandhai),4500,4000,4250,Tamil Nadu,Deshi
+25/10/2026,Turnip,341,Virudhunagar,Local,Rajapalayam(Uzhavar Sandhai),9000,8000,8500,Tamil Nadu,Turnip
+25/10/2026,Beetroot,157,Virudhunagar,Local,Sathur(Uzhavar Sandhai),5000,4500,4750,Tamil Nadu,Beetroot
+25/10/2026,Bottle gourd,82,Virudhunagar,Local,Sathur(Uzhavar Sandhai),3000,2500,2750,Tamil Nadu,Bottle Gourd
+25/10/2026,Chikoos(Sapota),71,Virudhunagar,Local,Sathur(Uzhavar Sandhai),3000,2500,2750,Tamil Nadu,Sapota
+25/10/2026,Pumpkin,84,Virudhunagar,Local,Sathur(Uzhavar Sandhai),2000,1800,1900,Tamil Nadu,Pumpkin
+25/10/2026,Tomato,78,Virudhunagar,Local,Sathur(Uzhavar Sandhai),5000,4500,4750,Tamil Nadu,Deshi
+25/10/2026,Beetroot,157,Virudhunagar,Local,Sivakasi(Uzhavar Sandhai),5000,4000,4500,Tamil Nadu,Beetroot
+25/10/2026,Cabbage,154,Virudhunagar,Local,Sivakasi(Uzhavar Sandhai),4000,3500,3750,Tamil Nadu,Cabbage
+25/10/2026,Chow Chow,167,Virudhunagar,Local,Sivakasi(Uzhavar Sandhai),4000,3500,3750,Tamil Nadu,Chow Chow
+25/10/2026,Drumstick,168,Virudhunagar,Local,Sivakasi(Uzhavar Sandhai),10000,8000,9000,Tamil Nadu,Drumstick
+25/10/2026,Ginger(Green),103,Virudhunagar,Local,Sivakasi(Uzhavar Sandhai),20000,18000,19000,Tamil Nadu,Green Ginger
+25/10/2026,Potato,24,Virudhunagar,Local,Sivakasi(Uzhavar Sandhai),3500,3000,3250,Tamil Nadu,Red Nanital
+25/10/2026,Pumpkin,84,Virudhunagar,Local,Sivakasi(Uzhavar Sandhai),3000,2500,2750,Tamil Nadu,Pumpkin
+25/10/2026,Tomato,78,Virudhunagar,Local,Sivakasi(Uzhavar Sandhai),3500,3000,3250,Tamil Nadu,Deshi
+25/10/2026,Beetroot,157,Virudhunagar,Local,Srivilliputhur(Uzhavar Sandhai),5000,4500,4750,Tamil Nadu,Beetroot
+25/10/2026,Bottle gourd,82,Virudhunagar,Local,Srivilliputhur(Uzhavar Sandhai),2000,1700,1850,Tamil Nadu,Bottle Gourd
+25/10/2026,Cabbage,154,Virudhunagar,Local,Srivilliputhur(Uzhavar Sandhai),3500,3000,3250,Tamil Nadu,Cabbage
+25/10/2026,Cauliflower,34,Virudhunagar,Local,Srivilliputhur(Uzhavar Sandhai),3000,2500,2750,Tamil Nadu,Ranchi
+25/10/2026,Colacasia,318,Virudhunagar,Local,Srivilliputhur(Uzhavar Sandhai),6000,5000,5500,Tamil Nadu,Colacasia
+25/10/2026,Potato,24,Virudhunagar,Local,Srivilliputhur(Uzhavar Sandhai),3500,3000,3250,Tamil Nadu,Red Nanital
+25/10/2026,Pumpkin,84,Virudhunagar,Local,Srivilliputhur(Uzhavar Sandhai),2500,2000,2250,Tamil Nadu,Pumpkin
+25/10/2026,Tender Coconut,200,Virudhunagar,Local,Srivilliputhur(Uzhavar Sandhai),2500,2000,2250,Tamil Nadu,Tender Coconut
+25/10/2026,Tomato,78,Virudhunagar,Local,Srivilliputhur(Uzhavar Sandhai),4500,4000,4250,Tamil Nadu,Deshi
+25/10/2026,Yam(Ratalu),297,Virudhunagar,Local,Srivilliputhur(Uzhavar Sandhai),7000,6000,6500,Tamil Nadu,Yam (Ratalu)
+25/10/2026,Cauliflower,34,Virudhunagar,Local,Thalavaipuram(Uzhavar Sandhai),3500,2800,3150,Tamil Nadu,Ranchi
+25/10/2026,Drumstick,168,Virudhunagar,Local,Thalavaipuram(Uzhavar Sandhai),12000,10000,11000,Tamil Nadu,Drumstick
+25/10/2026,Lemon,310,Virudhunagar,Local,Thalavaipuram(Uzhavar Sandhai),25000,20000,22500,Tamil Nadu,Lemon
+25/10/2026,Yam(Ratalu),297,Virudhunagar,Local,Thalavaipuram(Uzhavar Sandhai),7000,5500,6250,Tamil Nadu,Yam (Ratalu)
+25/10/2026,Cabbage,154,Virudhunagar,Local,Virudhunagar(Uzhavar Sandhai),3500,3400,3450,Tamil Nadu,Cabbage
+25/10/2026,Potato,24,Virudhunagar,Local,Virudhunagar(Uzhavar Sandhai),3500,3400,3450,Tamil Nadu,Red Nanital
