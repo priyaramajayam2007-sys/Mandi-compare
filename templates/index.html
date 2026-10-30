@@ -5,81 +5,401 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Mandi Price Compare</title>
   <style>
-    body { font-family: Arial, sans-serif; max-width: 800px; margin: 20px auto; padding: 0 16px; }
-    label { display: block; margin: 10px 0; font-weight: bold; }
-    select { display: block; width: 100%; padding: 8px; margin-top: 4px; font-size: 16px; }
-    .best { background: #e6f4ea; border-left: 5px solid #2e7d32; padding: 12px; margin: 16px 0; }
-    table { width: 100%; border-collapse: collapse; margin: 16px 0; }
-    th, td { border: 1px solid #ccc; padding: 8px; text-align: left; }
-    th { background: #f2f2f2; }
-    .note { color: #666; font-size: 14px; }
+    :root {
+      --bg-color: #f4f6f4;
+      --card-bg: #ffffff;
+      --primary: #2e7d32;
+      --primary-dark: #1b5e20;
+      --primary-light: #e8f5e9;
+      --primary-border: #c8e6c9;
+      --text-main: #1c2a1e;
+      --text-muted: #536755;
+      --border-color: #dbe4dc;
+      --radius: 12px;
+      --shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
+    }
+
+    *, *::before, *::after {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+
+    body {
+      font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
+      background-color: var(--bg-color);
+      color: var(--text-main);
+      line-height: 1.5;
+      padding: 16px;
+    }
+
+    .container {
+      max-width: 860px;
+      margin: 0 auto;
+      display: flex;
+      flex-direction: column;
+      gap: 16px;
+    }
+
+    /* Header */
+    header {
+      padding: 8px 4px 0;
+    }
+
+    header h1 {
+      font-size: 1.75rem;
+      font-weight: 700;
+      color: var(--primary-dark);
+      letter-spacing: -0.5px;
+    }
+
+    header p {
+      color: var(--text-muted);
+      font-size: 0.95rem;
+      margin-top: 4px;
+    }
+
+    /* Cards */
+    .card {
+      background: var(--card-bg);
+      border: 1px solid var(--border-color);
+      border-radius: var(--radius);
+      padding: 20px;
+      box-shadow: var(--shadow);
+    }
+
+    .card-title {
+      font-size: 1.1rem;
+      font-weight: 600;
+      color: var(--primary-dark);
+      margin-bottom: 14px;
+    }
+
+    /* Form Controls */
+    .filters-grid {
+      display: grid;
+      grid-template-columns: 1fr;
+      gap: 16px;
+    }
+
+    @media (min-width: 640px) {
+      .filters-grid {
+        grid-template-columns: repeat(3, 1fr);
+      }
+    }
+
+    .form-group label {
+      display: block;
+      font-size: 0.85rem;
+      font-weight: 600;
+      color: var(--text-muted);
+      text-transform: uppercase;
+      letter-spacing: 0.5px;
+      margin-bottom: 6px;
+    }
+
+    .form-group select {
+      width: 100%;
+      min-height: 48px;
+      padding: 10px 14px;
+      font-size: 1rem;
+      color: var(--text-main);
+      background-color: #ffffff;
+      border: 1.5px solid var(--border-color);
+      border-radius: 8px;
+      appearance: auto;
+      cursor: pointer;
+      transition: border-color 0.2s, box-shadow 0.2s;
+    }
+
+    .form-group select:focus {
+      outline: none;
+      border-color: var(--primary);
+      box-shadow: 0 0 0 3px rgba(46, 125, 50, 0.15);
+    }
+
+    /* Summary Cards */
+    .summary-grid {
+      display: grid;
+      grid-template-columns: 1fr;
+      gap: 12px;
+    }
+
+    @media (min-width: 640px) {
+      .summary-grid {
+        grid-template-columns: repeat(3, 1fr);
+      }
+    }
+
+    .summary-card {
+      background: var(--card-bg);
+      border: 1px solid var(--border-color);
+      border-radius: var(--radius);
+      padding: 16px 18px;
+      box-shadow: var(--shadow);
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+    }
+
+    .summary-card.highlight {
+      background: var(--primary-light);
+      border-color: var(--primary-border);
+    }
+
+    .summary-label {
+      font-size: 0.8rem;
+      font-weight: 600;
+      color: var(--text-muted);
+      text-transform: uppercase;
+      letter-spacing: 0.5px;
+      margin-bottom: 6px;
+    }
+
+    .summary-card.highlight .summary-label {
+      color: var(--primary-dark);
+    }
+
+    .summary-value {
+      font-size: 1.5rem;
+      font-weight: 700;
+      color: var(--primary-dark);
+      line-height: 1.2;
+    }
+
+    .summary-value.text-sm {
+      font-size: 1.05rem;
+      word-break: break-word;
+    }
+
+    .summary-subtext {
+      font-size: 0.85rem;
+      color: var(--text-muted);
+      margin-top: 6px;
+    }
+
+    /* Table */
+    .table-responsive {
+      width: 100%;
+      overflow-x: auto;
+      -webkit-overflow-scrolling: touch;
+      margin-top: 4px;
+    }
+
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.95rem;
+      min-width: 480px;
+    }
+
+    th {
+      background-color: var(--primary-light);
+      color: var(--primary-dark);
+      font-weight: 600;
+      padding: 12px 14px;
+      border-bottom: 2px solid var(--primary-border);
+      text-align: left;
+      white-space: nowrap;
+    }
+
+    td {
+      padding: 12px 14px;
+      border-bottom: 1px solid var(--border-color);
+      color: var(--text-main);
+      white-space: nowrap;
+    }
+
+    tr:last-child td {
+      border-bottom: none;
+    }
+
+    tr:hover td {
+      background-color: #f9fbf9;
+    }
+
+    .price-col {
+      text-align: right;
+      font-variant-numeric: tabular-nums;
+    }
+
+    th.price-col {
+      text-align: right;
+    }
+
+    /* Chart */
+    .chart-wrapper {
+      position: relative;
+      width: 100%;
+      height: 280px;
+      margin-top: 4px;
+    }
+
+    /* Empty state */
+    .empty-state {
+      text-align: center;
+      padding: 32px 16px;
+      color: var(--text-muted);
+    }
+
+    /* Footer */
+    footer {
+      text-align: center;
+      font-size: 0.85rem;
+      color: var(--text-muted);
+      padding: 12px 8px 24px;
+      line-height: 1.6;
+    }
   </style>
 </head>
 <body>
-  <h1>🌾 Mandi Price Compare</h1>
+  <div class="container">
+    <header>
+      <h1>🌾 Mandi Price Compare</h1>
+      <p>Compare daily crop prices across mandis and agricultural markets</p>
+    </header>
 
-  {% if not commodities %}
-    <p>No data found. Run load_data.py first.</p>
-  {% else %}
-    <form method="get">
-      <label>Crop
-        <select name="commodity" onchange="this.form.submit()">
-          {% for c in commodities %}
-            <option value="{{ c }}" {{ 'selected' if c == commodity }}>{{ c }}</option>
-          {% endfor %}
-        </select>
-      </label>
-      <label>Variety
-        <select name="variety" onchange="this.form.submit()">
-          {% for v in varieties %}
-            <option value="{{ v }}" {{ 'selected' if v == variety }}>{{ v }}</option>
-          {% endfor %}
-        </select>
-      </label>
-      <label>Grade
-        <select name="grade" onchange="this.form.submit()">
-          {% for g in grades %}
-            <option value="{{ g }}" {{ 'selected' if g == grade }}>{{ g }}</option>
-          {% endfor %}
-        </select>
-      </label>
-    </form>
-
-    {% if latest %}
-      <div class="best">
-        <strong>Best market right now:</strong> {{ latest[0].Market }}
-        at {{ latest[0].Modal_Price | int }} (reported {{ latest[0].Arrival_Date }})
+    {% if not commodities %}
+      <div class="card empty-state">
+        <p>No data found. Run load_data.py first.</p>
+      </div>
+    {% else %}
+      <div class="card">
+        <form method="get" class="filters-grid">
+          <div class="form-group">
+            <label for="commodity">Crop</label>
+            <select id="commodity" name="commodity" onchange="this.form.submit()">
+              {% for c in commodities %}
+                <option value="{{ c }}" {{ 'selected' if c == commodity }}>{{ c }}</option>
+              {% endfor %}
+            </select>
+          </div>
+          <div class="form-group">
+            <label for="variety">Variety</label>
+            <select id="variety" name="variety" onchange="this.form.submit()">
+              {% for v in varieties %}
+                <option value="{{ v }}" {{ 'selected' if v == variety }}>{{ v }}</option>
+              {% endfor %}
+            </select>
+          </div>
+          <div class="form-group">
+            <label for="grade">Grade</label>
+            <select id="grade" name="grade" onchange="this.form.submit()">
+              {% for g in grades %}
+                <option value="{{ g }}" {{ 'selected' if g == grade }}>{{ g }}</option>
+              {% endfor %}
+            </select>
+          </div>
+        </form>
       </div>
 
-      <table>
-        <tr><th>Market</th><th>Date</th><th>Min</th><th>Modal</th><th>Max</th></tr>
-        {% for r in latest %}
-          <tr>
-            <td>{{ r.Market }}</td><td>{{ r.Arrival_Date }}</td>
-            <td>{{ r.Min_Price | int }}</td><td>{{ r.Modal_Price | int }}</td>
-            <td>{{ r.Max_Price | int }}</td>
-          </tr>
-        {% endfor %}
-      </table>
+      {% if latest %}
+        <div class="summary-grid">
+          <div class="summary-card highlight">
+            <span class="summary-label">Highest price right now</span>
+            <div class="summary-value">₹{{ latest[0].Modal_Price | int }}</div>
+            <div class="summary-subtext">{{ latest[0].Market }} (reported {{ latest[0].Arrival_Date }})</div>
+          </div>
+          <div class="summary-card">
+            <span class="summary-label">Number of markets</span>
+            <div class="summary-value">{{ latest | length }}</div>
+            <div class="summary-subtext">Active reporting mandis</div>
+          </div>
+          <div class="summary-card">
+            <span class="summary-label">Data last updated</span>
+            <div class="summary-value text-sm">{{ last_updated }}</div>
+            <div class="summary-subtext">Source synchronization</div>
+          </div>
+        </div>
 
-      <canvas id="chart" height="120"></canvas>
-      <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.1/dist/chart.umd.min.js"></script>
-      <script>
-        const rows = {{ latest | tojson }};
-        new Chart(document.getElementById("chart"), {
-          type: "bar",
-          data: {
-            labels: rows.map(r => r.Market),
-            datasets: [{ label: "Modal price", data: rows.map(r => r.Modal_Price) }]
-          }
-        });
-      </script>
-    {% else %}
-      <p>No prices for this choice.</p>
+        <div class="card">
+          <h2 class="card-title">Markets Overview</h2>
+          <div class="table-responsive">
+            <table>
+              <thead>
+                <tr>
+                  <th>Market</th>
+                  <th>Date</th>
+                  <th class="price-col">Min</th>
+                  <th class="price-col">Modal</th>
+                  <th class="price-col">Max</th>
+                </tr>
+              </thead>
+              <tbody>
+                {% for r in latest %}
+                  <tr>
+                    <td>{{ r.Market }}</td>
+                    <td>{{ r.Arrival_Date }}</td>
+                    <td class="price-col">{{ r.Min_Price | int }}</td>
+                    <td class="price-col"><strong>{{ r.Modal_Price | int }}</strong></td>
+                    <td class="price-col">{{ r.Max_Price | int }}</td>
+                  </tr>
+                {% endfor %}
+              </tbody>
+            </table>
+          </div>
+        </div>
+
+        <div class="card">
+          <h2 class="card-title">Price Comparison Chart</h2>
+          <div class="chart-wrapper">
+            <canvas id="chart"></canvas>
+          </div>
+        </div>
+        <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.1/dist/chart.umd.min.js"></script>
+        <script>
+          const rows = {{ latest | tojson }};
+          new Chart(document.getElementById("chart"), {
+            type: "bar",
+            data: {
+              labels: rows.map(r => r.Market),
+              datasets: [{
+                label: "Modal price",
+                data: rows.map(r => r.Modal_Price),
+                backgroundColor: "#2e7d32",
+                borderColor: "#1b5e20",
+                borderWidth: 1,
+                borderRadius: 4
+              }]
+            },
+            options: {
+              responsive: true,
+              maintainAspectRatio: false,
+              plugins: {
+                legend: {
+                  display: true,
+                  labels: {
+                    boxWidth: 12,
+                    color: "#1c2a1e",
+                    font: { family: "system-ui, sans-serif" }
+                  }
+                }
+              },
+              scales: {
+                y: {
+                  beginAtZero: false,
+                  grid: { color: "#eef2ef" },
+                  ticks: { color: "#536755" }
+                },
+                x: {
+                  grid: { display: false },
+                  ticks: { color: "#536755" }
+                }
+              }
+            }
+          });
+        </script>
+      {% else %}
+        <div class="card empty-state">
+          <p>No prices for this choice.</p>
+        </div>
+      {% endif %}
+
+      <footer>
+        <p>Data source: Agmarknet via data.gov.in.</p>
+        <p>Prices are usually per quintal; please confirm the unit on the data.gov.in page.</p>
+      </footer>
     {% endif %}
-
-    <p class="note">Data last updated: {{ last_updated }}. Source: Agmarknet via data.gov.in.
-      Prices are usually per quintal; please confirm the unit on the data.gov.in page.</p>
-  {% endif %}
+  </div>
 </body>
 </html>
